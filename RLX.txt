@@ -1,0 +1,2492 @@
+Insertion_age	Family	Specie
+2.18	RLX	L. perrieri
+2.36	RLX	L. perrieri
+1.69	RLX	L. perrieri
+2.15	RLX	L. perrieri
+0.97	RLX	L. perrieri
+2.12	RLX	L. perrieri
+2.95	RLX	L. perrieri
+1.53	RLX	L. perrieri
+2.69	RLX	L. perrieri
+2.1	RLX	L. perrieri
+2.8	RLX	L. perrieri
+2.8	RLX	L. perrieri
+1.34	RLX	L. perrieri
+1.88	RLX	L. perrieri
+2.14	RLX	L. perrieri
+1.74	RLX	L. perrieri
+0.87	RLX	L. perrieri
+2.42	RLX	L. perrieri
+1.95	RLX	L. perrieri
+1.18	RLX	L. perrieri
+0.88	RLX	L. perrieri
+1.96	RLX	L. perrieri
+1.74	RLX	L. perrieri
+2.14	RLX	L. perrieri
+1.56	RLX	L. perrieri
+3.13	RLX	L. perrieri
+1.87	RLX	L. perrieri
+1.82	RLX	L. perrieri
+1.9	RLX	L. perrieri
+2.03	RLX	L. perrieri
+2.09	RLX	L. perrieri
+3.23	RLX	L. perrieri
+2.2	RLX	L. perrieri
+3.06	RLX	L. perrieri
+2.3	RLX	L. perrieri
+1.83	RLX	L. perrieri
+2.03	RLX	L. perrieri
+1.99	RLX	L. perrieri
+2.58	RLX	L. perrieri
+3.56	RLX	L. perrieri
+2.65	RLX	L. perrieri
+2.09	RLX	L. perrieri
+2.38	RLX	L. perrieri
+3.33	RLX	L. perrieri
+1.96	RLX	L. perrieri
+2.75	RLX	L. perrieri
+2.28	RLX	L. perrieri
+2.76	RLX	L. perrieri
+2.48	RLX	L. perrieri
+2.35	RLX	L. perrieri
+2.47	RLX	L. perrieri
+2.19	RLX	L. perrieri
+2.79	RLX	L. perrieri
+2.12	RLX	L. perrieri
+0.33	RLX	L. perrieri
+1.13	RLX	L. perrieri
+2.18	RLX	L. perrieri
+1.86	RLX	L. perrieri
+2.31	RLX	L. perrieri
+2.18	RLX	L. perrieri
+1.51	RLX	L. perrieri
+1.71	RLX	L. perrieri
+2.04	RLX	L. perrieri
+2.76	RLX	L. perrieri
+2.46	RLX	L. perrieri
+2.93	RLX	L. perrieri
+2.01	RLX	L. perrieri
+2.37	RLX	L. perrieri
+2.19	RLX	L. perrieri
+1.52	RLX	L. perrieri
+3.2	RLX	L. perrieri
+2.19	RLX	L. perrieri
+1.59	RLX	L. perrieri
+2.14	RLX	L. perrieri
+2.12	RLX	L. perrieri
+1.51	RLX	L. perrieri
+2.78	RLX	L. perrieri
+3.42	RLX	L. perrieri
+1.99	RLX	L. perrieri
+2.76	RLX	L. perrieri
+3.86	RLX	L. perrieri
+1.52	RLX	L. perrieri
+1.44	RLX	L. perrieri
+2.43	RLX	L. perrieri
+2.23	RLX	L. perrieri
+1.49	RLX	L. perrieri
+2.61	RLX	L. perrieri
+1.92	RLX	L. perrieri
+2.09	RLX	L. perrieri
+2	RLX	L. perrieri
+2.5	RLX	L. perrieri
+2.62	RLX	L. perrieri
+3.08	RLX	L. perrieri
+1.45	RLX	L. perrieri
+3.43	RLX	L. perrieri
+1.94	RLX	L. perrieri
+1.95	RLX	L. perrieri
+2.67	RLX	L. perrieri
+3.07	RLX	L. perrieri
+1.55	RLX	L. perrieri
+1.86	RLX	L. perrieri
+2.31	RLX	L. perrieri
+1.53	RLX	L. perrieri
+2.27	RLX	L. perrieri
+2.04	RLX	L. perrieri
+1.08	RLX	L. perrieri
+1.55	RLX	L. perrieri
+2.11	RLX	L. perrieri
+1.57	RLX	L. perrieri
+1.88	RLX	L. perrieri
+2.32	RLX	L. perrieri
+1.97	RLX	L. perrieri
+1.91	RLX	L. perrieri
+0.34	RLX	L. perrieri
+2.09	RLX	L. perrieri
+1.18	RLX	L. perrieri
+0.6	RLX	L. perrieri
+1.39	RLX	L. perrieri
+0.8	RLX	L. perrieri
+2.03	RLX	L. perrieri
+1.75	RLX	L. perrieri
+1.38	RLX	L. perrieri
+2.85	RLX	L. perrieri
+2.71	RLX	L. perrieri
+2.85	RLX	L. perrieri
+2.95	RLX	L. perrieri
+2.19	RLX	L. perrieri
+2.59	RLX	L. perrieri
+3.05	RLX	L. perrieri
+3.13	RLX	L. perrieri
+0.77	RLX	L. perrieri
+1.75	RLX	L. perrieri
+2.46	RLX	L. perrieri
+0.68	RLX	L. perrieri
+1.32	RLX	L. perrieri
+3.47	RLX	L. perrieri
+2.74	RLX	L. perrieri
+1.53	RLX	L. perrieri
+3.23	RLX	L. perrieri
+2.72	RLX	L. perrieri
+0.12	RLX	L. perrieri
+2.58	RLX	L. perrieri
+2.75	RLX	L. perrieri
+1.33	RLX	L. perrieri
+2.04	RLX	L. perrieri
+1.71	RLX	L. perrieri
+0.48	RLX	L. perrieri
+0.25	RLX	L. perrieri
+0.87	RLX	L. perrieri
+1.46	RLX	L. perrieri
+1.24	RLX	L. perrieri
+2.06	RLX	L. perrieri
+1.12	RLX	L. perrieri
+1.93	RLX	L. perrieri
+1.39	RLX	L. perrieri
+1.8	RLX	L. perrieri
+2.75	RLX	L. perrieri
+0.97	RLX	L. perrieri
+2.17	RLX	L. perrieri
+0.84	RLX	L. perrieri
+1.24	RLX	L. perrieri
+1.38	RLX	L. perrieri
+1.02	RLX	L. perrieri
+0.33	RLX	L. perrieri
+0.34	RLX	L. perrieri
+0.65	RLX	L. perrieri
+0.91	RLX	L. perrieri
+0.92	RLX	L. perrieri
+1.98	RLX	L. perrieri
+2.38	RLX	L. perrieri
+2.81	RLX	L. perrieri
+1.63	RLX	L. perrieri
+2.02	RLX	L. perrieri
+1.69	RLX	L. perrieri
+2.35	RLX	L. perrieri
+1.88	RLX	L. perrieri
+2.76	RLX	L. perrieri
+2.62	RLX	L. perrieri
+2.24	RLX	L. perrieri
+2.47	RLX	L. perrieri
+1.65	RLX	L. perrieri
+1.64	RLX	L. perrieri
+1.01	RLX	L. perrieri
+2.48	RLX	L. perrieri
+1.78	RLX	L. perrieri
+1.57	RLX	O. barthii
+1.63	RLX	O. barthii
+1.22	RLX	O. barthii
+1.49	RLX	O. barthii
+1.89	RLX	O. barthii
+1.89	RLX	O. barthii
+3.34	RLX	O. barthii
+1.34	RLX	O. barthii
+1.7	RLX	O. barthii
+2.25	RLX	O. barthii
+1.55	RLX	O. barthii
+1.71	RLX	O. barthii
+1.83	RLX	O. barthii
+0.74	RLX	O. barthii
+1.49	RLX	O. barthii
+2.5	RLX	O. barthii
+2.43	RLX	O. barthii
+2.76	RLX	O. barthii
+0.78	RLX	O. barthii
+1.78	RLX	O. barthii
+1.66	RLX	O. barthii
+1.22	RLX	O. barthii
+2.33	RLX	O. barthii
+0.71	RLX	O. barthii
+2.55	RLX	O. barthii
+1.71	RLX	O. barthii
+2.07	RLX	O. barthii
+2.56	RLX	O. barthii
+2.92	RLX	O. barthii
+1.19	RLX	O. barthii
+0.85	RLX	O. barthii
+1.95	RLX	O. barthii
+2.2	RLX	O. barthii
+1	RLX	O. barthii
+1.78	RLX	O. barthii
+1.54	RLX	O. barthii
+1.29	RLX	O. barthii
+1.22	RLX	O. barthii
+1.73	RLX	O. barthii
+1.5	RLX	O. barthii
+1.49	RLX	O. barthii
+1.7	RLX	O. barthii
+2.94	RLX	O. barthii
+1.71	RLX	O. barthii
+1.8	RLX	O. barthii
+0.26	RLX	O. barthii
+0.99	RLX	O. barthii
+1.44	RLX	O. barthii
+1.19	RLX	O. barthii
+1.86	RLX	O. barthii
+0.77	RLX	O. barthii
+1.69	RLX	O. barthii
+2.48	RLX	O. barthii
+3.65	RLX	O. barthii
+2.37	RLX	O. barthii
+1.78	RLX	O. barthii
+1.54	RLX	O. barthii
+1.29	RLX	O. barthii
+3.69	RLX	O. barthii
+1.46	RLX	O. barthii
+2.4	RLX	O. barthii
+1.41	RLX	O. barthii
+3.3	RLX	O. barthii
+1.89	RLX	O. barthii
+2.84	RLX	O. barthii
+2.97	RLX	O. barthii
+2.45	RLX	O. barthii
+2	RLX	O. barthii
+1.59	RLX	O. barthii
+1.08	RLX	O. barthii
+2.03	RLX	O. barthii
+2.11	RLX	O. barthii
+2.33	RLX	O. barthii
+1.31	RLX	O. barthii
+1.59	RLX	O. barthii
+1.38	RLX	O. barthii
+1.54	RLX	O. barthii
+0.71	RLX	O. barthii
+0.65	RLX	O. barthii
+1.35	RLX	O. barthii
+0.85	RLX	O. barthii
+1.36	RLX	O. barthii
+1.66	RLX	O. barthii
+1.86	RLX	O. barthii
+1.26	RLX	O. barthii
+2.6	RLX	O. barthii
+1.68	RLX	O. barthii
+0.91	RLX	O. barthii
+1.72	RLX	O. barthii
+1.68	RLX	O. barthii
+1.79	RLX	O. barthii
+1.69	RLX	O. barthii
+2.14	RLX	O. barthii
+3.09	RLX	O. barthii
+2.33	RLX	O. barthii
+0.99	RLX	O. barthii
+1.74	RLX	O. barthii
+1.36	RLX	O. barthii
+1.64	RLX	O. barthii
+1.68	RLX	O. barthii
+1.05	RLX	O. barthii
+1.29	RLX	O. barthii
+1.53	RLX	O. barthii
+1.56	RLX	O. barthii
+1.48	RLX	O. barthii
+0.81	RLX	O. barthii
+1.15	RLX	O. barthii
+1.74	RLX	O. barthii
+2.42	RLX	O. barthii
+1.52	RLX	O. barthii
+1.63	RLX	O. barthii
+2.56	RLX	O. barthii
+1.58	RLX	O. barthii
+1.62	RLX	O. barthii
+1.74	RLX	O. barthii
+1.7	RLX	O. barthii
+2.09	RLX	O. barthii
+1.09	RLX	O. barthii
+0.86	RLX	O. barthii
+1.56	RLX	O. barthii
+1.11	RLX	O. barthii
+2	RLX	O. barthii
+2.08	RLX	O. barthii
+2.23	RLX	O. barthii
+1.92	RLX	O. barthii
+2.18	RLX	O. barthii
+1.38	RLX	O. barthii
+2.51	RLX	O. barthii
+2.22	RLX	O. barthii
+1.6	RLX	O. barthii
+0.84	RLX	O. barthii
+1.32	RLX	O. barthii
+1.84	RLX	O. barthii
+1.25	RLX	O. barthii
+1.4	RLX	O. barthii
+1.42	RLX	O. barthii
+1.47	RLX	O. barthii
+1.02	RLX	O. barthii
+1.14	RLX	O. barthii
+1.48	RLX	O. barthii
+0.65	RLX	O. barthii
+2.07	RLX	O. barthii
+1.82	RLX	O. barthii
+2.28	RLX	O. barthii
+0.94	RLX	O. barthii
+1.46	RLX	O. barthii
+0.94	RLX	O. barthii
+2.16	RLX	O. barthii
+1.17	RLX	O. barthii
+2.06	RLX	O. barthii
+1.86	RLX	O. barthii
+2.06	RLX	O. barthii
+0.43	RLX	O. barthii
+0.05	RLX	O. barthii
+1.46	RLX	O. barthii
+2	RLX	O. barthii
+1.61	RLX	O. barthii
+1.45	RLX	O. barthii
+1.19	RLX	O. barthii
+1.69	RLX	O. barthii
+1.22	RLX	O. barthii
+2.26	RLX	O. barthii
+2.1	RLX	O. barthii
+1.14	RLX	O. barthii
+2.21	RLX	O. barthii
+1.7	RLX	O. barthii
+3.4	RLX	O. barthii
+1.24	RLX	O. barthii
+1.97	RLX	O. barthii
+2.45	RLX	O. barthii
+3.21	RLX	O. barthii
+3.54	RLX	O. barthii
+2.08	RLX	O. barthii
+2.22	RLX	O. barthii
+0.91	RLX	O. barthii
+2.56	RLX	O. barthii
+3.1	RLX	O. barthii
+2.01	RLX	O. barthii
+1.76	RLX	O. barthii
+2.57	RLX	O. barthii
+2.52	RLX	O. barthii
+1.18	RLX	O. barthii
+3.39	RLX	O. barthii
+3.87	RLX	O. barthii
+3.91	RLX	O. barthii
+0.75	RLX	O. barthii
+2.62	RLX	O. barthii
+3.66	RLX	O. barthii
+3.18	RLX	O. barthii
+3.38	RLX	O. barthii
+1.23	RLX	O. barthii
+2.81	RLX	O. barthii
+1.23	RLX	O. barthii
+1.87	RLX	O. barthii
+1.58	RLX	O. barthii
+1.43	RLX	O. barthii
+3.25	RLX	O. barthii
+2.65	RLX	O. brachyantha
+2.66	RLX	O. brachyantha
+2.73	RLX	O. brachyantha
+2.18	RLX	O. brachyantha
+2.27	RLX	O. brachyantha
+2.44	RLX	O. brachyantha
+2.67	RLX	O. brachyantha
+2.66	RLX	O. brachyantha
+2.44	RLX	O. brachyantha
+2.6	RLX	O. brachyantha
+3.15	RLX	O. brachyantha
+3.6	RLX	O. brachyantha
+3.54	RLX	O. brachyantha
+2.5	RLX	O. brachyantha
+3.11	RLX	O. brachyantha
+1.5	RLX	O. brachyantha
+2.81	RLX	O. brachyantha
+3.07	RLX	O. brachyantha
+3.59	RLX	O. brachyantha
+2.31	RLX	O. brachyantha
+2.45	RLX	O. brachyantha
+2.72	RLX	O. brachyantha
+1.83	RLX	O. brachyantha
+0.37	RLX	O. brachyantha
+1.64	RLX	O. brachyantha
+1.53	RLX	O. brachyantha
+1.21	RLX	O. brachyantha
+1.53	RLX	O. brachyantha
+3.15	RLX	O. brachyantha
+1.24	RLX	O. brachyantha
+1.82	RLX	O. brachyantha
+3.43	RLX	O. brachyantha
+1.11	RLX	O. brachyantha
+3.47	RLX	O. brachyantha
+2.54	RLX	O. brachyantha
+1.16	RLX	O. brachyantha
+3.68	RLX	O. brachyantha
+3.26	RLX	O. brachyantha
+3.47	RLX	O. brachyantha
+2.75	RLX	O. brachyantha
+2.63	RLX	O. brachyantha
+1.71	RLX	O. brachyantha
+2.43	RLX	O. brachyantha
+1.18	RLX	O. brachyantha
+2.88	RLX	O. brachyantha
+3.09	RLX	O. brachyantha
+2.48	RLX	O. brachyantha
+2.05	RLX	O. brachyantha
+2.16	RLX	O. brachyantha
+2.25	RLX	O. brachyantha
+3	RLX	O. brachyantha
+2.76	RLX	O. brachyantha
+2.3	RLX	O. brachyantha
+2.17	RLX	O. brachyantha
+1.34	RLX	O. brachyantha
+2.12	RLX	O. brachyantha
+2.7	RLX	O. brachyantha
+3.2	RLX	O. brachyantha
+2.12	RLX	O. brachyantha
+3.34	RLX	O. brachyantha
+3.55	RLX	O. brachyantha
+2.86	RLX	O. brachyantha
+2.35	RLX	O. brachyantha
+1.08	RLX	O. glaberrima
+1.89	RLX	O. glaberrima
+1.41	RLX	O. glaberrima
+1.03	RLX	O. glaberrima
+2.34	RLX	O. glaberrima
+1.59	RLX	O. glaberrima
+1.42	RLX	O. glaberrima
+0.39	RLX	O. glaberrima
+1.11	RLX	O. glaberrima
+1.86	RLX	O. glaberrima
+0.9	RLX	O. glaberrima
+1.93	RLX	O. glaberrima
+1.48	RLX	O. glaberrima
+1.98	RLX	O. glaberrima
+1.17	RLX	O. glaberrima
+1.07	RLX	O. glaberrima
+1.01	RLX	O. glaberrima
+2.38	RLX	O. glaberrima
+1.31	RLX	O. glaberrima
+1.65	RLX	O. glaberrima
+1.41	RLX	O. glaberrima
+2.63	RLX	O. glaberrima
+1.73	RLX	O. glaberrima
+1.21	RLX	O. glaberrima
+1.64	RLX	O. glaberrima
+2.33	RLX	O. glaberrima
+1.14	RLX	O. glaberrima
+0.92	RLX	O. glaberrima
+2.45	RLX	O. glaberrima
+1.82	RLX	O. glaberrima
+1.82	RLX	O. glaberrima
+1.98	RLX	O. glaberrima
+0.31	RLX	O. glaberrima
+1.58	RLX	O. glaberrima
+2.17	RLX	O. glaberrima
+1.19	RLX	O. glaberrima
+1.22	RLX	O. glaberrima
+0.99	RLX	O. glaberrima
+3.06	RLX	O. glaberrima
+0.29	RLX	O. glaberrima
+0.5	RLX	O. glaberrima
+0.79	RLX	O. glaberrima
+0.99	RLX	O. glaberrima
+1.47	RLX	O. glaberrima
+1.57	RLX	O. glaberrima
+1.48	RLX	O. glaberrima
+1.17	RLX	O. glaberrima
+1.6	RLX	O. glaberrima
+2.27	RLX	O. glaberrima
+2.78	RLX	O. glaberrima
+1.53	RLX	O. glaberrima
+1.87	RLX	O. glaberrima
+3.29	RLX	O. glaberrima
+2.18	RLX	O. glaberrima
+2.4	RLX	O. glaberrima
+1.95	RLX	O. glaberrima
+1.01	RLX	O. glaberrima
+1.01	RLX	O. glaberrima
+2.06	RLX	O. glaberrima
+1.58	RLX	O. glaberrima
+1.31	RLX	O. glaberrima
+1.73	RLX	O. glaberrima
+1.49	RLX	O. glaberrima
+1.58	RLX	O. glaberrima
+1.29	RLX	O. glaberrima
+0.59	RLX	O. glaberrima
+1.12	RLX	O. glaberrima
+1.82	RLX	O. glaberrima
+0.59	RLX	O. glaberrima
+1.39	RLX	O. glaberrima
+1.39	RLX	O. glaberrima
+1.7	RLX	O. glaberrima
+2.94	RLX	O. glaberrima
+1.39	RLX	O. glaberrima
+1.12	RLX	O. glaberrima
+2.59	RLX	O. glaberrima
+1.92	RLX	O. glaberrima
+1.73	RLX	O. glaberrima
+2.88	RLX	O. glaberrima
+2.98	RLX	O. glaberrima
+2.63	RLX	O. glaberrima
+1.57	RLX	O. glaberrima
+2.24	RLX	O. glaberrima
+2.56	RLX	O. glaberrima
+1.61	RLX	O. glaberrima
+1.7	RLX	O. glaberrima
+1.82	RLX	O. glaberrima
+2.22	RLX	O. glaberrima
+1.65	RLX	O. glaberrima
+2.3	RLX	O. glaberrima
+3.36	RLX	O. glaberrima
+1.29	RLX	O. glaberrima
+1.83	RLX	O. glaberrima
+1.03	RLX	O. glaberrima
+1.66	RLX	O. glaberrima
+3.11	RLX	O. glaberrima
+1.25	RLX	O. glaberrima
+1.17	RLX	O. glaberrima
+1.39	RLX	O. glaberrima
+1.59	RLX	O. glaberrima
+2.54	RLX	O. glaberrima
+2.54	RLX	O. glaberrima
+0.54	RLX	O. glaberrima
+0.54	RLX	O. glaberrima
+1.3	RLX	O. glaberrima
+1.3	RLX	O. glaberrima
+2.58	RLX	O. glaberrima
+3.13	RLX	O. glaberrima
+2.45	RLX	O. glaberrima
+2.31	RLX	O. glaberrima
+1.7	RLX	O. glaberrima
+2.81	RLX	O. glaberrima
+1.15	RLX	O. glaberrima
+2.31	RLX	O. glaberrima
+2.19	RLX	O. glaberrima
+2.19	RLX	O. glaberrima
+1.17	RLX	O. glaberrima
+1.9	RLX	O. glaberrima
+1.77	RLX	O. glaberrima
+1.66	RLX	O. glaberrima
+1.42	RLX	O. glaberrima
+1.09	RLX	O. glaberrima
+0.8	RLX	O. glaberrima
+1.07	RLX	O. glaberrima
+1.45	RLX	O. glaberrima
+1.22	RLX	O. glaberrima
+1.2	RLX	O. glaberrima
+1.75	RLX	O. glaberrima
+1.6	RLX	O. glaberrima
+1.05	RLX	O. glaberrima
+1.83	RLX	O. glaberrima
+2.7	RLX	O. glaberrima
+1.46	RLX	O. glaberrima
+1.35	RLX	O. glaberrima
+0.65	RLX	O. glaberrima
+1.64	RLX	O. glaberrima
+2.03	RLX	O. glaberrima
+1.42	RLX	O. glaberrima
+2.6	RLX	O. glaberrima
+1.91	RLX	O. glaberrima
+1.58	RLX	O. glaberrima
+1.03	RLX	O. glaberrima
+1.67	RLX	O. glaberrima
+1.55	RLX	O. glaberrima
+2.29	RLX	O. glaberrima
+1.41	RLX	O. glaberrima
+0.75	RLX	O. glaberrima
+2.24	RLX	O. glaberrima
+2.91	RLX	O. glaberrima
+2.48	RLX	O. glaberrima
+1.59	RLX	O. glaberrima
+2.5	RLX	O. glaberrima
+1.31	RLX	O. glaberrima
+1.44	RLX	O. glaberrima
+1.44	RLX	O. glaberrima
+1.01	RLX	O. glaberrima
+2	RLX	O. glaberrima
+1.92	RLX	O. glaberrima
+1.47	RLX	O. glaberrima
+2.29	RLX	O. glaberrima
+1.44	RLX	O. glaberrima
+1.33	RLX	O. glaberrima
+1.28	RLX	O. glaberrima
+0.85	RLX	O. glaberrima
+1.17	RLX	O. glaberrima
+0.76	RLX	O. glaberrima
+1.3	RLX	O. glaberrima
+1.39	RLX	O. glaberrima
+1.71	RLX	O. glaberrima
+1.35	RLX	O. glaberrima
+1.81	RLX	O. glaberrima
+1.76	RLX	O. glaberrima
+2.42	RLX	O. glaberrima
+1.64	RLX	O. glaberrima
+0.52	RLX	O. glaberrima
+2.58	RLX	O. glaberrima
+2.21	RLX	O. glaberrima
+1.78	RLX	O. glaberrima
+2.2	RLX	O. glaberrima
+1.84	RLX	O. glaberrima
+1.64	RLX	O. glaberrima
+2.1	RLX	O. glaberrima
+1.28	RLX	O. glaberrima
+0.86	RLX	O. glaberrima
+0.8	RLX	O. glaberrima
+1.44	RLX	O. glaberrima
+1.66	RLX	O. glaberrima
+2.18	RLX	O. glaberrima
+1.24	RLX	O. glaberrima
+1.13	RLX	O. glaberrima
+2.95	RLX	O. glaberrima
+1.38	RLX	O. glaberrima
+2.06	RLX	O. glaberrima
+0.75	RLX	O. glaberrima
+1.52	RLX	O. glaberrima
+1.76	RLX	O. glaberrima
+1.05	RLX	O. glaberrima
+1.05	RLX	O. glaberrima
+1.56	RLX	O. glaberrima
+1.64	RLX	O. glaberrima
+1.42	RLX	O. glaberrima
+1.41	RLX	O. glaberrima
+1.44	RLX	O. glaberrima
+2.11	RLX	O. glaberrima
+0.94	RLX	O. glaberrima
+2.1	RLX	O. glaberrima
+1.05	RLX	O. glaberrima
+1.28	RLX	O. glaberrima
+0.81	RLX	O. glaberrima
+1.49	RLX	O. glaberrima
+0.67	RLX	O. glaberrima
+1.45	RLX	O. glaberrima
+1.45	RLX	O. glaberrima
+2.14	RLX	O. glaberrima
+1.65	RLX	O. glaberrima
+1.57	RLX	O. glaberrima
+1.71	RLX	O. glaberrima
+2.16	RLX	O. glaberrima
+0.83	RLX	O. glaberrima
+0.98	RLX	O. glaberrima
+0.99	RLX	O. glaberrima
+1.39	RLX	O. glaberrima
+1.56	RLX	O. glaberrima
+1.63	RLX	O. glaberrima
+1.86	RLX	O. glaberrima
+2.26	RLX	O. glaberrima
+1.03	RLX	O. glaberrima
+1.16	RLX	O. glaberrima
+1.03	RLX	O. glaberrima
+0.59	RLX	O. glaberrima
+1.41	RLX	O. glaberrima
+1.37	RLX	O. glaberrima
+0.81	RLX	O. glaberrima
+1.41	RLX	O. glaberrima
+2.22	RLX	O. glaberrima
+0.28	RLX	O. glaberrima
+1.02	RLX	O. glaberrima
+2.46	RLX	O. glaberrima
+1.19	RLX	O. glaberrima
+1.17	RLX	O. glaberrima
+1.78	RLX	O. glaberrima
+1.08	RLX	O. glaberrima
+1.19	RLX	O. glaberrima
+0.61	RLX	O. glaberrima
+1.61	RLX	O. glaberrima
+1.2	RLX	O. glaberrima
+0.81	RLX	O. glaberrima
+1.32	RLX	O. glaberrima
+0.73	RLX	O. glaberrima
+1.69	RLX	O. glaberrima
+1.22	RLX	O. glaberrima
+1.84	RLX	O. glaberrima
+2.3	RLX	O. glaberrima
+2.11	RLX	O. glaberrima
+1.38	RLX	O. glaberrima
+1.16	RLX	O. glaberrima
+2.1	RLX	O. glaberrima
+1.89	RLX	O. glaberrima
+1.24	RLX	O. glaberrima
+1.62	RLX	O. glaberrima
+0.44	RLX	O. glaberrima
+1.3	RLX	O. glaberrima
+1.49	RLX	O. glaberrima
+1.82	RLX	O. glaberrima
+1.78	RLX	O. glaberrima
+3.1	RLX	O. glaberrima
+0.52	RLX	O. glaberrima
+3.59	RLX	O. glaberrima
+3.08	RLX	O. glaberrima
+2.4	RLX	O. glaberrima
+2.45	RLX	O. glaberrima
+1.34	RLX	O. glaberrima
+0.88	RLX	O. glaberrima
+2.91	RLX	O. glaberrima
+3.1	RLX	O. glaberrima
+1.83	RLX	O. glaberrima
+2.57	RLX	O. glaberrima
+1.9	RLX	O. glaberrima
+2.07	RLX	O. glaberrima
+2.36	RLX	O. glaberrima
+1.36	RLX	O. glaberrima
+1.97	RLX	O. glaberrima
+2.95	RLX	O. glaberrima
+0.44	RLX	O. glaberrima
+2.63	RLX	O. glaberrima
+2.63	RLX	O. glaberrima
+1.73	RLX	O. glaberrima
+3.42	RLX	O. glaberrima
+3.4	RLX	O. glaberrima
+2.88	RLX	O. glaberrima
+3.93	RLX	O. glaberrima
+1.34	RLX	O. glaberrima
+2.26	RLX	O. glaberrima
+1.28	RLX	O. glaberrima
+1.77	RLX	O. glaberrima
+3.65	RLX	O. glaberrima
+3.25	RLX	O. glaberrima
+2.16	RLX	O. glaberrima
+1.87	RLX	O. glaberrima
+3.14	RLX	O. glaberrima
+2.84	RLX	O. glaberrima
+1.39	RLX	O. glaberrima
+1.56	RLX	O. glaberrima
+3.5	RLX	O. glaberrima
+1.61	RLX	O. glaberrima
+2.09	RLX	O. glaberrima
+1.06	RLX	O. glaberrima
+2.21	RLX	O. glaberrima
+1.84	RLX	O. glaberrima
+1.76	RLX	O. glaberrima
+1.4	RLX	O. glaberrima
+2.28	RLX	O. glaberrima
+2.07	RLX	O. glumaepatula
+1.71	RLX	O. glumaepatula
+2.58	RLX	O. glumaepatula
+1.53	RLX	O. glumaepatula
+3.54	RLX	O. glumaepatula
+1.48	RLX	O. glumaepatula
+2.48	RLX	O. glumaepatula
+1.78	RLX	O. glumaepatula
+2.04	RLX	O. glumaepatula
+3.49	RLX	O. glumaepatula
+1.21	RLX	O. glumaepatula
+0.41	RLX	O. glumaepatula
+1	RLX	O. glumaepatula
+2.49	RLX	O. glumaepatula
+1.35	RLX	O. glumaepatula
+1.7	RLX	O. glumaepatula
+2	RLX	O. glumaepatula
+1.15	RLX	O. glumaepatula
+1.85	RLX	O. glumaepatula
+2.06	RLX	O. glumaepatula
+1.04	RLX	O. glumaepatula
+2.96	RLX	O. glumaepatula
+2.04	RLX	O. glumaepatula
+1.75	RLX	O. glumaepatula
+1.34	RLX	O. glumaepatula
+3.29	RLX	O. glumaepatula
+1.63	RLX	O. glumaepatula
+2.85	RLX	O. glumaepatula
+0.8	RLX	O. glumaepatula
+1.58	RLX	O. glumaepatula
+1.03	RLX	O. glumaepatula
+1.3	RLX	O. glumaepatula
+1.2	RLX	O. glumaepatula
+2.34	RLX	O. glumaepatula
+1.46	RLX	O. glumaepatula
+1.22	RLX	O. glumaepatula
+0.92	RLX	O. glumaepatula
+0.71	RLX	O. glumaepatula
+1.63	RLX	O. glumaepatula
+1.31	RLX	O. glumaepatula
+3.07	RLX	O. glumaepatula
+1.66	RLX	O. glumaepatula
+3.35	RLX	O. glumaepatula
+1.31	RLX	O. glumaepatula
+1.3	RLX	O. glumaepatula
+1.17	RLX	O. glumaepatula
+2.34	RLX	O. glumaepatula
+3.01	RLX	O. glumaepatula
+2.89	RLX	O. glumaepatula
+2.77	RLX	O. glumaepatula
+1.54	RLX	O. glumaepatula
+2.3	RLX	O. glumaepatula
+2.64	RLX	O. glumaepatula
+1.59	RLX	O. glumaepatula
+1.65	RLX	O. glumaepatula
+1.09	RLX	O. glumaepatula
+1.03	RLX	O. glumaepatula
+1.76	RLX	O. glumaepatula
+1.85	RLX	O. glumaepatula
+1.79	RLX	O. glumaepatula
+1.95	RLX	O. glumaepatula
+1.49	RLX	O. glumaepatula
+1.8	RLX	O. glumaepatula
+0.97	RLX	O. glumaepatula
+1.74	RLX	O. glumaepatula
+1.75	RLX	O. glumaepatula
+1.39	RLX	O. glumaepatula
+0.96	RLX	O. glumaepatula
+2.54	RLX	O. glumaepatula
+2.01	RLX	O. glumaepatula
+2.12	RLX	O. glumaepatula
+1.71	RLX	O. glumaepatula
+0.88	RLX	O. glumaepatula
+0.94	RLX	O. glumaepatula
+2.87	RLX	O. glumaepatula
+1.8	RLX	O. glumaepatula
+2.49	RLX	O. glumaepatula
+1.45	RLX	O. glumaepatula
+2.51	RLX	O. glumaepatula
+2.24	RLX	O. glumaepatula
+1.72	RLX	O. glumaepatula
+1.04	RLX	O. glumaepatula
+1.62	RLX	O. glumaepatula
+1.51	RLX	O. glumaepatula
+0.83	RLX	O. glumaepatula
+1.4	RLX	O. glumaepatula
+1.38	RLX	O. glumaepatula
+1.36	RLX	O. glumaepatula
+1.85	RLX	O. glumaepatula
+1.28	RLX	O. glumaepatula
+3.06	RLX	O. glumaepatula
+4.46	RLX	O. glumaepatula
+0.87	RLX	O. glumaepatula
+2.96	RLX	O. glumaepatula
+3.3	RLX	O. glumaepatula
+3.2	RLX	O. glumaepatula
+1.69	RLX	O. glumaepatula
+2.45	RLX	O. glumaepatula
+1.17	RLX	O. glumaepatula
+2.57	RLX	O. glumaepatula
+2.99	RLX	O. glumaepatula
+1.57	RLX	O. glumaepatula
+0.25	RLX	O. sativa vg. indica [93-11]
+0.51	RLX	O. sativa vg. indica [93-11]
+1.3	RLX	O. sativa vg. indica [93-11]
+1	RLX	O. sativa vg. indica [93-11]
+0.18	RLX	O. sativa vg. indica [93-11]
+1.85	RLX	O. sativa vg. indica [93-11]
+1.49	RLX	O. sativa vg. indica [93-11]
+1.71	RLX	O. sativa vg. indica [93-11]
+1.34	RLX	O. sativa vg. indica [93-11]
+0.87	RLX	O. sativa vg. indica [93-11]
+1.74	RLX	O. sativa vg. indica [93-11]
+1.12	RLX	O. sativa vg. indica [93-11]
+2.32	RLX	O. sativa vg. indica [93-11]
+0.08	RLX	O. sativa vg. indica [93-11]
+0.56	RLX	O. sativa vg. indica [93-11]
+0.67	RLX	O. sativa vg. indica [93-11]
+0	RLX	O. sativa vg. indica [93-11]
+2.31	RLX	O. sativa vg. indica [93-11]
+0.14	RLX	O. sativa vg. indica [93-11]
+1.88	RLX	O. sativa vg. indica [93-11]
+1.47	RLX	O. sativa vg. indica [93-11]
+2.09	RLX	O. sativa vg. indica [93-11]
+1.89	RLX	O. sativa vg. indica [93-11]
+0.82	RLX	O. sativa vg. indica [93-11]
+1.33	RLX	O. sativa vg. indica [93-11]
+0.67	RLX	O. sativa vg. indica [93-11]
+0.57	RLX	O. sativa vg. indica [93-11]
+1.59	RLX	O. sativa vg. indica [93-11]
+0.28	RLX	O. sativa vg. indica [93-11]
+0	RLX	O. sativa vg. indica [93-11]
+0	RLX	O. sativa vg. indica [93-11]
+2.33	RLX	O. sativa vg. indica [93-11]
+2.72	RLX	O. sativa vg. indica [93-11]
+1.62	RLX	O. sativa vg. indica [93-11]
+1.58	RLX	O. sativa vg. indica [93-11]
+0.32	RLX	O. sativa vg. indica [93-11]
+0.47	RLX	O. sativa vg. indica [93-11]
+0.39	RLX	O. sativa vg. indica [93-11]
+0.15	RLX	O. sativa vg. indica [93-11]
+2.75	RLX	O. sativa vg. indica [93-11]
+2.8	RLX	O. sativa vg. indica [93-11]
+0	RLX	O. sativa vg. indica [93-11]
+1.4	RLX	O. sativa vg. indica [93-11]
+0.24	RLX	O. sativa vg. indica [93-11]
+1.41	RLX	O. sativa vg. indica [93-11]
+2.01	RLX	O. sativa vg. indica [93-11]
+1.45	RLX	O. sativa vg. indica [93-11]
+1.39	RLX	O. sativa vg. indica [93-11]
+2.3	RLX	O. sativa vg. indica [93-11]
+0.64	RLX	O. sativa vg. indica [93-11]
+1.26	RLX	O. sativa vg. indica [93-11]
+3.52	RLX	O. sativa vg. indica [93-11]
+1.11	RLX	O. sativa vg. indica [93-11]
+1.27	RLX	O. sativa vg. indica [93-11]
+1.96	RLX	O. sativa vg. indica [93-11]
+0.52	RLX	O. sativa vg. indica [93-11]
+0.51	RLX	O. sativa vg. indica [93-11]
+1.55	RLX	O. sativa vg. indica [93-11]
+0	RLX	O. sativa vg. indica [93-11]
+0.06	RLX	O. sativa vg. indica [93-11]
+0.05	RLX	O. sativa vg. indica [93-11]
+0.96	RLX	O. sativa vg. indica [93-11]
+2.17	RLX	O. sativa vg. indica [93-11]
+1.83	RLX	O. sativa vg. indica [93-11]
+2.18	RLX	O. sativa vg. indica [93-11]
+1.39	RLX	O. sativa vg. indica [93-11]
+2.01	RLX	O. sativa vg. indica [93-11]
+2	RLX	O. sativa vg. indica [93-11]
+1.45	RLX	O. sativa vg. indica [93-11]
+1.32	RLX	O. sativa vg. indica [93-11]
+2.59	RLX	O. sativa vg. indica [93-11]
+2.25	RLX	O. sativa vg. indica [93-11]
+1.81	RLX	O. sativa vg. indica [93-11]
+2.32	RLX	O. sativa vg. indica [93-11]
+2.03	RLX	O. sativa vg. indica [93-11]
+1.85	RLX	O. sativa vg. indica [93-11]
+2.28	RLX	O. sativa vg. indica [93-11]
+2.01	RLX	O. sativa vg. indica [93-11]
+1.76	RLX	O. sativa vg. indica [93-11]
+2.04	RLX	O. sativa vg. indica [93-11]
+2.35	RLX	O. sativa vg. indica [93-11]
+2.18	RLX	O. sativa vg. indica [93-11]
+2.9	RLX	O. sativa vg. indica [93-11]
+4.06	RLX	O. sativa vg. indica [93-11]
+2.41	RLX	O. sativa vg. indica [93-11]
+3.46	RLX	O. sativa vg. indica [93-11]
+3	RLX	O. sativa vg. indica [93-11]
+1.04	RLX	O. sativa vg. indica [93-11]
+0	RLX	O. sativa vg. indica [93-11]
+1.84	RLX	O. sativa vg. indica [93-11]
+1.97	RLX	O. sativa vg. indica [93-11]
+1.35	RLX	O. sativa vg. indica [93-11]
+0	RLX	O. sativa vg. indica [93-11]
+0	RLX	O. sativa vg. indica [93-11]
+0.65	RLX	O. sativa vg. indica [93-11]
+0.04	RLX	O. sativa vg. indica [93-11]
+2.93	RLX	O. sativa vg. indica [93-11]
+0.5	RLX	O. sativa vg. indica [93-11]
+1.43	RLX	O. sativa vg. indica [93-11]
+2.33	RLX	O. sativa vg. indica [93-11]
+2.47	RLX	O. sativa vg. indica [93-11]
+2.23	RLX	O. sativa vg. indica [93-11]
+3.68	RLX	O. sativa vg. indica [93-11]
+1.88	RLX	O. sativa vg. indica [93-11]
+1.47	RLX	O. sativa vg. indica [93-11]
+1.27	RLX	O. sativa vg. indica [93-11]
+1.71	RLX	O. sativa vg. indica [93-11]
+2.75	RLX	O. sativa vg. indica [93-11]
+0.98	RLX	O. sativa vg. indica [93-11]
+1.2	RLX	O. sativa vg. indica [93-11]
+1.08	RLX	O. sativa vg. indica [93-11]
+2.28	RLX	O. sativa vg. indica [93-11]
+1.6	RLX	O. sativa vg. indica [93-11]
+1.8	RLX	O. sativa vg. indica [93-11]
+0.78	RLX	O. sativa vg. indica [93-11]
+1.46	RLX	O. sativa vg. indica [93-11]
+1.88	RLX	O. sativa vg. indica [93-11]
+1.29	RLX	O. sativa vg. indica [93-11]
+0.89	RLX	O. sativa vg. indica [93-11]
+1.57	RLX	O. sativa vg. indica [93-11]
+2.21	RLX	O. sativa vg. indica [93-11]
+2.16	RLX	O. sativa vg. indica [93-11]
+1.6	RLX	O. sativa vg. indica [93-11]
+1.33	RLX	O. sativa vg. indica [93-11]
+1.15	RLX	O. sativa vg. indica [93-11]
+2.3	RLX	O. sativa vg. indica [93-11]
+1.7	RLX	O. sativa vg. indica [93-11]
+2.07	RLX	O. sativa vg. indica [93-11]
+1.64	RLX	O. sativa vg. indica [93-11]
+2.08	RLX	O. sativa vg. indica [93-11]
+1.83	RLX	O. sativa vg. indica [93-11]
+2.54	RLX	O. sativa vg. indica [93-11]
+1.6	RLX	O. sativa vg. indica [93-11]
+0.79	RLX	O. sativa vg. indica [93-11]
+1.31	RLX	O. sativa vg. indica [93-11]
+1.4	RLX	O. sativa vg. indica [93-11]
+1.61	RLX	O. sativa vg. indica [93-11]
+1.18	RLX	O. sativa vg. indica [93-11]
+1.31	RLX	O. sativa vg. indica [93-11]
+2.02	RLX	O. sativa vg. indica [93-11]
+1.73	RLX	O. sativa vg. indica [93-11]
+1.33	RLX	O. sativa vg. indica [93-11]
+2.81	RLX	O. sativa vg. indica [93-11]
+0.96	RLX	O. sativa vg. indica [93-11]
+2.35	RLX	O. sativa vg. indica [93-11]
+1.41	RLX	O. sativa vg. indica [93-11]
+2.16	RLX	O. sativa vg. indica [93-11]
+1.06	RLX	O. sativa vg. indica [93-11]
+1.28	RLX	O. sativa vg. indica [93-11]
+1.29	RLX	O. sativa vg. indica [93-11]
+1.36	RLX	O. sativa vg. indica [93-11]
+0.98	RLX	O. sativa vg. indica [93-11]
+0.34	RLX	O. sativa vg. indica [93-11]
+1.59	RLX	O. sativa vg. indica [93-11]
+1.11	RLX	O. sativa vg. indica [93-11]
+1.24	RLX	O. sativa vg. indica [93-11]
+1.36	RLX	O. sativa vg. indica [93-11]
+1.51	RLX	O. sativa vg. indica [93-11]
+0.99	RLX	O. sativa vg. indica [93-11]
+2.2	RLX	O. sativa vg. indica [93-11]
+2.17	RLX	O. sativa vg. indica [93-11]
+1.29	RLX	O. sativa vg. indica [93-11]
+1.76	RLX	O. sativa vg. indica [93-11]
+1.83	RLX	O. sativa vg. indica [93-11]
+1.22	RLX	O. sativa vg. indica [93-11]
+0.77	RLX	O. sativa vg. indica [93-11]
+0.91	RLX	O. sativa vg. indica [93-11]
+1.9	RLX	O. sativa vg. indica [93-11]
+1.59	RLX	O. sativa vg. indica [93-11]
+2.07	RLX	O. sativa vg. indica [93-11]
+1.39	RLX	O. sativa vg. indica [93-11]
+1.37	RLX	O. sativa vg. indica [93-11]
+1.96	RLX	O. sativa vg. indica [93-11]
+2.4	RLX	O. sativa vg. indica [93-11]
+1.06	RLX	O. sativa vg. indica [93-11]
+1.54	RLX	O. sativa vg. indica [93-11]
+1.16	RLX	O. sativa vg. indica [93-11]
+0.8	RLX	O. sativa vg. indica [93-11]
+1.24	RLX	O. sativa vg. indica [93-11]
+0.86	RLX	O. sativa vg. indica [93-11]
+2.45	RLX	O. sativa vg. indica [93-11]
+1.85	RLX	O. sativa vg. indica [93-11]
+1.67	RLX	O. sativa vg. indica [93-11]
+1.95	RLX	O. sativa vg. indica [93-11]
+1.99	RLX	O. sativa vg. indica [93-11]
+1.47	RLX	O. sativa vg. indica [93-11]
+0.92	RLX	O. sativa vg. indica [93-11]
+1.78	RLX	O. sativa vg. indica [93-11]
+1.09	RLX	O. sativa vg. indica [93-11]
+2.34	RLX	O. sativa vg. indica [93-11]
+0	RLX	O. sativa vg. indica [93-11]
+1.3	RLX	O. sativa vg. indica [93-11]
+1.63	RLX	O. sativa vg. indica [93-11]
+1.59	RLX	O. sativa vg. indica [93-11]
+2.15	RLX	O. sativa vg. indica [93-11]
+1.69	RLX	O. sativa vg. indica [93-11]
+0	RLX	O. sativa vg. indica [93-11]
+0.38	RLX	O. sativa vg. indica [93-11]
+1.8	RLX	O. sativa vg. indica [93-11]
+1.2	RLX	O. sativa vg. indica [93-11]
+2.09	RLX	O. sativa vg. indica [93-11]
+1.38	RLX	O. sativa vg. indica [93-11]
+0.15	RLX	O. sativa vg. indica [93-11]
+0.14	RLX	O. sativa vg. indica [93-11]
+1.39	RLX	O. sativa vg. indica [93-11]
+0	RLX	O. sativa vg. indica [93-11]
+1	RLX	O. sativa vg. indica [93-11]
+2.22	RLX	O. sativa vg. indica [93-11]
+2.87	RLX	O. sativa vg. indica [93-11]
+1.96	RLX	O. sativa vg. indica [93-11]
+0.17	RLX	O. sativa vg. indica [93-11]
+0.09	RLX	O. sativa vg. indica [93-11]
+1.91	RLX	O. sativa vg. indica [93-11]
+2.02	RLX	O. sativa vg. indica [93-11]
+1.5	RLX	O. sativa vg. indica [93-11]
+2.26	RLX	O. sativa vg. indica [93-11]
+3.21	RLX	O. sativa vg. indica [93-11]
+2.07	RLX	O. sativa vg. indica [93-11]
+2	RLX	O. sativa vg. indica [93-11]
+0.79	RLX	O. sativa vg. indica [93-11]
+0.96	RLX	O. sativa vg. indica [93-11]
+4.18	RLX	O. sativa vg. indica [93-11]
+1.98	RLX	O. sativa vg. indica [93-11]
+0.96	RLX	O. sativa vg. indica [93-11]
+2.69	RLX	O. sativa vg. indica [93-11]
+1.99	RLX	O. sativa vg. indica [93-11]
+2.05	RLX	O. sativa vg. indica [93-11]
+2.07	RLX	O. sativa vg. indica [93-11]
+2.57	RLX	O. sativa vg. indica [93-11]
+0.26	RLX	O. sativa vg. indica [93-11]
+3.57	RLX	O. sativa vg. indica [93-11]
+1.76	RLX	O. sativa vg. indica [93-11]
+3.15	RLX	O. sativa vg. indica [93-11]
+0.93	RLX	O. sativa vg. indica [93-11]
+1.36	RLX	O. sativa vg. indica [93-11]
+0	RLX	O. sativa vg. indica [93-11]
+1.84	RLX	O. sativa vg. indica [93-11]
+0	RLX	O. sativa vg. indica [93-11]
+1.19	RLX	O. sativa vg. indica [93-11]
+2.84	RLX	O. sativa vg. indica [93-11]
+2.51	RLX	O. sativa vg. indica [93-11]
+3.29	RLX	O. sativa vg. indica [93-11]
+0.61	RLX	O. sativa vg. indica [93-11]
+0.43	RLX	O. sativa vg. indica [93-11]
+1.97	RLX	O. sativa vg. indica [93-11]
+3.21	RLX	O. sativa vg. indica [93-11]
+1.38	RLX	O. sativa vg. indica [93-11]
+1.78	RLX	O. sativa vg. indica [93-11]
+3.3	RLX	O. sativa vg. indica [93-11]
+0.09	RLX	O. sativa vg. indica [93-11]
+3.31	RLX	O. sativa vg. indica [93-11]
+3.3	RLX	O. sativa vg. indica [93-11]
+3.73	RLX	O. sativa vg. indica [93-11]
+2.08	RLX	O. sativa vg. indica [93-11]
+3.74	RLX	O. sativa vg. indica [93-11]
+3.64	RLX	O. sativa vg. indica [93-11]
+1.95	RLX	O. sativa vg. indica [93-11]
+2.71	RLX	O. sativa vg. indica [93-11]
+1.4	RLX	O. sativa vg. indica [93-11]
+0.18	RLX	O. sativa vg. indica [93-11]
+4.41	RLX	O. sativa vg. indica [93-11]
+0	RLX	O. sativa vg. indica [93-11]
+2.2	RLX	O. sativa vg. indica [93-11]
+1.78	RLX	O. sativa vg. indica [93-11]
+0.96	RLX	O. sativa vg. japonica
+0.77	RLX	O. sativa vg. japonica
+0.08	RLX	O. sativa vg. japonica
+0.52	RLX	O. sativa vg. japonica
+0.43	RLX	O. sativa vg. japonica
+0.72	RLX	O. sativa vg. japonica
+0.1	RLX	O. sativa vg. japonica
+0.74	RLX	O. sativa vg. japonica
+0.93	RLX	O. sativa vg. japonica
+0.92	RLX	O. sativa vg. japonica
+1.34	RLX	O. sativa vg. japonica
+0.98	RLX	O. sativa vg. japonica
+2.31	RLX	O. sativa vg. japonica
+1.99	RLX	O. sativa vg. japonica
+2.39	RLX	O. sativa vg. japonica
+1.38	RLX	O. sativa vg. japonica
+1.66	RLX	O. sativa vg. japonica
+1.21	RLX	O. sativa vg. japonica
+0.62	RLX	O. sativa vg. japonica
+0	RLX	O. sativa vg. japonica
+0.68	RLX	O. sativa vg. japonica
+0.27	RLX	O. sativa vg. japonica
+0.04	RLX	O. sativa vg. japonica
+0.05	RLX	O. sativa vg. japonica
+0.06	RLX	O. sativa vg. japonica
+0.38	RLX	O. sativa vg. japonica
+0.68	RLX	O. sativa vg. japonica
+0.21	RLX	O. sativa vg. japonica
+0.11	RLX	O. sativa vg. japonica
+0.03	RLX	O. sativa vg. japonica
+0.35	RLX	O. sativa vg. japonica
+0.68	RLX	O. sativa vg. japonica
+0.34	RLX	O. sativa vg. japonica
+0.03	RLX	O. sativa vg. japonica
+0.18	RLX	O. sativa vg. japonica
+0.08	RLX	O. sativa vg. japonica
+0.99	RLX	O. sativa vg. japonica
+0.19	RLX	O. sativa vg. japonica
+0.06	RLX	O. sativa vg. japonica
+0.62	RLX	O. sativa vg. japonica
+0.06	RLX	O. sativa vg. japonica
+0.02	RLX	O. sativa vg. japonica
+0.02	RLX	O. sativa vg. japonica
+0.06	RLX	O. sativa vg. japonica
+0.26	RLX	O. sativa vg. japonica
+0.09	RLX	O. sativa vg. japonica
+0.06	RLX	O. sativa vg. japonica
+1.3	RLX	O. sativa vg. japonica
+1.07	RLX	O. sativa vg. japonica
+0.27	RLX	O. sativa vg. japonica
+0.03	RLX	O. sativa vg. japonica
+0	RLX	O. sativa vg. japonica
+0.11	RLX	O. sativa vg. japonica
+0.13	RLX	O. sativa vg. japonica
+0.05	RLX	O. sativa vg. japonica
+0.88	RLX	O. sativa vg. japonica
+0.18	RLX	O. sativa vg. japonica
+0.16	RLX	O. sativa vg. japonica
+0.37	RLX	O. sativa vg. japonica
+1.26	RLX	O. sativa vg. japonica
+0	RLX	O. sativa vg. japonica
+0.19	RLX	O. sativa vg. japonica
+0.04	RLX	O. sativa vg. japonica
+0.3	RLX	O. sativa vg. japonica
+0.82	RLX	O. sativa vg. japonica
+0.11	RLX	O. sativa vg. japonica
+0.28	RLX	O. sativa vg. japonica
+0.21	RLX	O. sativa vg. japonica
+0.12	RLX	O. sativa vg. japonica
+1.48	RLX	O. sativa vg. japonica
+0.17	RLX	O. sativa vg. japonica
+2.04	RLX	O. sativa vg. japonica
+1.57	RLX	O. sativa vg. japonica
+2.95	RLX	O. sativa vg. japonica
+1.68	RLX	O. sativa vg. japonica
+1.28	RLX	O. sativa vg. japonica
+1.32	RLX	O. sativa vg. japonica
+1.56	RLX	O. sativa vg. japonica
+0.97	RLX	O. sativa vg. japonica
+0.83	RLX	O. sativa vg. japonica
+0.63	RLX	O. sativa vg. japonica
+1.79	RLX	O. sativa vg. japonica
+1.31	RLX	O. sativa vg. japonica
+1.55	RLX	O. sativa vg. japonica
+1.19	RLX	O. sativa vg. japonica
+2.11	RLX	O. sativa vg. japonica
+1.16	RLX	O. sativa vg. japonica
+1.65	RLX	O. sativa vg. japonica
+1.97	RLX	O. sativa vg. japonica
+1.07	RLX	O. sativa vg. japonica
+0.44	RLX	O. sativa vg. japonica
+1.75	RLX	O. sativa vg. japonica
+1.73	RLX	O. sativa vg. japonica
+4.4	RLX	O. sativa vg. japonica
+0	RLX	O. sativa vg. japonica
+2.17	RLX	O. sativa vg. japonica
+1.81	RLX	O. sativa vg. japonica
+0.92	RLX	O. sativa vg. japonica
+0.45	RLX	O. sativa vg. japonica
+2.06	RLX	O. sativa vg. japonica
+2.12	RLX	O. sativa vg. japonica
+0.13	RLX	O. sativa vg. japonica
+0.34	RLX	O. sativa vg. japonica
+3.18	RLX	O. sativa vg. japonica
+1.2	RLX	O. sativa vg. japonica
+1.16	RLX	O. sativa vg. japonica
+1.76	RLX	O. sativa vg. japonica
+0.28	RLX	O. sativa vg. japonica
+0.54	RLX	O. sativa vg. japonica
+0.49	RLX	O. sativa vg. japonica
+0.42	RLX	O. sativa vg. japonica
+1.22	RLX	O. sativa vg. japonica
+1.22	RLX	O. sativa vg. japonica
+1.22	RLX	O. sativa vg. japonica
+0	RLX	O. sativa vg. japonica
+1.27	RLX	O. sativa vg. japonica
+1.27	RLX	O. sativa vg. japonica
+0.58	RLX	O. sativa vg. japonica
+2.45	RLX	O. sativa vg. japonica
+0.27	RLX	O. sativa vg. japonica
+0.87	RLX	O. sativa vg. japonica
+0	RLX	O. sativa vg. japonica
+0.13	RLX	O. sativa vg. japonica
+0	RLX	O. sativa vg. japonica
+0.75	RLX	O. sativa vg. japonica
+0.88	RLX	O. sativa vg. japonica
+0.65	RLX	O. sativa vg. japonica
+0.32	RLX	O. sativa vg. japonica
+0.32	RLX	O. sativa vg. japonica
+1.08	RLX	O. sativa vg. japonica
+2.41	RLX	O. sativa vg. japonica
+1.53	RLX	O. sativa vg. japonica
+1.83	RLX	O. sativa vg. japonica
+1.29	RLX	O. sativa vg. japonica
+1.61	RLX	O. sativa vg. japonica
+1.19	RLX	O. sativa vg. japonica
+1.39	RLX	O. sativa vg. japonica
+2.3	RLX	O. sativa vg. japonica
+0.82	RLX	O. sativa vg. japonica
+1.3	RLX	O. sativa vg. japonica
+1.14	RLX	O. sativa vg. japonica
+2.28	RLX	O. sativa vg. japonica
+1.08	RLX	O. sativa vg. japonica
+2.21	RLX	O. sativa vg. japonica
+2.19	RLX	O. sativa vg. japonica
+1.84	RLX	O. sativa vg. japonica
+0.78	RLX	O. sativa vg. japonica
+0.61	RLX	O. sativa vg. japonica
+1.18	RLX	O. sativa vg. japonica
+2.03	RLX	O. sativa vg. japonica
+0.67	RLX	O. sativa vg. japonica
+1.73	RLX	O. sativa vg. japonica
+2.22	RLX	O. sativa vg. japonica
+1.78	RLX	O. sativa vg. japonica
+1.39	RLX	O. sativa vg. japonica
+0.92	RLX	O. sativa vg. japonica
+1.93	RLX	O. sativa vg. japonica
+1.36	RLX	O. sativa vg. japonica
+2.19	RLX	O. sativa vg. japonica
+1.37	RLX	O. sativa vg. japonica
+0.9	RLX	O. sativa vg. japonica
+2.58	RLX	O. sativa vg. japonica
+1.97	RLX	O. sativa vg. japonica
+2.44	RLX	O. sativa vg. japonica
+1.27	RLX	O. sativa vg. japonica
+2.4	RLX	O. sativa vg. japonica
+2.08	RLX	O. sativa vg. japonica
+3.1	RLX	O. sativa vg. japonica
+2.08	RLX	O. sativa vg. japonica
+2.62	RLX	O. sativa vg. japonica
+2.03	RLX	O. sativa vg. japonica
+2.08	RLX	O. sativa vg. japonica
+2.29	RLX	O. sativa vg. japonica
+3.37	RLX	O. sativa vg. japonica
+1.94	RLX	O. sativa vg. japonica
+1.99	RLX	O. sativa vg. japonica
+2.07	RLX	O. sativa vg. japonica
+1.7	RLX	O. sativa vg. japonica
+1.89	RLX	O. sativa vg. japonica
+2.12	RLX	O. sativa vg. japonica
+1.79	RLX	O. sativa vg. japonica
+1.79	RLX	O. sativa vg. japonica
+1.88	RLX	O. sativa vg. japonica
+4.03	RLX	O. sativa vg. japonica
+1.93	RLX	O. sativa vg. japonica
+0.39	RLX	O. sativa vg. japonica
+1.03	RLX	O. sativa vg. japonica
+2.19	RLX	O. sativa vg. japonica
+0.65	RLX	O. sativa vg. japonica
+3.39	RLX	O. sativa vg. japonica
+2.84	RLX	O. sativa vg. japonica
+3.22	RLX	O. sativa vg. japonica
+3.35	RLX	O. sativa vg. japonica
+3.55	RLX	O. sativa vg. japonica
+3.08	RLX	O. sativa vg. japonica
+3.2	RLX	O. sativa vg. japonica
+2.52	RLX	O. sativa vg. japonica
+3.05	RLX	O. sativa vg. japonica
+0.14	RLX	O. sativa vg. japonica
+2.62	RLX	O. sativa vg. japonica
+3.39	RLX	O. sativa vg. japonica
+0.66	RLX	O. sativa vg. japonica
+0.99	RLX	O. sativa vg. japonica
+2.79	RLX	O. sativa vg. japonica
+2.19	RLX	O. sativa vg. japonica
+1.86	RLX	O. sativa vg. japonica
+2.21	RLX	O. sativa vg. japonica
+2.88	RLX	O. sativa vg. japonica
+1.53	RLX	O. sativa vg. japonica
+1.27	RLX	O. sativa vg. japonica
+1.02	RLX	O. sativa vg. japonica
+1.93	RLX	O. sativa vg. japonica
+2.23	RLX	O. sativa vg. japonica
+2.26	RLX	O. sativa vg. japonica
+1.05	RLX	O. sativa vg. japonica
+1.03	RLX	O. sativa vg. japonica
+2.08	RLX	O. sativa vg. japonica
+1.93	RLX	O. sativa vg. japonica
+1.59	RLX	O. sativa vg. japonica
+1.41	RLX	O. sativa vg. japonica
+1.86	RLX	O. sativa vg. japonica
+1.83	RLX	O. sativa vg. japonica
+1.27	RLX	O. sativa vg. japonica
+1.2	RLX	O. sativa vg. japonica
+1.51	RLX	O. sativa vg. japonica
+2.43	RLX	O. sativa vg. japonica
+1.34	RLX	O. sativa vg. japonica
+2.08	RLX	O. sativa vg. japonica
+2.19	RLX	O. sativa vg. japonica
+1.17	RLX	O. sativa vg. japonica
+1.24	RLX	O. sativa vg. japonica
+1.24	RLX	O. sativa vg. japonica
+0.59	RLX	O. sativa vg. japonica
+1.49	RLX	O. sativa vg. japonica
+1.87	RLX	O. sativa vg. japonica
+2.53	RLX	O. sativa vg. japonica
+1.8	RLX	O. sativa vg. japonica
+1.05	RLX	O. sativa vg. japonica
+1.2	RLX	O. sativa vg. japonica
+1.95	RLX	O. sativa vg. japonica
+1.23	RLX	O. sativa vg. japonica
+1.56	RLX	O. sativa vg. japonica
+1.26	RLX	O. sativa vg. japonica
+1.42	RLX	O. sativa vg. japonica
+1.63	RLX	O. sativa vg. japonica
+1.65	RLX	O. sativa vg. japonica
+2.95	RLX	O. sativa vg. japonica
+1.36	RLX	O. sativa vg. japonica
+1.12	RLX	O. sativa vg. japonica
+1.63	RLX	O. sativa vg. japonica
+1.12	RLX	O. sativa vg. japonica
+1.48	RLX	O. sativa vg. japonica
+1.97	RLX	O. sativa vg. japonica
+1.43	RLX	O. sativa vg. japonica
+1.91	RLX	O. sativa vg. japonica
+1.87	RLX	O. sativa vg. japonica
+0.91	RLX	O. sativa vg. japonica
+1.01	RLX	O. sativa vg. japonica
+2.15	RLX	O. sativa vg. japonica
+1.21	RLX	O. sativa vg. japonica
+0.98	RLX	O. sativa vg. japonica
+2.02	RLX	O. sativa vg. japonica
+2.06	RLX	O. sativa vg. japonica
+2.28	RLX	O. sativa vg. japonica
+1.87	RLX	O. sativa vg. japonica
+1.76	RLX	O. sativa vg. japonica
+2.08	RLX	O. sativa vg. japonica
+1.83	RLX	O. sativa vg. japonica
+1.44	RLX	O. sativa vg. japonica
+0.67	RLX	O. sativa vg. japonica
+1.56	RLX	O. sativa vg. japonica
+1.31	RLX	O. sativa vg. japonica
+0.83	RLX	O. sativa vg. japonica
+1.4	RLX	O. sativa vg. japonica
+2.47	RLX	O. sativa vg. japonica
+2.02	RLX	O. sativa vg. japonica
+1.87	RLX	O. sativa vg. japonica
+0.86	RLX	O. sativa vg. japonica
+1.96	RLX	O. sativa vg. japonica
+1.83	RLX	O. sativa vg. japonica
+2.06	RLX	O. sativa vg. japonica
+1.21	RLX	O. sativa vg. japonica
+2.63	RLX	O. sativa vg. japonica
+2	RLX	O. sativa vg. japonica
+2.58	RLX	O. sativa vg. japonica
+1.27	RLX	O. sativa vg. japonica
+1.02	RLX	O. sativa vg. japonica
+1.78	RLX	O. sativa vg. japonica
+0.46	RLX	O. sativa vg. japonica
+1.28	RLX	O. sativa vg. japonica
+1.28	RLX	O. sativa vg. japonica
+1.2	RLX	O. sativa vg. japonica
+1.2	RLX	O. sativa vg. japonica
+1.2	RLX	O. sativa vg. japonica
+1.8	RLX	O. sativa vg. japonica
+2.01	RLX	O. sativa vg. japonica
+0.98	RLX	O. sativa vg. japonica
+1.21	RLX	O. sativa vg. japonica
+1.65	RLX	O. sativa vg. japonica
+1.09	RLX	O. sativa vg. japonica
+1.89	RLX	O. sativa vg. japonica
+2.1	RLX	O. sativa vg. japonica
+1.19	RLX	O. sativa vg. japonica
+1.52	RLX	O. sativa vg. japonica
+1.16	RLX	O. sativa vg. japonica
+1.13	RLX	O. sativa vg. japonica
+1.05	RLX	O. sativa vg. japonica
+1.32	RLX	O. sativa vg. japonica
+1.83	RLX	O. sativa vg. japonica
+0.9	RLX	O. sativa vg. japonica
+1.54	RLX	O. sativa vg. japonica
+1.51	RLX	O. sativa vg. japonica
+2.11	RLX	O. sativa vg. japonica
+1.99	RLX	O. sativa vg. japonica
+1.85	RLX	O. sativa vg. japonica
+1.47	RLX	O. sativa vg. japonica
+0.91	RLX	O. sativa vg. japonica
+1.04	RLX	O. sativa vg. japonica
+1.92	RLX	O. sativa vg. japonica
+0.76	RLX	O. sativa vg. japonica
+2.02	RLX	O. sativa vg. japonica
+2.91	RLX	O. sativa vg. japonica
+1.59	RLX	O. sativa vg. japonica
+1.79	RLX	O. sativa vg. japonica
+1.57	RLX	O. sativa vg. japonica
+0.68	RLX	O. sativa vg. japonica
+2.02	RLX	O. sativa vg. japonica
+2.2	RLX	O. sativa vg. japonica
+1.73	RLX	O. sativa vg. japonica
+1.78	RLX	O. sativa vg. japonica
+1.54	RLX	O. sativa vg. japonica
+2.49	RLX	O. sativa vg. japonica
+0.67	RLX	O. sativa vg. japonica
+2.29	RLX	O. sativa vg. japonica
+1.46	RLX	O. sativa vg. japonica
+2.22	RLX	O. sativa vg. japonica
+1.62	RLX	O. sativa vg. japonica
+0.3	RLX	O. sativa vg. japonica
+1.15	RLX	O. sativa vg. japonica
+1.96	RLX	O. sativa vg. japonica
+1.63	RLX	O. sativa vg. japonica
+1.81	RLX	O. sativa vg. japonica
+2.96	RLX	O. sativa vg. japonica
+3.72	RLX	O. sativa vg. japonica
+0	RLX	O. sativa vg. japonica
+3.08	RLX	O. sativa vg. japonica
+0.09	RLX	O. sativa vg. japonica
+2.29	RLX	O. sativa vg. japonica
+0	RLX	O. sativa vg. japonica
+0.26	RLX	O. sativa vg. japonica
+0.59	RLX	O. sativa vg. japonica
+0.09	RLX	O. sativa vg. japonica
+0	RLX	O. sativa vg. japonica
+0	RLX	O. sativa vg. japonica
+1.81	RLX	O. sativa vg. japonica
+2.75	RLX	O. sativa vg. japonica
+1.21	RLX	O. sativa vg. japonica
+3.22	RLX	O. sativa vg. japonica
+3.77	RLX	O. sativa vg. japonica
+3.55	RLX	O. sativa vg. japonica
+2.54	RLX	O. sativa vg. japonica
+0	RLX	O. sativa vg. japonica
+3.32	RLX	O. sativa vg. japonica
+4.36	RLX	O. sativa vg. japonica
+3.83	RLX	O. sativa vg. japonica
+2.62	RLX	O. sativa vg. japonica
+1.57	RLX	O. sativa vg. japonica
+2.7	RLX	O. sativa vg. japonica
+3.6	RLX	O. sativa vg. japonica
+4.48	RLX	O. sativa vg. japonica
+1.17	RLX	O. sativa vg. japonica
+2.96	RLX	O. sativa vg. japonica
+3.77	RLX	O. sativa vg. japonica
+0.18	RLX	O. sativa vg. japonica
+3.54	RLX	O. sativa vg. japonica
+1.23	RLX	O. sativa vg. japonica
+3.71	RLX	O. sativa vg. japonica
+2.41	RLX	O. sativa vg. japonica
+3.15	RLX	O. sativa vg. japonica
+2.12	RLX	O. sativa vg. japonica
+2.99	RLX	O. sativa vg. japonica
+1.71	RLX	O. sativa vg. japonica
+2.79	RLX	O. sativa vg. japonica
+3.54	RLX	O. sativa vg. japonica
+1.4	RLX	O. sativa vg. japonica
+3.15	RLX	O. sativa vg. japonica
+2.72	RLX	O. sativa vg. japonica
+0	RLX	O. sativa vg. japonica
+2.72	RLX	O. sativa vg. japonica
+2.78	RLX	O. sativa vg. japonica
+2.02	RLX	O. sativa vg. japonica
+2.22	RLX	O. sativa vg. japonica
+2.49	RLX	O. sativa vg. japonica
+3.73	RLX	O. sativa vg. japonica
+3.58	RLX	O. sativa vg. japonica
+0.7	RLX	O. sativa vg. japonica
+3.69	RLX	O. sativa vg. japonica
+3.54	RLX	O. sativa vg. japonica
+2.72	RLX	O. sativa vg. japonica
+0.82	RLX	O. sativa vg. japonica
+0.96	RLX	O. sativa vg. japonica
+0.29	RLX	O. sativa vg. japonica
+2.57	RLX	O. sativa vg. japonica
+0.26	RLX	O. sativa vg. japonica
+2.86	RLX	O. sativa vg. japonica
+2.53	RLX	O. sativa vg. japonica
+0.09	RLX	O. sativa vg. japonica
+0.09	RLX	O. sativa vg. japonica
+0.18	RLX	O. sativa vg. japonica
+4.22	RLX	O. sativa vg. japonica
+3.88	RLX	O. sativa vg. japonica
+2.95	RLX	O. sativa vg. japonica
+0	RLX	O. sativa vg. japonica
+0.17	RLX	O. sativa vg. japonica
+3.71	RLX	O. sativa vg. japonica
+0	RLX	O. sativa vg. japonica
+0.09	RLX	O. sativa vg. japonica
+4.15	RLX	O. sativa vg. japonica
+0.51	RLX	O. sativa vg. japonica
+2.23	RLX	O. sativa vg. japonica
+0	RLX	O. sativa vg. japonica
+2.38	RLX	O. sativa vg. japonica
+0.18	RLX	O. sativa vg. japonica
+2.13	RLX	O. sativa vg. japonica
+2.42	RLX	O. sativa vg. japonica
+3.12	RLX	O. sativa vg. japonica
+3.55	RLX	O. sativa vg. japonica
+0	RLX	O. sativa vg. japonica
+0	RLX	O. sativa vg. japonica
+3.81	RLX	O. sativa vg. japonica
+3.79	RLX	O. sativa vg. japonica
+0.85	RLX	O. sativa vg. japonica
+0.35	RLX	O. sativa vg. japonica
+2.48	RLX	O. sativa vg. japonica
+0.26	RLX	O. sativa vg. japonica
+3.33	RLX	O. sativa vg. japonica
+0	RLX	O. sativa vg. japonica
+0.9	RLX	O. sativa vg. japonica
+0.1	RLX	O. sativa vg. japonica
+3.86	RLX	O. sativa vg. japonica
+3.23	RLX	O. sativa vg. japonica
+1.46	RLX	O. sativa vg. japonica
+0.61	RLX	O. sativa vg. japonica
+2.98	RLX	O. sativa vg. japonica
+0	RLX	O. sativa vg. japonica
+0	RLX	O. sativa vg. japonica
+0.09	RLX	O. sativa vg. japonica
+0.9	RLX	O. sativa vg. japonica
+3.13	RLX	O. sativa vg. japonica
+0.9	RLX	O. sativa vg. japonica
+0.18	RLX	O. sativa vg. japonica
+2.68	RLX	O. sativa vg. japonica
+2.57	RLX	O. sativa vg. japonica
+2.55	RLX	O. sativa vg. japonica
+2.03	RLX	O. sativa vg. japonica
+3.02	RLX	O. sativa vg. japonica
+0.35	RLX	O. sativa vg. japonica
+0.09	RLX	O. sativa vg. japonica
+0	RLX	O. sativa vg. japonica
+3.31	RLX	O. sativa vg. japonica
+3.17	RLX	O. sativa vg. japonica
+3.56	RLX	O. sativa vg. japonica
+0.4	RLX	O. sativa vg. japonica
+4.41	RLX	O. sativa vg. japonica
+0.26	RLX	O. sativa vg. japonica
+0	RLX	O. sativa vg. japonica
+2.04	RLX	O. sativa vg. japonica
+3.2	RLX	O. sativa vg. japonica
+2.71	RLX	O. sativa vg. japonica
+0.17	RLX	O. sativa vg. japonica
+0.09	RLX	O. sativa vg. japonica
+2.8	RLX	O. sativa vg. japonica
+3.79	RLX	O. sativa vg. japonica
+0.26	RLX	O. sativa vg. japonica
+1.64	RLX	O. sativa vg. japonica
+3.9	RLX	O. sativa vg. japonica
+1.44	RLX	O. sativa vg. japonica
+0	RLX	O. sativa vg. japonica
+2.24	RLX	O. sativa vg. japonica
+3.61	RLX	O. sativa vg. japonica
+0.97	RLX	O. sativa vg. japonica
+1.46	RLX	O. sativa vg. japonica
+3.59	RLX	O. sativa vg. japonica
+0.09	RLX	O. sativa vg. japonica
+2.48	RLX	O. sativa vg. japonica
+3.5	RLX	O. sativa vg. japonica
+0.62	RLX	O. sativa vg. japonica
+0.09	RLX	O. sativa vg. japonica
+3.92	RLX	O. sativa vg. japonica
+2.76	RLX	O. sativa vg. japonica
+2.94	RLX	O. sativa vg. japonica
+0.55	RLX	O. meridionalis
+1.28	RLX	O. meridionalis
+0.84	RLX	O. meridionalis
+2.15	RLX	O. meridionalis
+0.53	RLX	O. meridionalis
+0.82	RLX	O. meridionalis
+1.75	RLX	O. meridionalis
+2.95	RLX	O. meridionalis
+0.87	RLX	O. meridionalis
+0.75	RLX	O. meridionalis
+2.15	RLX	O. meridionalis
+1.43	RLX	O. meridionalis
+1.49	RLX	O. meridionalis
+3.19	RLX	O. meridionalis
+2.77	RLX	O. meridionalis
+3.86	RLX	O. meridionalis
+2.49	RLX	O. meridionalis
+3.11	RLX	O. meridionalis
+0.51	RLX	O. nivara
+2.26	RLX	O. nivara
+0.69	RLX	O. nivara
+1.27	RLX	O. nivara
+0.86	RLX	O. nivara
+1.98	RLX	O. nivara
+2.04	RLX	O. nivara
+1.39	RLX	O. nivara
+1.08	RLX	O. nivara
+1.21	RLX	O. nivara
+1.2	RLX	O. nivara
+1.96	RLX	O. nivara
+1.5	RLX	O. nivara
+2.57	RLX	O. nivara
+1.47	RLX	O. nivara
+1.63	RLX	O. nivara
+1.56	RLX	O. nivara
+1.66	RLX	O. nivara
+1.35	RLX	O. nivara
+1.33	RLX	O. nivara
+1.45	RLX	O. nivara
+0.08	RLX	O. nivara
+0.08	RLX	O. nivara
+0.25	RLX	O. nivara
+0.17	RLX	O. nivara
+0.13	RLX	O. nivara
+0.08	RLX	O. nivara
+0.55	RLX	O. nivara
+0.13	RLX	O. nivara
+0.35	RLX	O. nivara
+1.52	RLX	O. nivara
+1.59	RLX	O. nivara
+2.72	RLX	O. nivara
+1.63	RLX	O. nivara
+1.56	RLX	O. nivara
+1.18	RLX	O. nivara
+0.91	RLX	O. nivara
+2.14	RLX	O. nivara
+1.3	RLX	O. nivara
+3.56	RLX	O. nivara
+1.82	RLX	O. nivara
+1.82	RLX	O. nivara
+0.47	RLX	O. nivara
+0.12	RLX	O. nivara
+0.59	RLX	O. nivara
+2.16	RLX	O. nivara
+2.24	RLX	O. nivara
+1.13	RLX	O. nivara
+1.04	RLX	O. nivara
+1.22	RLX	O. nivara
+1.35	RLX	O. nivara
+2.5	RLX	O. nivara
+2.38	RLX	O. nivara
+2.12	RLX	O. nivara
+1.42	RLX	O. nivara
+1.4	RLX	O. nivara
+1.36	RLX	O. nivara
+1.23	RLX	O. nivara
+0.43	RLX	O. nivara
+0.88	RLX	O. nivara
+1.1	RLX	O. nivara
+1.27	RLX	O. nivara
+1.83	RLX	O. nivara
+1.68	RLX	O. nivara
+1.6	RLX	O. nivara
+1.04	RLX	O. nivara
+0	RLX	O. nivara
+0	RLX	O. nivara
+2.25	RLX	O. nivara
+2.38	RLX	O. nivara
+1.77	RLX	O. nivara
+2.32	RLX	O. nivara
+1.9	RLX	O. nivara
+1.81	RLX	O. nivara
+0.68	RLX	O. nivara
+0.74	RLX	O. nivara
+0.98	RLX	O. nivara
+0.58	RLX	O. nivara
+0.98	RLX	O. nivara
+2.29	RLX	O. nivara
+1.91	RLX	O. nivara
+0.41	RLX	O. nivara
+1.45	RLX	O. nivara
+1.68	RLX	O. nivara
+1.67	RLX	O. nivara
+4.14	RLX	O. nivara
+1.55	RLX	O. nivara
+1.47	RLX	O. nivara
+1.7	RLX	O. nivara
+1.48	RLX	O. nivara
+2.01	RLX	O. nivara
+1.03	RLX	O. nivara
+0	RLX	O. nivara
+3	RLX	O. nivara
+1.89	RLX	O. nivara
+3.38	RLX	O. nivara
+2.16	RLX	O. nivara
+2.13	RLX	O. nivara
+2.56	RLX	O. nivara
+1.47	RLX	O. nivara
+1.53	RLX	O. nivara
+1.85	RLX	O. nivara
+2.58	RLX	O. nivara
+1.98	RLX	O. nivara
+1.8	RLX	O. nivara
+1.53	RLX	O. nivara
+2.01	RLX	O. nivara
+1	RLX	O. nivara
+0.85	RLX	O. nivara
+2.22	RLX	O. nivara
+1.33	RLX	O. nivara
+1.17	RLX	O. nivara
+1.75	RLX	O. nivara
+0.9	RLX	O. nivara
+1.64	RLX	O. nivara
+1.86	RLX	O. nivara
+2.23	RLX	O. nivara
+3.42	RLX	O. nivara
+1.48	RLX	O. nivara
+1.88	RLX	O. nivara
+2.36	RLX	O. nivara
+1.71	RLX	O. nivara
+0.91	RLX	O. nivara
+2.1	RLX	O. nivara
+0.42	RLX	O. nivara
+1.2	RLX	O. nivara
+1.65	RLX	O. nivara
+1.37	RLX	O. nivara
+2.13	RLX	O. nivara
+1.91	RLX	O. nivara
+2.36	RLX	O. nivara
+2.39	RLX	O. nivara
+1.92	RLX	O. nivara
+1.81	RLX	O. nivara
+1.06	RLX	O. nivara
+1.33	RLX	O. nivara
+1.58	RLX	O. nivara
+2.8	RLX	O. nivara
+2.69	RLX	O. nivara
+2.11	RLX	O. nivara
+1.61	RLX	O. nivara
+2.14	RLX	O. nivara
+0.77	RLX	O. nivara
+1.83	RLX	O. nivara
+2.62	RLX	O. nivara
+1.93	RLX	O. nivara
+1.7	RLX	O. nivara
+2.04	RLX	O. nivara
+1.23	RLX	O. nivara
+1.41	RLX	O. nivara
+1.16	RLX	O. nivara
+1.97	RLX	O. nivara
+1.75	RLX	O. nivara
+2.04	RLX	O. nivara
+1.28	RLX	O. nivara
+2.01	RLX	O. nivara
+1.07	RLX	O. nivara
+0.5	RLX	O. nivara
+1.4	RLX	O. nivara
+2.24	RLX	O. nivara
+1.55	RLX	O. nivara
+1.05	RLX	O. nivara
+1.27	RLX	O. nivara
+0.5	RLX	O. nivara
+2.18	RLX	O. nivara
+2.74	RLX	O. nivara
+1.91	RLX	O. nivara
+1.41	RLX	O. nivara
+1.96	RLX	O. nivara
+0.43	RLX	O. nivara
+1.8	RLX	O. nivara
+1.07	RLX	O. nivara
+1.79	RLX	O. nivara
+1.86	RLX	O. nivara
+1.63	RLX	O. nivara
+1.29	RLX	O. nivara
+1.47	RLX	O. nivara
+1.71	RLX	O. nivara
+0.76	RLX	O. nivara
+1.63	RLX	O. nivara
+2.07	RLX	O. nivara
+1.06	RLX	O. nivara
+1.63	RLX	O. nivara
+1.78	RLX	O. nivara
+1.93	RLX	O. nivara
+1.13	RLX	O. nivara
+1.16	RLX	O. nivara
+2.2	RLX	O. nivara
+1.38	RLX	O. nivara
+1.99	RLX	O. nivara
+1.48	RLX	O. nivara
+1.37	RLX	O. nivara
+1.92	RLX	O. nivara
+1.26	RLX	O. nivara
+2.17	RLX	O. nivara
+1.62	RLX	O. nivara
+1.46	RLX	O. nivara
+2.83	RLX	O. nivara
+2.4	RLX	O. nivara
+1.42	RLX	O. nivara
+1.75	RLX	O. nivara
+0.88	RLX	O. nivara
+1.73	RLX	O. nivara
+0	RLX	O. nivara
+0.34	RLX	O. nivara
+0.92	RLX	O. nivara
+0.49	RLX	O. nivara
+0.65	RLX	O. nivara
+0.27	RLX	O. nivara
+0.1	RLX	O. nivara
+1.55	RLX	O. nivara
+0.33	RLX	O. nivara
+0.22	RLX	O. nivara
+0.17	RLX	O. nivara
+0.21	RLX	O. nivara
+0.15	RLX	O. nivara
+1.12	RLX	O. nivara
+0.78	RLX	O. nivara
+1.12	RLX	O. nivara
+2.16	RLX	O. nivara
+0.17	RLX	O. nivara
+1.58	RLX	O. nivara
+1.89	RLX	O. nivara
+1.31	RLX	O. nivara
+1.62	RLX	O. nivara
+1.2	RLX	O. nivara
+1.59	RLX	O. nivara
+0.69	RLX	O. nivara
+1.71	RLX	O. nivara
+0.55	RLX	O. nivara
+1.63	RLX	O. nivara
+1.23	RLX	O. nivara
+1.34	RLX	O. nivara
+2.77	RLX	O. nivara
+0.57	RLX	O. nivara
+0.21	RLX	O. nivara
+0.29	RLX	O. nivara
+1.04	RLX	O. nivara
+0.13	RLX	O. nivara
+0	RLX	O. nivara
+0.38	RLX	O. nivara
+0.11	RLX	O. nivara
+0.22	RLX	O. nivara
+0.14	RLX	O. nivara
+0.46	RLX	O. nivara
+0.36	RLX	O. nivara
+0.31	RLX	O. nivara
+0.39	RLX	O. nivara
+1.75	RLX	O. nivara
+0.11	RLX	O. nivara
+1.33	RLX	O. nivara
+2.17	RLX	O. nivara
+0.98	RLX	O. nivara
+1.53	RLX	O. nivara
+3.27	RLX	O. nivara
+0.99	RLX	O. nivara
+1.75	RLX	O. nivara
+3.45	RLX	O. nivara
+0.95	RLX	O. nivara
+3.1	RLX	O. nivara
+3.55	RLX	O. nivara
+2.94	RLX	O. nivara
+1.92	RLX	O. nivara
+1.18	RLX	O. nivara
+2.78	RLX	O. nivara
+3.21	RLX	O. nivara
+1.78	RLX	O. nivara
+1.64	RLX	O. nivara
+0.69	RLX	O. nivara
+3.36	RLX	O. nivara
+1.69	RLX	O. nivara
+0.77	RLX	O. punctata
+0.92	RLX	O. punctata
+0.88	RLX	O. punctata
+2.44	RLX	O. punctata
+0.91	RLX	O. punctata
+2.85	RLX	O. punctata
+2.85	RLX	O. punctata
+1.1	RLX	O. punctata
+0.39	RLX	O. punctata
+0.96	RLX	O. punctata
+3.74	RLX	O. punctata
+2.76	RLX	O. punctata
+2.21	RLX	O. punctata
+3.73	RLX	O. punctata
+2.82	RLX	O. punctata
+1.1	RLX	O. punctata
+2.59	RLX	O. punctata
+0.9	RLX	O. punctata
+1.64	RLX	O. punctata
+2.76	RLX	O. punctata
+2.55	RLX	O. punctata
+1.24	RLX	O. punctata
+2.27	RLX	O. punctata
+1.64	RLX	O. punctata
+0.73	RLX	O. punctata
+2.26	RLX	O. punctata
+0.93	RLX	O. punctata
+3.19	RLX	O. punctata
+1.64	RLX	O. punctata
+0.6	RLX	O. punctata
+1.54	RLX	O. punctata
+0.61	RLX	O. punctata
+2.6	RLX	O. punctata
+1.58	RLX	O. punctata
+1.23	RLX	O. punctata
+3.56	RLX	O. punctata
+0.81	RLX	O. punctata
+1.27	RLX	O. punctata
+4.43	RLX	O. punctata
+3.87	RLX	O. punctata
+2.24	RLX	O. punctata
+3.34	RLX	O. punctata
+1.25	RLX	O. punctata
+1.25	RLX	O. punctata
+2.28	RLX	O. punctata
+3.91	RLX	O. punctata
+2.26	RLX	O. punctata
+2.67	RLX	O. punctata
+2.06	RLX	O. punctata
+1.27	RLX	O. punctata
+0.05	RLX	O. punctata
+2.24	RLX	O. punctata
+0.67	RLX	O. punctata
+1.75	RLX	O. punctata
+0	RLX	O. punctata
+1.79	RLX	O. punctata
+0	RLX	O. punctata
+0	RLX	O. punctata
+0.82	RLX	O. punctata
+1.95	RLX	O. punctata
+2.66	RLX	O. punctata
+1.68	RLX	O. punctata
+2.36	RLX	O. punctata
+0.63	RLX	O. punctata
+0.6	RLX	O. punctata
+0.72	RLX	O. punctata
+4.29	RLX	O. punctata
+3.66	RLX	O. punctata
+3.04	RLX	O. punctata
+3.83	RLX	O. punctata
+3.95	RLX	O. punctata
+0.46	RLX	O. punctata
+0.57	RLX	O. punctata
+2.96	RLX	O. punctata
+1.46	RLX	O. punctata
+1.36	RLX	O. punctata
+1.68	RLX	O. punctata
+0.87	RLX	O. punctata
+1.51	RLX	O. punctata
+1.47	RLX	O. punctata
+0.77	RLX	O. punctata
+2.96	RLX	O. punctata
+2.31	RLX	O. punctata
+3.19	RLX	O. punctata
+0.18	RLX	O. punctata
+0.73	RLX	O. punctata
+0.13	RLX	O. punctata
+1.02	RLX	O. punctata
+2.06	RLX	O. punctata
+1.2	RLX	O. punctata
+1.05	RLX	O. punctata
+1.99	RLX	O. punctata
+0.77	RLX	O. punctata
+1.42	RLX	O. punctata
+2.76	RLX	O. punctata
+1.44	RLX	O. punctata
+2.48	RLX	O. punctata
+1.19	RLX	O. punctata
+2.58	RLX	O. punctata
+1.49	RLX	O. punctata
+1.49	RLX	O. punctata
+3	RLX	O. punctata
+2.47	RLX	O. punctata
+1.67	RLX	O. punctata
+2.24	RLX	O. punctata
+1.04	RLX	O. punctata
+1.2	RLX	O. punctata
+0.35	RLX	O. punctata
+2.77	RLX	O. punctata
+1.77	RLX	O. punctata
+0.82	RLX	O. punctata
+2.13	RLX	O. punctata
+3.64	RLX	O. punctata
+3.15	RLX	O. punctata
+4.24	RLX	O. punctata
+3.82	RLX	O. punctata
+3.34	RLX	O. punctata
+4.16	RLX	O. punctata
+3.3	RLX	O. punctata
+3.75	RLX	O. punctata
+0.73	RLX	O. punctata
+1.65	RLX	O. punctata
+2.4	RLX	O. punctata
+1.86	RLX	O. punctata
+2.68	RLX	O. punctata
+1.9	RLX	O. punctata
+1.41	RLX	O. punctata
+3.41	RLX	O. punctata
+1.96	RLX	O. punctata
+0.42	RLX	O. punctata
+0.8	RLX	O. punctata
+0.81	RLX	O. punctata
+0.99	RLX	O. punctata
+1.1	RLX	O. punctata
+0.6	RLX	O. punctata
+0.53	RLX	O. punctata
+2.35	RLX	O. punctata
+2.48	RLX	O. punctata
+0.51	RLX	O. punctata
+2.59	RLX	O. punctata
+1.1	RLX	O. punctata
+2.7	RLX	O. punctata
+2.78	RLX	O. punctata
+2.53	RLX	O. punctata
+1.96	RLX	O. punctata
+3.98	RLX	O. punctata
+2.26	RLX	O. punctata
+2.14	RLX	O. punctata
+1.39	RLX	O. punctata
+1.85	RLX	O. punctata
+2.16	RLX	O. punctata
+1.89	RLX	O. punctata
+4.02	RLX	O. punctata
+2.26	RLX	O. punctata
+1.36	RLX	O. punctata
+1.97	RLX	O. punctata
+1.33	RLX	O. punctata
+0.87	RLX	O. punctata
+2.05	RLX	O. punctata
+1.82	RLX	O. punctata
+3.88	RLX	O. punctata
+3.27	RLX	O. punctata
+0.59	RLX	O. punctata
+2.15	RLX	O. punctata
+3.74	RLX	O. punctata
+0.85	RLX	O. punctata
+2.71	RLX	O. punctata
+2.56	RLX	O. punctata
+3.72	RLX	O. punctata
+0.62	RLX	O. punctata
+1.22	RLX	O. punctata
+2.75	RLX	O. punctata
+3.23	RLX	O. punctata
+2.42	RLX	O. punctata
+4.15	RLX	O. punctata
+3.26	RLX	O. punctata
+4	RLX	O. punctata
+3.97	RLX	O. punctata
+1.57	RLX	O. punctata
+3.73	RLX	O. punctata
+1.28	RLX	O. punctata
+2.1	RLX	O. punctata
+3.77	RLX	O. punctata
+3.48	RLX	O. punctata
+1.75	RLX	O. punctata
+3.16	RLX	O. punctata
+3.57	RLX	O. punctata
+1.57	RLX	O. punctata
+3.29	RLX	O. punctata
+3.97	RLX	O. punctata
+2.01	RLX	O. punctata
+0.82	RLX	O. punctata
+3.45	RLX	O. punctata
+1.14	RLX	O. punctata
+0.95	RLX	O. punctata
+1.04	RLX	O. punctata
+1.88	RLX	O. punctata
+2.28	RLX	O. punctata
+1.26	RLX	O. punctata
+2.62	RLX	O. punctata
+1.14	RLX	O. punctata
+2.1	RLX	O. punctata
+1.31	RLX	O. punctata
+1.27	RLX	O. punctata
+2.46	RLX	O. punctata
+3.5	RLX	O. punctata
+0.87	RLX	O. punctata
+4.45	RLX	O. punctata
+4.61	RLX	O. punctata
+1.4	RLX	O. punctata
+4.63	RLX	O. punctata
+2.1	RLX	O. punctata
+0.52	RLX	O. punctata
+0.81	RLX	O. punctata
+3.33	RLX	O. punctata
+0.35	RLX	O. punctata
+3.11	RLX	O. punctata
+1.85	RLX	O. punctata
+0.7	RLX	O. punctata
+0.71	RLX	O. punctata
+1.91	RLX	O. punctata
+1.32	RLX	O. punctata
+4	RLX	O. punctata
+1.26	RLX	O. punctata
+3.73	RLX	O. punctata
+2.05	RLX	O. punctata
+1.46	RLX	O. punctata
+3.81	RLX	O. punctata
+1.33	RLX	O. punctata
+4.6	RLX	O. punctata
+2.01	RLX	O. punctata
+3.85	RLX	O. punctata
+0.7	RLX	O. punctata
+4.41	RLX	O. punctata
+1.32	RLX	O. punctata
+0.55	RLX	O. punctata
+3	RLX	O. punctata
+2.87	RLX	O. punctata
+4.82	RLX	O. punctata
+1.83	RLX	O. punctata
+1.09	RLX	O. punctata
+3.72	RLX	O. punctata
+2.25	RLX	O. punctata
+4.36	RLX	O. punctata
+1.06	RLX	O. punctata
+1.29	RLX	O. punctata
+1.56	RLX	O. punctata
+3.66	RLX	O. punctata
+3.74	RLX	O. punctata
+2.44	RLX	O. punctata
+0.51	RLX	O. punctata
+1.54	RLX	O. punctata
+0.41	RLX	O. punctata
+1.34	RLX	O. punctata
+3.62	RLX	O. punctata
+3.11	RLX	O. punctata
+1.6	RLX	O. punctata
+1.59	RLX	O. punctata
+3.1	RLX	O. punctata
+2.95	RLX	O. punctata
+3.29	RLX	O. punctata
+2.44	RLX	O. punctata
+1.21	RLX	O. punctata
+1.9	RLX	O. punctata
+1.7	RLX	O. punctata
+2.7	RLX	O. punctata
+1.69	RLX	O. punctata
+1.64	RLX	O. punctata
+2.48	RLX	O. punctata
+3.67	RLX	O. punctata
+1.37	RLX	O. punctata
+2.98	RLX	O. punctata
+2.21	RLX	O. punctata
+3.31	RLX	O. punctata
+1.91	RLX	O. punctata
+3.37	RLX	O. punctata
+2.28	RLX	O. punctata
+1.12	RLX	O. punctata
+1.1	RLX	O. punctata
+3.54	RLX	O. punctata
+0.59	RLX	O. punctata
+3.79	RLX	O. punctata
+4.03	RLX	O. punctata
+1.35	RLX	O. punctata
+4.04	RLX	O. punctata
+3.88	RLX	O. punctata
+3.17	RLX	O. punctata
+1.31	RLX	O. punctata
+3.7	RLX	O. punctata
+0.9	RLX	O. punctata
+0.53	RLX	O. punctata
+1.2	RLX	O. punctata
+0.94	RLX	O. punctata
+3.78	RLX	O. punctata
+3.41	RLX	O. punctata
+0.47	RLX	O. punctata
+2.29	RLX	O. punctata
+0.6	RLX	O. punctata
+3.68	RLX	O. punctata
+3.59	RLX	O. punctata
+0.25	RLX	O. punctata
+1.16	RLX	O. punctata
+1.18	RLX	O. punctata
+1.61	RLX	O. punctata
+2.46	RLX	O. punctata
+1.3	RLX	O. punctata
+1.27	RLX	O. punctata
+1.11	RLX	O. punctata
+0.96	RLX	O. punctata
+1.77	RLX	O. punctata
+1.13	RLX	O. punctata
+1.45	RLX	O. punctata
+1.21	RLX	O. punctata
+1.98	RLX	O. punctata
+0.43	RLX	O. punctata
+0.74	RLX	O. punctata
+1.14	RLX	O. punctata
+1.31	RLX	O. punctata
+0.65	RLX	O. punctata
+1.15	RLX	O. punctata
+0.14	RLX	O. punctata
+1.48	RLX	O. punctata
+1.92	RLX	O. punctata
+1.75	RLX	O. punctata
+0.34	RLX	O. punctata
+1.73	RLX	O. punctata
+1.98	RLX	O. punctata
+1.06	RLX	O. punctata
+0.29	RLX	O. punctata
+2.1	RLX	O. punctata
+1.86	RLX	O. punctata
+1.57	RLX	O. punctata
+1.6	RLX	O. punctata
+1.54	RLX	O. punctata
+0.9	RLX	O. punctata
+1.37	RLX	O. punctata
+1.03	RLX	O. punctata
+2.85	RLX	O. punctata
+2.91	RLX	O. punctata
+1.17	RLX	O. punctata
+1.6	RLX	O. punctata
+2.86	RLX	O. punctata
+2.58	RLX	O. punctata
+2.27	RLX	O. punctata
+1.49	RLX	O. punctata
+0.53	RLX	O. punctata
+3.22	RLX	O. punctata
+2.35	RLX	O. punctata
+3.8	RLX	O. punctata
+1.51	RLX	O. rufipogon
+1.33	RLX	O. rufipogon
+3.21	RLX	O. rufipogon
+0.68	RLX	O. rufipogon
+1.07	RLX	O. rufipogon
+0.44	RLX	O. rufipogon
+1.36	RLX	O. rufipogon
+0.68	RLX	O. rufipogon
+1.98	RLX	O. rufipogon
+0.73	RLX	O. rufipogon
+0.87	RLX	O. rufipogon
+1.53	RLX	O. rufipogon
+0.63	RLX	O. rufipogon
+1.43	RLX	O. rufipogon
+2.39	RLX	O. rufipogon
+1.15	RLX	O. rufipogon
+1.94	RLX	O. rufipogon
+2.18	RLX	O. rufipogon
+1.25	RLX	O. rufipogon
+2.32	RLX	O. rufipogon
+1.42	RLX	O. rufipogon
+1.66	RLX	O. rufipogon
+1.16	RLX	O. rufipogon
+1.64	RLX	O. rufipogon
+2.25	RLX	O. rufipogon
+0.92	RLX	O. rufipogon
+2.01	RLX	O. rufipogon
+1.07	RLX	O. rufipogon
+1.51	RLX	O. rufipogon
+1.25	RLX	O. rufipogon
+0.73	RLX	O. rufipogon
+1.48	RLX	O. rufipogon
+2.88	RLX	O. rufipogon
+2.92	RLX	O. rufipogon
+1.62	RLX	O. rufipogon
+1.39	RLX	O. rufipogon
+1.67	RLX	O. rufipogon
+2.15	RLX	O. rufipogon
+1.64	RLX	O. rufipogon
+2.14	RLX	O. rufipogon
+1.2	RLX	O. rufipogon
+1.69	RLX	O. rufipogon
+1.87	RLX	O. rufipogon
+4.25	RLX	O. rufipogon
+1.67	RLX	O. rufipogon
+1.55	RLX	O. rufipogon
+2.06	RLX	O. rufipogon
+1.65	RLX	O. rufipogon
+2.49	RLX	O. rufipogon
+3.4	RLX	O. rufipogon
+3.2	RLX	O. rufipogon
+1.19	RLX	O. rufipogon
+2.7	RLX	O. rufipogon
+2.7	RLX	O. rufipogon
+1.44	RLX	O. rufipogon
+2.92	RLX	O. rufipogon
+2.19	RLX	O. rufipogon
+1.66	RLX	O. rufipogon
+2.82	RLX	O. rufipogon
+2.17	RLX	O. rufipogon
+1.64	RLX	O. rufipogon
+1.56	RLX	O. rufipogon
+2.36	RLX	O. rufipogon
+1.46	RLX	O. rufipogon
+1.88	RLX	O. rufipogon
+1.16	RLX	O. rufipogon
+0.89	RLX	O. rufipogon
+1.95	RLX	O. rufipogon
+1.99	RLX	O. rufipogon
+1.56	RLX	O. rufipogon
+1.23	RLX	O. rufipogon
+1.46	RLX	O. rufipogon
+1.26	RLX	O. rufipogon
+0.69	RLX	O. rufipogon
+1.71	RLX	O. rufipogon
+2.84	RLX	O. rufipogon
+1.38	RLX	O. rufipogon
+1.45	RLX	O. rufipogon
+0.58	RLX	O. rufipogon
+0.99	RLX	O. rufipogon
+1.64	RLX	O. rufipogon
+1.86	RLX	O. rufipogon
+1.56	RLX	O. rufipogon
+1.84	RLX	O. rufipogon
+1.77	RLX	O. rufipogon
+2.04	RLX	O. rufipogon
+1.17	RLX	O. rufipogon
+1.05	RLX	O. rufipogon
+2.58	RLX	O. rufipogon
+1.21	RLX	O. rufipogon
+1.6	RLX	O. rufipogon
+2.02	RLX	O. rufipogon
+1.9	RLX	O. rufipogon
+2.21	RLX	O. rufipogon
+1.6	RLX	O. rufipogon
+2.14	RLX	O. rufipogon
+1.83	RLX	O. rufipogon
+1.44	RLX	O. rufipogon
+1.36	RLX	O. rufipogon
+0.99	RLX	O. rufipogon
+1.62	RLX	O. rufipogon
+2.53	RLX	O. rufipogon
+2	RLX	O. rufipogon
+2	RLX	O. rufipogon
+1.89	RLX	O. rufipogon
+1.64	RLX	O. rufipogon
+1.38	RLX	O. rufipogon
+2.46	RLX	O. rufipogon
+1.8	RLX	O. rufipogon
+1.94	RLX	O. rufipogon
+2.76	RLX	O. rufipogon
+1.56	RLX	O. rufipogon
+0.85	RLX	O. rufipogon
+0.98	RLX	O. rufipogon
+1.8	RLX	O. rufipogon
+0.88	RLX	O. rufipogon
+0.67	RLX	O. rufipogon
+1.14	RLX	O. rufipogon
+1.49	RLX	O. rufipogon
+1.68	RLX	O. rufipogon
+1.15	RLX	O. rufipogon
+0.99	RLX	O. rufipogon
+1.68	RLX	O. rufipogon
+2.12	RLX	O. rufipogon
+2.7	RLX	O. rufipogon
+0.97	RLX	O. rufipogon
+1.24	RLX	O. rufipogon
+1.4	RLX	O. rufipogon
+0.61	RLX	O. rufipogon
+2.18	RLX	O. rufipogon
+1.81	RLX	O. rufipogon
+2.11	RLX	O. rufipogon
+1.36	RLX	O. rufipogon
+2.42	RLX	O. rufipogon
+1.92	RLX	O. rufipogon
+2.03	RLX	O. rufipogon
+1.95	RLX	O. rufipogon
+0.92	RLX	O. rufipogon
+1.37	RLX	O. rufipogon
+1.27	RLX	O. rufipogon
+1.8	RLX	O. rufipogon
+2.54	RLX	O. rufipogon
+2.42	RLX	O. rufipogon
+1.59	RLX	O. rufipogon
+2.26	RLX	O. rufipogon
+2.17	RLX	O. rufipogon
+1.41	RLX	O. rufipogon
+1.36	RLX	O. rufipogon
+2.19	RLX	O. rufipogon
+1.38	RLX	O. rufipogon
+1.3	RLX	O. rufipogon
+1.74	RLX	O. rufipogon
+1.3	RLX	O. rufipogon
+0.9	RLX	O. rufipogon
+1.54	RLX	O. rufipogon
+1.53	RLX	O. rufipogon
+2.53	RLX	O. rufipogon
+1.38	RLX	O. rufipogon
+1.61	RLX	O. rufipogon
+1.7	RLX	O. rufipogon
+1.63	RLX	O. rufipogon
+1.04	RLX	O. rufipogon
+1.12	RLX	O. rufipogon
+1.6	RLX	O. rufipogon
+1.65	RLX	O. rufipogon
+1.68	RLX	O. rufipogon
+0.78	RLX	O. rufipogon
+0.65	RLX	O. rufipogon
+0.74	RLX	O. rufipogon
+1.87	RLX	O. rufipogon
+2.48	RLX	O. rufipogon
+2.11	RLX	O. rufipogon
+1.65	RLX	O. rufipogon
+1.84	RLX	O. rufipogon
+1.57	RLX	O. rufipogon
+1.51	RLX	O. rufipogon
+2.19	RLX	O. rufipogon
+1.31	RLX	O. rufipogon
+0.78	RLX	O. rufipogon
+0.38	RLX	O. rufipogon
+1.78	RLX	O. rufipogon
+1.46	RLX	O. rufipogon
+1.08	RLX	O. rufipogon
+1.83	RLX	O. rufipogon
+2.27	RLX	O. rufipogon
+1.48	RLX	O. rufipogon
+1.82	RLX	O. rufipogon
+1.19	RLX	O. rufipogon
+1.12	RLX	O. rufipogon
+1.13	RLX	O. rufipogon
+1.88	RLX	O. rufipogon
+2.7	RLX	O. rufipogon
+0.83	RLX	O. rufipogon
+1.06	RLX	O. rufipogon
+0.97	RLX	O. rufipogon
+2.85	RLX	O. rufipogon
+0.72	RLX	O. rufipogon
+1.19	RLX	O. rufipogon
+1.32	RLX	O. rufipogon
+1.07	RLX	O. rufipogon
+3.07	RLX	O. rufipogon
+1.17	RLX	O. rufipogon
+1.15	RLX	O. rufipogon
+1.57	RLX	O. rufipogon
+1.81	RLX	O. rufipogon
+2.12	RLX	O. rufipogon
+1.56	RLX	O. rufipogon
+2.27	RLX	O. rufipogon
+1.71	RLX	O. rufipogon
+1.04	RLX	O. rufipogon
+1.71	RLX	O. rufipogon
+1.03	RLX	O. rufipogon
+2.21	RLX	O. rufipogon
+1.84	RLX	O. rufipogon
+1.15	RLX	O. rufipogon
+1.17	RLX	O. rufipogon
+1.93	RLX	O. rufipogon
+3.54	RLX	O. rufipogon
+1.51	RLX	O. rufipogon
+1.23	RLX	O. rufipogon
+2.18	RLX	O. rufipogon
+1.57	RLX	O. rufipogon
+1.69	RLX	O. rufipogon
+0.9	RLX	O. rufipogon
+1.43	RLX	O. rufipogon
+1.69	RLX	O. rufipogon
+1.46	RLX	O. rufipogon
+2.7	RLX	O. rufipogon
+3.82	RLX	O. rufipogon
+1.49	RLX	O. rufipogon
+1.54	RLX	O. rufipogon
+2.22	RLX	O. rufipogon
+1.36	RLX	O. rufipogon
+1.04	RLX	O. rufipogon
+2.74	RLX	O. rufipogon
+2.95	RLX	O. rufipogon
+1.2	RLX	O. rufipogon
+3.06	RLX	O. rufipogon
+1.26	RLX	O. rufipogon

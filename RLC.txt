@@ -1,0 +1,3572 @@
+Insertion_age	Family	Specie
+1.05	RLC	L. perrieri
+1.27	RLC	L. perrieri
+0.47	RLC	L. perrieri
+1.19	RLC	L. perrieri
+1.28	RLC	L. perrieri
+2.07	RLC	L. perrieri
+1.42	RLC	L. perrieri
+1.32	RLC	L. perrieri
+1.44	RLC	L. perrieri
+2.58	RLC	L. perrieri
+2.53	RLC	L. perrieri
+0.92	RLC	L. perrieri
+0.1	RLC	L. perrieri
+2.06	RLC	L. perrieri
+1.1	RLC	L. perrieri
+0.86	RLC	L. perrieri
+1.73	RLC	L. perrieri
+3.48	RLC	L. perrieri
+0.32	RLC	L. perrieri
+1.03	RLC	L. perrieri
+1.8	RLC	L. perrieri
+2.31	RLC	L. perrieri
+2.16	RLC	L. perrieri
+1.87	RLC	L. perrieri
+1.45	RLC	L. perrieri
+0.64	RLC	L. perrieri
+2.66	RLC	L. perrieri
+0.72	RLC	L. perrieri
+0.21	RLC	L. perrieri
+1.26	RLC	L. perrieri
+1.11	RLC	L. perrieri
+1.17	RLC	L. perrieri
+0.91	RLC	L. perrieri
+1.17	RLC	L. perrieri
+0.35	RLC	L. perrieri
+1.51	RLC	L. perrieri
+0.93	RLC	L. perrieri
+0.63	RLC	L. perrieri
+0.25	RLC	L. perrieri
+1.35	RLC	L. perrieri
+1.54	RLC	L. perrieri
+2.2	RLC	L. perrieri
+1.31	RLC	L. perrieri
+1.11	RLC	L. perrieri
+1.41	RLC	L. perrieri
+1.27	RLC	L. perrieri
+1.53	RLC	L. perrieri
+2.44	RLC	L. perrieri
+1.54	RLC	L. perrieri
+0.86	RLC	L. perrieri
+0.65	RLC	L. perrieri
+1.55	RLC	L. perrieri
+1.15	RLC	L. perrieri
+1.58	RLC	L. perrieri
+3.97	RLC	L. perrieri
+1.98	RLC	L. perrieri
+2.37	RLC	L. perrieri
+1.48	RLC	L. perrieri
+1.88	RLC	L. perrieri
+2.45	RLC	L. perrieri
+1.72	RLC	L. perrieri
+1.76	RLC	L. perrieri
+0.55	RLC	L. perrieri
+1.21	RLC	L. perrieri
+1.21	RLC	L. perrieri
+0.78	RLC	L. perrieri
+0.82	RLC	L. perrieri
+0.44	RLC	L. perrieri
+0.91	RLC	L. perrieri
+0.62	RLC	L. perrieri
+1.93	RLC	L. perrieri
+2.22	RLC	L. perrieri
+1.18	RLC	L. perrieri
+2.96	RLC	L. perrieri
+2.6	RLC	L. perrieri
+1.02	RLC	L. perrieri
+1.56	RLC	L. perrieri
+1.06	RLC	L. perrieri
+1.69	RLC	L. perrieri
+1.8	RLC	L. perrieri
+1.75	RLC	L. perrieri
+3.58	RLC	L. perrieri
+1.25	RLC	L. perrieri
+2.05	RLC	L. perrieri
+1.48	RLC	L. perrieri
+0.93	RLC	L. perrieri
+0.38	RLC	L. perrieri
+0.7	RLC	L. perrieri
+2.45	RLC	L. perrieri
+0.66	RLC	L. perrieri
+0.19	RLC	L. perrieri
+1.95	RLC	L. perrieri
+1.11	RLC	L. perrieri
+2.43	RLC	L. perrieri
+1.85	RLC	L. perrieri
+0.68	RLC	L. perrieri
+1.23	RLC	L. perrieri
+1.11	RLC	L. perrieri
+1.51	RLC	L. perrieri
+0.88	RLC	L. perrieri
+0.97	RLC	L. perrieri
+3.14	RLC	L. perrieri
+1.73	RLC	L. perrieri
+2.27	RLC	L. perrieri
+0.55	RLC	L. perrieri
+1.69	RLC	L. perrieri
+1.55	RLC	L. perrieri
+1.23	RLC	L. perrieri
+1.56	RLC	L. perrieri
+0.05	RLC	L. perrieri
+1.21	RLC	L. perrieri
+1.4	RLC	L. perrieri
+2.16	RLC	L. perrieri
+2.68	RLC	L. perrieri
+2.27	RLC	L. perrieri
+2.74	RLC	L. perrieri
+2.81	RLC	L. perrieri
+1.28	RLC	L. perrieri
+0.97	RLC	L. perrieri
+1.01	RLC	L. perrieri
+1.95	RLC	L. perrieri
+2.24	RLC	L. perrieri
+1.35	RLC	L. perrieri
+1.22	RLC	L. perrieri
+2.02	RLC	L. perrieri
+0.58	RLC	L. perrieri
+0.36	RLC	L. perrieri
+0.98	RLC	L. perrieri
+1.73	RLC	L. perrieri
+2.02	RLC	L. perrieri
+0.84	RLC	L. perrieri
+1.4	RLC	L. perrieri
+3.18	RLC	L. perrieri
+0.68	RLC	L. perrieri
+1.42	RLC	L. perrieri
+0.24	RLC	L. perrieri
+1.79	RLC	L. perrieri
+2.9	RLC	L. perrieri
+1.54	RLC	L. perrieri
+3.79	RLC	L. perrieri
+2.06	RLC	L. perrieri
+2.56	RLC	L. perrieri
+1.52	RLC	L. perrieri
+1.36	RLC	L. perrieri
+1.3	RLC	L. perrieri
+2.75	RLC	L. perrieri
+1.82	RLC	L. perrieri
+0.89	RLC	L. perrieri
+0.97	RLC	L. perrieri
+3.5	RLC	L. perrieri
+0.68	RLC	L. perrieri
+1.51	RLC	L. perrieri
+2.04	RLC	L. perrieri
+0.61	RLC	L. perrieri
+1.27	RLC	L. perrieri
+1.85	RLC	L. perrieri
+1.66	RLC	L. perrieri
+2.2	RLC	L. perrieri
+2.35	RLC	L. perrieri
+1.09	RLC	L. perrieri
+1.47	RLC	L. perrieri
+1.29	RLC	L. perrieri
+1.24	RLC	L. perrieri
+2.05	RLC	L. perrieri
+0.27	RLC	L. perrieri
+3.34	RLC	L. perrieri
+2.63	RLC	L. perrieri
+0.72	RLC	L. perrieri
+2.26	RLC	L. perrieri
+2.71	RLC	L. perrieri
+2.01	RLC	L. perrieri
+1.73	RLC	L. perrieri
+1.58	RLC	L. perrieri
+2.58	RLC	L. perrieri
+1.9	RLC	L. perrieri
+2.15	RLC	L. perrieri
+0.75	RLC	L. perrieri
+0.82	RLC	L. perrieri
+1.71	RLC	L. perrieri
+2.7	RLC	L. perrieri
+2.15	RLC	L. perrieri
+1.23	RLC	L. perrieri
+2.27	RLC	L. perrieri
+2.66	RLC	L. perrieri
+1.66	RLC	L. perrieri
+1.65	RLC	L. perrieri
+2.88	RLC	L. perrieri
+1.42	RLC	L. perrieri
+0.5	RLC	L. perrieri
+1.43	RLC	L. perrieri
+0.15	RLC	L. perrieri
+0.34	RLC	L. perrieri
+1.19	RLC	L. perrieri
+1.56	RLC	L. perrieri
+0.69	RLC	L. perrieri
+0.69	RLC	L. perrieri
+0.57	RLC	L. perrieri
+0	RLC	L. perrieri
+2.4	RLC	L. perrieri
+0.94	RLC	L. perrieri
+1.86	RLC	L. perrieri
+0.93	RLC	L. perrieri
+2.23	RLC	L. perrieri
+1.39	RLC	L. perrieri
+1.82	RLC	L. perrieri
+1.77	RLC	L. perrieri
+2.78	RLC	L. perrieri
+2.5	RLC	L. perrieri
+2.6	RLC	L. perrieri
+2.02	RLC	L. perrieri
+1.58	RLC	L. perrieri
+2.33	RLC	L. perrieri
+1.21	RLC	L. perrieri
+3.09	RLC	L. perrieri
+2.64	RLC	L. perrieri
+2.22	RLC	L. perrieri
+0.21	RLC	L. perrieri
+1.97	RLC	L. perrieri
+2.3	RLC	L. perrieri
+1	RLC	L. perrieri
+0.83	RLC	L. perrieri
+1.66	RLC	L. perrieri
+2.15	RLC	L. perrieri
+1.28	RLC	L. perrieri
+0.79	RLC	L. perrieri
+1.2	RLC	L. perrieri
+2.02	RLC	L. perrieri
+1.83	RLC	L. perrieri
+0.31	RLC	L. perrieri
+1.53	RLC	L. perrieri
+1.1	RLC	O. barthii
+1.62	RLC	O. barthii
+0.26	RLC	O. barthii
+1.85	RLC	O. barthii
+2.14	RLC	O. barthii
+1.7	RLC	O. barthii
+0.88	RLC	O. barthii
+1.89	RLC	O. barthii
+3.38	RLC	O. barthii
+0.11	RLC	O. barthii
+2.19	RLC	O. barthii
+2.37	RLC	O. barthii
+1.49	RLC	O. barthii
+2.11	RLC	O. barthii
+2.12	RLC	O. barthii
+1.09	RLC	O. barthii
+1.77	RLC	O. barthii
+2.49	RLC	O. barthii
+1.53	RLC	O. barthii
+1.95	RLC	O. barthii
+0	RLC	O. barthii
+0.83	RLC	O. barthii
+1.38	RLC	O. barthii
+0.5	RLC	O. barthii
+1.34	RLC	O. barthii
+1.75	RLC	O. barthii
+1.6	RLC	O. barthii
+1.97	RLC	O. barthii
+1.63	RLC	O. barthii
+2.3	RLC	O. barthii
+2.01	RLC	O. barthii
+2.95	RLC	O. barthii
+1.55	RLC	O. barthii
+1.06	RLC	O. barthii
+3.13	RLC	O. barthii
+1.91	RLC	O. barthii
+1.38	RLC	O. barthii
+2.11	RLC	O. barthii
+1.98	RLC	O. barthii
+1.45	RLC	O. barthii
+1.04	RLC	O. barthii
+2.11	RLC	O. barthii
+1.62	RLC	O. barthii
+1.36	RLC	O. barthii
+1.41	RLC	O. barthii
+1.55	RLC	O. barthii
+1.35	RLC	O. barthii
+2.12	RLC	O. barthii
+0.83	RLC	O. barthii
+0.47	RLC	O. barthii
+1.27	RLC	O. barthii
+1.61	RLC	O. barthii
+1.68	RLC	O. barthii
+0.15	RLC	O. barthii
+0.54	RLC	O. barthii
+0.71	RLC	O. barthii
+0.53	RLC	O. barthii
+0.66	RLC	O. barthii
+0	RLC	O. barthii
+0.99	RLC	O. barthii
+2.05	RLC	O. barthii
+0.86	RLC	O. barthii
+2.56	RLC	O. barthii
+0.33	RLC	O. barthii
+2.22	RLC	O. barthii
+1.92	RLC	O. barthii
+0.79	RLC	O. barthii
+1.5	RLC	O. barthii
+2.09	RLC	O. barthii
+1.48	RLC	O. barthii
+1.18	RLC	O. barthii
+2.46	RLC	O. barthii
+0.73	RLC	O. barthii
+1.52	RLC	O. barthii
+1.97	RLC	O. barthii
+1.62	RLC	O. barthii
+1.33	RLC	O. barthii
+0.89	RLC	O. barthii
+1.64	RLC	O. barthii
+1.27	RLC	O. barthii
+0.99	RLC	O. barthii
+0	RLC	O. barthii
+0.94	RLC	O. barthii
+0.69	RLC	O. barthii
+1.09	RLC	O. barthii
+1.11	RLC	O. barthii
+1.35	RLC	O. barthii
+0.61	RLC	O. barthii
+1.2	RLC	O. barthii
+1.96	RLC	O. barthii
+0.51	RLC	O. barthii
+0.29	RLC	O. barthii
+0.31	RLC	O. barthii
+0.8	RLC	O. barthii
+0	RLC	O. barthii
+0.41	RLC	O. barthii
+0.44	RLC	O. barthii
+0.45	RLC	O. barthii
+1.21	RLC	O. barthii
+1.56	RLC	O. barthii
+1.79	RLC	O. barthii
+2.35	RLC	O. barthii
+1.03	RLC	O. barthii
+1.27	RLC	O. barthii
+0	RLC	O. barthii
+1.68	RLC	O. barthii
+0	RLC	O. barthii
+1.88	RLC	O. barthii
+2.24	RLC	O. barthii
+1.4	RLC	O. barthii
+0.52	RLC	O. barthii
+0.26	RLC	O. barthii
+0.75	RLC	O. barthii
+1.06	RLC	O. barthii
+0.87	RLC	O. barthii
+1.22	RLC	O. barthii
+0.25	RLC	O. barthii
+2.91	RLC	O. barthii
+1.16	RLC	O. barthii
+1.6	RLC	O. barthii
+0.36	RLC	O. barthii
+0	RLC	O. barthii
+1.28	RLC	O. barthii
+0.17	RLC	O. barthii
+2.06	RLC	O. barthii
+2.14	RLC	O. barthii
+0	RLC	O. barthii
+1.57	RLC	O. barthii
+1.59	RLC	O. barthii
+2.74	RLC	O. barthii
+2.08	RLC	O. barthii
+1.38	RLC	O. barthii
+1.36	RLC	O. barthii
+1.38	RLC	O. barthii
+1.19	RLC	O. barthii
+2.03	RLC	O. barthii
+1.99	RLC	O. barthii
+1.67	RLC	O. barthii
+2.15	RLC	O. barthii
+0.98	RLC	O. barthii
+2.09	RLC	O. barthii
+2.09	RLC	O. barthii
+1.31	RLC	O. barthii
+1.6	RLC	O. barthii
+0.84	RLC	O. barthii
+0	RLC	O. barthii
+0.82	RLC	O. barthii
+0.15	RLC	O. barthii
+0.41	RLC	O. barthii
+2.42	RLC	O. barthii
+1.29	RLC	O. barthii
+1.61	RLC	O. barthii
+2.5	RLC	O. barthii
+2.92	RLC	O. barthii
+0.18	RLC	O. barthii
+1.05	RLC	O. barthii
+0.56	RLC	O. barthii
+1.72	RLC	O. barthii
+0.16	RLC	O. barthii
+1.64	RLC	O. barthii
+1.44	RLC	O. barthii
+1.23	RLC	O. barthii
+1.48	RLC	O. barthii
+1.19	RLC	O. barthii
+0.93	RLC	O. barthii
+1.53	RLC	O. barthii
+1.35	RLC	O. barthii
+1.64	RLC	O. barthii
+1.63	RLC	O. barthii
+0.37	RLC	O. barthii
+2.87	RLC	O. barthii
+1.28	RLC	O. barthii
+2.06	RLC	O. barthii
+1.35	RLC	O. barthii
+1.13	RLC	O. barthii
+2.24	RLC	O. barthii
+1.07	RLC	O. barthii
+2.65	RLC	O. barthii
+1.5	RLC	O. barthii
+0.65	RLC	O. barthii
+0.98	RLC	O. barthii
+1.65	RLC	O. barthii
+2.39	RLC	O. barthii
+0	RLC	O. barthii
+1.06	RLC	O. barthii
+1.7	RLC	O. barthii
+0.27	RLC	O. barthii
+0.88	RLC	O. barthii
+0.87	RLC	O. barthii
+1.23	RLC	O. barthii
+0.6	RLC	O. barthii
+1.68	RLC	O. barthii
+0.89	RLC	O. barthii
+0.81	RLC	O. barthii
+0.79	RLC	O. barthii
+1.19	RLC	O. barthii
+0.43	RLC	O. barthii
+1.57	RLC	O. barthii
+0.33	RLC	O. barthii
+0.3	RLC	O. barthii
+0.92	RLC	O. barthii
+1.11	RLC	O. barthii
+0.83	RLC	O. barthii
+1.89	RLC	O. barthii
+0	RLC	O. barthii
+1.54	RLC	O. barthii
+2.48	RLC	O. barthii
+2.04	RLC	O. barthii
+1.48	RLC	O. barthii
+0.52	RLC	O. barthii
+0.92	RLC	O. barthii
+1.07	RLC	O. barthii
+1.08	RLC	O. barthii
+0.19	RLC	O. barthii
+1.44	RLC	O. barthii
+0.99	RLC	O. barthii
+0.07	RLC	O. barthii
+2.32	RLC	O. barthii
+1.27	RLC	O. barthii
+0	RLC	O. barthii
+0.72	RLC	O. barthii
+0.34	RLC	O. barthii
+3.39	RLC	O. brachyantha
+0.44	RLC	O. brachyantha
+2.72	RLC	O. brachyantha
+1.32	RLC	O. brachyantha
+2.04	RLC	O. brachyantha
+2.42	RLC	O. brachyantha
+3.58	RLC	O. brachyantha
+1.32	RLC	O. brachyantha
+2.65	RLC	O. brachyantha
+2.14	RLC	O. brachyantha
+2.59	RLC	O. brachyantha
+3.07	RLC	O. brachyantha
+2.57	RLC	O. brachyantha
+2.01	RLC	O. brachyantha
+2.55	RLC	O. brachyantha
+2.34	RLC	O. brachyantha
+2.59	RLC	O. brachyantha
+1.54	RLC	O. brachyantha
+1.07	RLC	O. brachyantha
+1.42	RLC	O. brachyantha
+2.27	RLC	O. brachyantha
+3.08	RLC	O. brachyantha
+2.1	RLC	O. brachyantha
+1.91	RLC	O. brachyantha
+2.32	RLC	O. brachyantha
+2.24	RLC	O. brachyantha
+3.44	RLC	O. brachyantha
+2.01	RLC	O. brachyantha
+1.98	RLC	O. brachyantha
+1.89	RLC	O. brachyantha
+1.04	RLC	O. brachyantha
+2.57	RLC	O. brachyantha
+1.28	RLC	O. brachyantha
+1.91	RLC	O. brachyantha
+4.11	RLC	O. brachyantha
+1.38	RLC	O. brachyantha
+1.2	RLC	O. brachyantha
+2.39	RLC	O. brachyantha
+0.38	RLC	O. brachyantha
+1.49	RLC	O. brachyantha
+2.19	RLC	O. brachyantha
+2.19	RLC	O. brachyantha
+1.3	RLC	O. brachyantha
+1.34	RLC	O. brachyantha
+2.62	RLC	O. brachyantha
+1.66	RLC	O. brachyantha
+1.99	RLC	O. brachyantha
+2.04	RLC	O. brachyantha
+2.11	RLC	O. brachyantha
+1.63	RLC	O. brachyantha
+1.07	RLC	O. brachyantha
+3	RLC	O. brachyantha
+1.06	RLC	O. brachyantha
+1.1	RLC	O. brachyantha
+2.82	RLC	O. brachyantha
+2.49	RLC	O. brachyantha
+3.09	RLC	O. brachyantha
+2.36	RLC	O. brachyantha
+2.47	RLC	O. brachyantha
+1.9	RLC	O. brachyantha
+1.92	RLC	O. brachyantha
+2.18	RLC	O. brachyantha
+2.41	RLC	O. brachyantha
+1.3	RLC	O. brachyantha
+0.93	RLC	O. brachyantha
+1.97	RLC	O. brachyantha
+0.74	RLC	O. brachyantha
+3.76	RLC	O. brachyantha
+0.75	RLC	O. brachyantha
+1.07	RLC	O. brachyantha
+2.15	RLC	O. brachyantha
+2.45	RLC	O. brachyantha
+0.72	RLC	O. brachyantha
+1.11	RLC	O. brachyantha
+2.69	RLC	O. brachyantha
+2.51	RLC	O. brachyantha
+0.98	RLC	O. brachyantha
+2.18	RLC	O. brachyantha
+3.45	RLC	O. brachyantha
+1.98	RLC	O. brachyantha
+2.25	RLC	O. brachyantha
+3.19	RLC	O. brachyantha
+1.67	RLC	O. brachyantha
+0.25	RLC	O. brachyantha
+0.15	RLC	O. brachyantha
+0.09	RLC	O. brachyantha
+1.63	RLC	O. brachyantha
+2.58	RLC	O. brachyantha
+1.58	RLC	O. brachyantha
+1.91	RLC	O. brachyantha
+0.52	RLC	O. brachyantha
+1.59	RLC	O. brachyantha
+1.89	RLC	O. brachyantha
+1.15	RLC	O. brachyantha
+2.59	RLC	O. brachyantha
+1.87	RLC	O. brachyantha
+1.53	RLC	O. brachyantha
+2.84	RLC	O. brachyantha
+2.05	RLC	O. brachyantha
+0.86	RLC	O. brachyantha
+0.27	RLC	O. brachyantha
+0.89	RLC	O. brachyantha
+1.69	RLC	O. brachyantha
+2.72	RLC	O. brachyantha
+1.87	RLC	O. brachyantha
+1.84	RLC	O. brachyantha
+0.8	RLC	O. brachyantha
+2.76	RLC	O. brachyantha
+2.12	RLC	O. brachyantha
+1.52	RLC	O. brachyantha
+1.2	RLC	O. brachyantha
+2.4	RLC	O. brachyantha
+2.79	RLC	O. brachyantha
+2.02	RLC	O. brachyantha
+2.68	RLC	O. brachyantha
+2.75	RLC	O. brachyantha
+1.38	RLC	O. brachyantha
+1.34	RLC	O. brachyantha
+2.1	RLC	O. brachyantha
+1.25	RLC	O. brachyantha
+1.59	RLC	O. brachyantha
+0.33	RLC	O. brachyantha
+1.17	RLC	O. brachyantha
+1.29	RLC	O. brachyantha
+2.19	RLC	O. brachyantha
+1.59	RLC	O. brachyantha
+2.01	RLC	O. brachyantha
+1.17	RLC	O. brachyantha
+0.81	RLC	O. brachyantha
+1.27	RLC	O. brachyantha
+1.01	RLC	O. brachyantha
+0.55	RLC	O. brachyantha
+4.05	RLC	O. brachyantha
+0.32	RLC	O. brachyantha
+1.32	RLC	O. brachyantha
+1.12	RLC	O. brachyantha
+1.28	RLC	O. brachyantha
+2.04	RLC	O. brachyantha
+2.14	RLC	O. brachyantha
+2.32	RLC	O. brachyantha
+1.53	RLC	O. brachyantha
+0.55	RLC	O. brachyantha
+1.22	RLC	O. brachyantha
+2.29	RLC	O. brachyantha
+1.03	RLC	O. brachyantha
+2.95	RLC	O. brachyantha
+0.96	RLC	O. brachyantha
+0.92	RLC	O. brachyantha
+2.45	RLC	O. brachyantha
+0.93	RLC	O. brachyantha
+3.5	RLC	O. brachyantha
+0	RLC	O. brachyantha
+0.89	RLC	O. brachyantha
+1.61	RLC	O. brachyantha
+1.65	RLC	O. brachyantha
+0	RLC	O. brachyantha
+2.56	RLC	O. brachyantha
+0	RLC	O. brachyantha
+1.26	RLC	O. brachyantha
+1.88	RLC	O. brachyantha
+1.32	RLC	O. brachyantha
+2.15	RLC	O. brachyantha
+1.36	RLC	O. brachyantha
+1.5	RLC	O. brachyantha
+1.45	RLC	O. brachyantha
+0.9	RLC	O. brachyantha
+0.08	RLC	O. brachyantha
+0.16	RLC	O. brachyantha
+1.92	RLC	O. brachyantha
+1.33	RLC	O. brachyantha
+2.21	RLC	O. brachyantha
+0.92	RLC	O. brachyantha
+2.94	RLC	O. brachyantha
+1.58	RLC	O. brachyantha
+2.55	RLC	O. brachyantha
+1.66	RLC	O. brachyantha
+1.2	RLC	O. brachyantha
+1.89	RLC	O. brachyantha
+0	RLC	O. brachyantha
+1.58	RLC	O. brachyantha
+0.82	RLC	O. brachyantha
+1.29	RLC	O. brachyantha
+0.92	RLC	O. brachyantha
+0.37	RLC	O. brachyantha
+0.86	RLC	O. brachyantha
+0.94	RLC	O. brachyantha
+0.68	RLC	O. brachyantha
+0.18	RLC	O. brachyantha
+0.86	RLC	O. brachyantha
+1.3	RLC	O. glaberrima
+1.38	RLC	O. glaberrima
+0.74	RLC	O. glaberrima
+1.96	RLC	O. glaberrima
+0.93	RLC	O. glaberrima
+0.65	RLC	O. glaberrima
+2.33	RLC	O. glaberrima
+1.95	RLC	O. glaberrima
+0.9	RLC	O. glaberrima
+2.2	RLC	O. glaberrima
+2.21	RLC	O. glaberrima
+0.79	RLC	O. glaberrima
+0.61	RLC	O. glaberrima
+1.44	RLC	O. glaberrima
+2.07	RLC	O. glaberrima
+1.56	RLC	O. glaberrima
+0.42	RLC	O. glaberrima
+2	RLC	O. glaberrima
+2.07	RLC	O. glaberrima
+1.73	RLC	O. glaberrima
+1.14	RLC	O. glaberrima
+2.07	RLC	O. glaberrima
+1.35	RLC	O. glaberrima
+2.36	RLC	O. glaberrima
+2.23	RLC	O. glaberrima
+2.3	RLC	O. glaberrima
+2.54	RLC	O. glaberrima
+0.66	RLC	O. glaberrima
+1.78	RLC	O. glaberrima
+2.08	RLC	O. glaberrima
+1.57	RLC	O. glaberrima
+0.32	RLC	O. glaberrima
+1.7	RLC	O. glaberrima
+1.78	RLC	O. glaberrima
+1.15	RLC	O. glaberrima
+0.5	RLC	O. glaberrima
+0.69	RLC	O. glaberrima
+0.85	RLC	O. glaberrima
+2.4	RLC	O. glaberrima
+1.37	RLC	O. glaberrima
+1.54	RLC	O. glaberrima
+2	RLC	O. glaberrima
+0.62	RLC	O. glaberrima
+2.1	RLC	O. glaberrima
+3.97	RLC	O. glaberrima
+1.49	RLC	O. glaberrima
+1.79	RLC	O. glaberrima
+1.72	RLC	O. glaberrima
+2.42	RLC	O. glaberrima
+1.78	RLC	O. glaberrima
+0.99	RLC	O. glaberrima
+1.17	RLC	O. glaberrima
+1.21	RLC	O. glaberrima
+0.61	RLC	O. glaberrima
+1.32	RLC	O. glaberrima
+1.05	RLC	O. glaberrima
+0.64	RLC	O. glaberrima
+0.21	RLC	O. glaberrima
+0.39	RLC	O. glaberrima
+0.83	RLC	O. glaberrima
+1.65	RLC	O. glaberrima
+0.51	RLC	O. glaberrima
+1.18	RLC	O. glaberrima
+1.68	RLC	O. glaberrima
+1.41	RLC	O. glaberrima
+1.31	RLC	O. glaberrima
+2.27	RLC	O. glaberrima
+0.54	RLC	O. glaberrima
+1.63	RLC	O. glaberrima
+1.24	RLC	O. glaberrima
+1.24	RLC	O. glaberrima
+1.76	RLC	O. glaberrima
+1.27	RLC	O. glaberrima
+1.37	RLC	O. glaberrima
+1.86	RLC	O. glaberrima
+1.92	RLC	O. glaberrima
+1.67	RLC	O. glaberrima
+1.41	RLC	O. glaberrima
+0.71	RLC	O. glaberrima
+1.66	RLC	O. glaberrima
+1.04	RLC	O. glaberrima
+2.36	RLC	O. glaberrima
+1.37	RLC	O. glaberrima
+2.17	RLC	O. glaberrima
+1.53	RLC	O. glaberrima
+1.45	RLC	O. glaberrima
+0.66	RLC	O. glaberrima
+1.37	RLC	O. glaberrima
+1.08	RLC	O. glaberrima
+1.51	RLC	O. glaberrima
+2.43	RLC	O. glaberrima
+1.59	RLC	O. glaberrima
+1.79	RLC	O. glaberrima
+1.66	RLC	O. glaberrima
+1.02	RLC	O. glaberrima
+2	RLC	O. glaberrima
+0.86	RLC	O. glaberrima
+1.51	RLC	O. glaberrima
+0.89	RLC	O. glaberrima
+1.28	RLC	O. glaberrima
+1.52	RLC	O. glaberrima
+0.59	RLC	O. glaberrima
+1.48	RLC	O. glaberrima
+1.16	RLC	O. glaberrima
+1.03	RLC	O. glaberrima
+1.48	RLC	O. glaberrima
+1.04	RLC	O. glaberrima
+2	RLC	O. glaberrima
+0.54	RLC	O. glaberrima
+1.63	RLC	O. glaberrima
+1.92	RLC	O. glaberrima
+1.56	RLC	O. glaberrima
+1.73	RLC	O. glaberrima
+0.71	RLC	O. glaberrima
+1.84	RLC	O. glaberrima
+1.93	RLC	O. glaberrima
+1.03	RLC	O. glaberrima
+1.42	RLC	O. glaberrima
+2.2	RLC	O. glaberrima
+1.99	RLC	O. glaberrima
+1.71	RLC	O. glaberrima
+1.94	RLC	O. glaberrima
+0.85	RLC	O. glaberrima
+0.54	RLC	O. glaberrima
+0.27	RLC	O. glaberrima
+0.14	RLC	O. glaberrima
+0.29	RLC	O. glaberrima
+0.71	RLC	O. glaberrima
+0.36	RLC	O. glaberrima
+0.9	RLC	O. glaberrima
+1.27	RLC	O. glaberrima
+0.99	RLC	O. glaberrima
+2.19	RLC	O. glaberrima
+2.33	RLC	O. glaberrima
+1.96	RLC	O. glaberrima
+1.17	RLC	O. glaberrima
+1.34	RLC	O. glaberrima
+2.16	RLC	O. glaberrima
+1.42	RLC	O. glaberrima
+2.22	RLC	O. glaberrima
+0.56	RLC	O. glaberrima
+1.79	RLC	O. glaberrima
+2.04	RLC	O. glaberrima
+0.67	RLC	O. glaberrima
+1.5	RLC	O. glaberrima
+1.47	RLC	O. glaberrima
+0.52	RLC	O. glaberrima
+1.06	RLC	O. glaberrima
+0.7	RLC	O. glaberrima
+1.46	RLC	O. glaberrima
+1.44	RLC	O. glaberrima
+1.37	RLC	O. glaberrima
+2.3	RLC	O. glaberrima
+1.34	RLC	O. glaberrima
+1.39	RLC	O. glaberrima
+1.17	RLC	O. glaberrima
+1.44	RLC	O. glaberrima
+1.5	RLC	O. glaberrima
+1.33	RLC	O. glaberrima
+1.19	RLC	O. glaberrima
+1.85	RLC	O. glaberrima
+1.24	RLC	O. glaberrima
+1.25	RLC	O. glaberrima
+1.5	RLC	O. glaberrima
+1.91	RLC	O. glaberrima
+1.24	RLC	O. glaberrima
+0.7	RLC	O. glaberrima
+0.87	RLC	O. glaberrima
+1.01	RLC	O. glaberrima
+0.43	RLC	O. glaberrima
+0.94	RLC	O. glaberrima
+0.94	RLC	O. glaberrima
+0.17	RLC	O. glaberrima
+1.5	RLC	O. glaberrima
+1.24	RLC	O. glaberrima
+1.24	RLC	O. glaberrima
+1.96	RLC	O. glaberrima
+1.96	RLC	O. glaberrima
+0.51	RLC	O. glaberrima
+0.29	RLC	O. glaberrima
+1.13	RLC	O. glaberrima
+0.47	RLC	O. glaberrima
+0.4	RLC	O. glaberrima
+0	RLC	O. glaberrima
+0.6	RLC	O. glaberrima
+1.22	RLC	O. glaberrima
+1.67	RLC	O. glaberrima
+1.47	RLC	O. glaberrima
+0.3	RLC	O. glaberrima
+1.64	RLC	O. glaberrima
+1.8	RLC	O. glaberrima
+1.57	RLC	O. glaberrima
+0.54	RLC	O. glaberrima
+0.84	RLC	O. glaberrima
+0.77	RLC	O. glaberrima
+0	RLC	O. glaberrima
+1.64	RLC	O. glaberrima
+1.27	RLC	O. glaberrima
+0.91	RLC	O. glaberrima
+0	RLC	O. glaberrima
+1.18	RLC	O. glaberrima
+1.31	RLC	O. glaberrima
+1.21	RLC	O. glaberrima
+1.33	RLC	O. glaberrima
+2.24	RLC	O. glaberrima
+1.27	RLC	O. glaberrima
+0.55	RLC	O. glaberrima
+1.73	RLC	O. glaberrima
+0.56	RLC	O. glaberrima
+0.68	RLC	O. glaberrima
+0.2	RLC	O. glaberrima
+0.69	RLC	O. glaberrima
+0.1	RLC	O. glaberrima
+0	RLC	O. glaberrima
+0.83	RLC	O. glaberrima
+0.14	RLC	O. glaberrima
+0	RLC	O. glaberrima
+0	RLC	O. glaberrima
+0.83	RLC	O. glaberrima
+1.9	RLC	O. glaberrima
+0.53	RLC	O. glaberrima
+0.52	RLC	O. glaberrima
+0.71	RLC	O. glaberrima
+0.69	RLC	O. glaberrima
+0.25	RLC	O. glaberrima
+1.46	RLC	O. glaberrima
+0.34	RLC	O. glaberrima
+0.34	RLC	O. glaberrima
+0.37	RLC	O. glaberrima
+0.18	RLC	O. glaberrima
+0.55	RLC	O. glaberrima
+0.75	RLC	O. glaberrima
+0.17	RLC	O. glaberrima
+2.11	RLC	O. glaberrima
+1.9	RLC	O. glaberrima
+1.9	RLC	O. glaberrima
+1.07	RLC	O. glaberrima
+1.6	RLC	O. glaberrima
+0.94	RLC	O. glaberrima
+0.44	RLC	O. glaberrima
+1.19	RLC	O. glaberrima
+1.32	RLC	O. glaberrima
+0.83	RLC	O. glaberrima
+0.86	RLC	O. glaberrima
+0.78	RLC	O. glaberrima
+0.6	RLC	O. glaberrima
+1.72	RLC	O. glaberrima
+1.71	RLC	O. glaberrima
+2.38	RLC	O. glaberrima
+1.6	RLC	O. glaberrima
+1.16	RLC	O. glaberrima
+1.6	RLC	O. glaberrima
+0.77	RLC	O. glaberrima
+1.55	RLC	O. glaberrima
+1.46	RLC	O. glaberrima
+0.38	RLC	O. glaberrima
+0.93	RLC	O. glaberrima
+1.54	RLC	O. glaberrima
+1.99	RLC	O. glaberrima
+1.86	RLC	O. glaberrima
+2.84	RLC	O. glaberrima
+0.92	RLC	O. glaberrima
+1.39	RLC	O. glaberrima
+1.51	RLC	O. glaberrima
+0.37	RLC	O. glaberrima
+0.89	RLC	O. glaberrima
+1.5	RLC	O. glaberrima
+0.85	RLC	O. glaberrima
+1.37	RLC	O. glaberrima
+0.8	RLC	O. glaberrima
+1.34	RLC	O. glaberrima
+0.94	RLC	O. glaberrima
+1.11	RLC	O. glaberrima
+1.43	RLC	O. glaberrima
+0.89	RLC	O. glaberrima
+1.11	RLC	O. glaberrima
+0.81	RLC	O. glaberrima
+1.15	RLC	O. glaberrima
+1.13	RLC	O. glaberrima
+1.67	RLC	O. glaberrima
+0.92	RLC	O. glaberrima
+0.65	RLC	O. glaberrima
+2.03	RLC	O. glaberrima
+1.32	RLC	O. glaberrima
+0.73	RLC	O. glaberrima
+0.44	RLC	O. glaberrima
+0.72	RLC	O. glaberrima
+0.59	RLC	O. glaberrima
+2.71	RLC	O. glaberrima
+3.28	RLC	O. glaberrima
+0.89	RLC	O. glaberrima
+1.83	RLC	O. glaberrima
+0.41	RLC	O. glaberrima
+1.39	RLC	O. glaberrima
+2.14	RLC	O. glaberrima
+0.37	RLC	O. glaberrima
+2.09	RLC	O. glaberrima
+2.27	RLC	O. glaberrima
+0	RLC	O. glaberrima
+1.39	RLC	O. glaberrima
+1.77	RLC	O. glaberrima
+1.93	RLC	O. glaberrima
+1.05	RLC	O. glaberrima
+1.98	RLC	O. glaberrima
+0.91	RLC	O. glaberrima
+1.34	RLC	O. glaberrima
+2.2	RLC	O. glaberrima
+1.85	RLC	O. glaberrima
+1.84	RLC	O. glaberrima
+1.26	RLC	O. glaberrima
+1.49	RLC	O. glaberrima
+2.33	RLC	O. glaberrima
+1.48	RLC	O. glaberrima
+0.89	RLC	O. glaberrima
+1.23	RLC	O. glaberrima
+0.08	RLC	O. glaberrima
+1.26	RLC	O. glaberrima
+2.13	RLC	O. glaberrima
+0.34	RLC	O. glaberrima
+1.48	RLC	O. glaberrima
+1.25	RLC	O. glaberrima
+2.04	RLC	O. glaberrima
+0.39	RLC	O. glaberrima
+0.9	RLC	O. glaberrima
+1.16	RLC	O. glaberrima
+0.63	RLC	O. glaberrima
+1.51	RLC	O. glaberrima
+0.72	RLC	O. glaberrima
+1.09	RLC	O. glaberrima
+1.19	RLC	O. glaberrima
+0.74	RLC	O. glaberrima
+1.43	RLC	O. glaberrima
+0.83	RLC	O. glaberrima
+1.68	RLC	O. glaberrima
+1.55	RLC	O. glaberrima
+0.37	RLC	O. glaberrima
+0	RLC	O. glaberrima
+1.18	RLC	O. glaberrima
+0.38	RLC	O. glaberrima
+0.39	RLC	O. glaberrima
+0.36	RLC	O. glaberrima
+0	RLC	O. glaberrima
+2.07	RLC	O. glaberrima
+0.18	RLC	O. glaberrima
+2.02	RLC	O. glaberrima
+2.02	RLC	O. glaberrima
+1.24	RLC	O. glaberrima
+1.49	RLC	O. glaberrima
+0.17	RLC	O. glaberrima
+1.42	RLC	O. glaberrima
+0.26	RLC	O. glaberrima
+1.04	RLC	O. glaberrima
+2.75	RLC	O. glaberrima
+2.75	RLC	O. glaberrima
+0.81	RLC	O. glaberrima
+0.9	RLC	O. glaberrima
+2.56	RLC	O. glaberrima
+2.56	RLC	O. glaberrima
+1.37	RLC	O. glaberrima
+1.37	RLC	O. glaberrima
+1.34	RLC	O. glaberrima
+1.11	RLC	O. glaberrima
+1.19	RLC	O. glaberrima
+0.31	RLC	O. glaberrima
+0.26	RLC	O. glaberrima
+1.86	RLC	O. glaberrima
+1.47	RLC	O. glaberrima
+1.53	RLC	O. glaberrima
+0.33	RLC	O. glaberrima
+1.82	RLC	O. glaberrima
+0.56	RLC	O. glaberrima
+0.76	RLC	O. glaberrima
+1.41	RLC	O. glaberrima
+0.92	RLC	O. glaberrima
+1.34	RLC	O. glaberrima
+1.34	RLC	O. glaberrima
+0.32	RLC	O. glaberrima
+1.7	RLC	O. glaberrima
+0.8	RLC	O. glaberrima
+0.39	RLC	O. glaberrima
+0.88	RLC	O. glaberrima
+0.87	RLC	O. glaberrima
+1.23	RLC	O. glaberrima
+0.6	RLC	O. glaberrima
+0.6	RLC	O. glaberrima
+1.81	RLC	O. glaberrima
+0.64	RLC	O. glaberrima
+1.23	RLC	O. glaberrima
+1.18	RLC	O. glaberrima
+1.34	RLC	O. glaberrima
+0.69	RLC	O. glaberrima
+1.98	RLC	O. glaberrima
+1.51	RLC	O. glaberrima
+0	RLC	O. glaberrima
+0	RLC	O. glaberrima
+0.33	RLC	O. glaberrima
+0.92	RLC	O. glaberrima
+0.8	RLC	O. glaberrima
+2.04	RLC	O. glaberrima
+1.29	RLC	O. glaberrima
+1.92	RLC	O. glaberrima
+0.22	RLC	O. glaberrima
+0.77	RLC	O. glaberrima
+1.24	RLC	O. glaberrima
+0.53	RLC	O. glaberrima
+0.77	RLC	O. glaberrima
+0.9	RLC	O. glaberrima
+0.92	RLC	O. glaberrima
+0.72	RLC	O. glaberrima
+1.08	RLC	O. glaberrima
+0.19	RLC	O. glaberrima
+1.69	RLC	O. glaberrima
+1.28	RLC	O. glaberrima
+1.75	RLC	O. glaberrima
+0.2	RLC	O. glaberrima
+0.22	RLC	O. glaberrima
+0.67	RLC	O. glaberrima
+0.72	RLC	O. glaberrima
+0.69	RLC	O. glaberrima
+0.32	RLC	O. glaberrima
+0.35	RLC	O. glaberrima
+1.79	RLC	O. glumaepatula
+1.93	RLC	O. glumaepatula
+1.98	RLC	O. glumaepatula
+1.02	RLC	O. glumaepatula
+1.4	RLC	O. glumaepatula
+1.77	RLC	O. glumaepatula
+0.49	RLC	O. glumaepatula
+1.54	RLC	O. glumaepatula
+1.26	RLC	O. glumaepatula
+1.43	RLC	O. glumaepatula
+1.9	RLC	O. glumaepatula
+1.14	RLC	O. glumaepatula
+1.15	RLC	O. glumaepatula
+1.74	RLC	O. glumaepatula
+2.07	RLC	O. glumaepatula
+2.43	RLC	O. glumaepatula
+1.24	RLC	O. glumaepatula
+0.36	RLC	O. glumaepatula
+1.6	RLC	O. glumaepatula
+0.87	RLC	O. glumaepatula
+1.74	RLC	O. glumaepatula
+0.95	RLC	O. glumaepatula
+2.08	RLC	O. glumaepatula
+2.06	RLC	O. glumaepatula
+1.96	RLC	O. glumaepatula
+0.91	RLC	O. glumaepatula
+1.58	RLC	O. glumaepatula
+0.99	RLC	O. glumaepatula
+1.24	RLC	O. glumaepatula
+0.68	RLC	O. glumaepatula
+1.87	RLC	O. glumaepatula
+1.42	RLC	O. glumaepatula
+1.55	RLC	O. glumaepatula
+0.48	RLC	O. glumaepatula
+0.87	RLC	O. glumaepatula
+0.96	RLC	O. glumaepatula
+1.22	RLC	O. glumaepatula
+2.01	RLC	O. glumaepatula
+1.6	RLC	O. glumaepatula
+1.42	RLC	O. glumaepatula
+0.95	RLC	O. glumaepatula
+0.85	RLC	O. glumaepatula
+1.73	RLC	O. glumaepatula
+0	RLC	O. glumaepatula
+1.17	RLC	O. glumaepatula
+0.94	RLC	O. glumaepatula
+0.18	RLC	O. glumaepatula
+2.76	RLC	O. glumaepatula
+1.13	RLC	O. glumaepatula
+1.74	RLC	O. glumaepatula
+0.55	RLC	O. glumaepatula
+1.23	RLC	O. glumaepatula
+0.57	RLC	O. glumaepatula
+0.53	RLC	O. glumaepatula
+1.82	RLC	O. glumaepatula
+0.26	RLC	O. glumaepatula
+1.48	RLC	O. glumaepatula
+0.16	RLC	O. glumaepatula
+3.33	RLC	O. glumaepatula
+1.2	RLC	O. glumaepatula
+2.24	RLC	O. glumaepatula
+2.1	RLC	O. glumaepatula
+0.93	RLC	O. glumaepatula
+1.46	RLC	O. glumaepatula
+1.19	RLC	O. glumaepatula
+1.58	RLC	O. glumaepatula
+1.06	RLC	O. glumaepatula
+1.91	RLC	O. glumaepatula
+0.7	RLC	O. glumaepatula
+2.1	RLC	O. glumaepatula
+1.92	RLC	O. glumaepatula
+1.48	RLC	O. glumaepatula
+0	RLC	O. glumaepatula
+2.78	RLC	O. glumaepatula
+1.79	RLC	O. glumaepatula
+1.36	RLC	O. glumaepatula
+0	RLC	O. glumaepatula
+1.21	RLC	O. glumaepatula
+1.42	RLC	O. glumaepatula
+1.32	RLC	O. glumaepatula
+0.19	RLC	O. glumaepatula
+0.45	RLC	O. glumaepatula
+1.43	RLC	O. glumaepatula
+1.29	RLC	O. glumaepatula
+0.32	RLC	O. glumaepatula
+1.01	RLC	O. glumaepatula
+1.95	RLC	O. glumaepatula
+2.39	RLC	O. glumaepatula
+2.28	RLC	O. glumaepatula
+0	RLC	O. glumaepatula
+0.36	RLC	O. glumaepatula
+0.66	RLC	O. glumaepatula
+0.84	RLC	O. glumaepatula
+0.97	RLC	O. glumaepatula
+0.98	RLC	O. glumaepatula
+0.99	RLC	O. glumaepatula
+2.13	RLC	O. glumaepatula
+1.26	RLC	O. glumaepatula
+0.78	RLC	O. glumaepatula
+1.69	RLC	O. glumaepatula
+1.87	RLC	O. glumaepatula
+0.85	RLC	O. glumaepatula
+1.2	RLC	O. glumaepatula
+2.37	RLC	O. glumaepatula
+1.55	RLC	O. glumaepatula
+0.27	RLC	O. glumaepatula
+1.3	RLC	O. glumaepatula
+0.67	RLC	O. glumaepatula
+1.25	RLC	O. glumaepatula
+1.21	RLC	O. glumaepatula
+2.16	RLC	O. glumaepatula
+0.77	RLC	O. glumaepatula
+1.21	RLC	O. glumaepatula
+1.47	RLC	O. glumaepatula
+2.16	RLC	O. glumaepatula
+0.57	RLC	O. glumaepatula
+0.77	RLC	O. glumaepatula
+2.01	RLC	O. glumaepatula
+1.33	RLC	O. glumaepatula
+0.38	RLC	O. glumaepatula
+1.11	RLC	O. glumaepatula
+1.71	RLC	O. sativa vg. indica [93-11]
+1.56	RLC	O. sativa vg. indica [93-11]
+1.58	RLC	O. sativa vg. indica [93-11]
+0.47	RLC	O. sativa vg. indica [93-11]
+0.97	RLC	O. sativa vg. indica [93-11]
+2.24	RLC	O. sativa vg. indica [93-11]
+1.42	RLC	O. sativa vg. indica [93-11]
+2.22	RLC	O. sativa vg. indica [93-11]
+1.47	RLC	O. sativa vg. indica [93-11]
+1.67	RLC	O. sativa vg. indica [93-11]
+1.96	RLC	O. sativa vg. indica [93-11]
+2.06	RLC	O. sativa vg. indica [93-11]
+1.24	RLC	O. sativa vg. indica [93-11]
+2.61	RLC	O. sativa vg. indica [93-11]
+1.93	RLC	O. sativa vg. indica [93-11]
+2.34	RLC	O. sativa vg. indica [93-11]
+2.02	RLC	O. sativa vg. indica [93-11]
+2	RLC	O. sativa vg. indica [93-11]
+1.79	RLC	O. sativa vg. indica [93-11]
+0.73	RLC	O. sativa vg. indica [93-11]
+2.67	RLC	O. sativa vg. indica [93-11]
+0.16	RLC	O. sativa vg. indica [93-11]
+2.34	RLC	O. sativa vg. indica [93-11]
+2.23	RLC	O. sativa vg. indica [93-11]
+0.58	RLC	O. sativa vg. indica [93-11]
+2.36	RLC	O. sativa vg. indica [93-11]
+1.4	RLC	O. sativa vg. indica [93-11]
+1.63	RLC	O. sativa vg. indica [93-11]
+0.99	RLC	O. sativa vg. indica [93-11]
+0.58	RLC	O. sativa vg. indica [93-11]
+1.67	RLC	O. sativa vg. indica [93-11]
+2.16	RLC	O. sativa vg. indica [93-11]
+2.23	RLC	O. sativa vg. indica [93-11]
+1.82	RLC	O. sativa vg. indica [93-11]
+1.56	RLC	O. sativa vg. indica [93-11]
+1.77	RLC	O. sativa vg. indica [93-11]
+1.45	RLC	O. sativa vg. indica [93-11]
+1.66	RLC	O. sativa vg. indica [93-11]
+1.31	RLC	O. sativa vg. indica [93-11]
+0.09	RLC	O. sativa vg. indica [93-11]
+0.28	RLC	O. sativa vg. indica [93-11]
+0.49	RLC	O. sativa vg. indica [93-11]
+2.07	RLC	O. sativa vg. indica [93-11]
+2.21	RLC	O. sativa vg. indica [93-11]
+1.14	RLC	O. sativa vg. indica [93-11]
+0.92	RLC	O. sativa vg. indica [93-11]
+0.91	RLC	O. sativa vg. indica [93-11]
+2.05	RLC	O. sativa vg. indica [93-11]
+1.46	RLC	O. sativa vg. indica [93-11]
+1.19	RLC	O. sativa vg. indica [93-11]
+1.02	RLC	O. sativa vg. indica [93-11]
+1.65	RLC	O. sativa vg. indica [93-11]
+2.32	RLC	O. sativa vg. indica [93-11]
+1.5	RLC	O. sativa vg. indica [93-11]
+1.79	RLC	O. sativa vg. indica [93-11]
+0.65	RLC	O. sativa vg. indica [93-11]
+1.54	RLC	O. sativa vg. indica [93-11]
+1.61	RLC	O. sativa vg. indica [93-11]
+1.6	RLC	O. sativa vg. indica [93-11]
+1.6	RLC	O. sativa vg. indica [93-11]
+2.4	RLC	O. sativa vg. indica [93-11]
+1.04	RLC	O. sativa vg. indica [93-11]
+1.71	RLC	O. sativa vg. indica [93-11]
+2.9	RLC	O. sativa vg. indica [93-11]
+2.05	RLC	O. sativa vg. indica [93-11]
+1.57	RLC	O. sativa vg. indica [93-11]
+0.07	RLC	O. sativa vg. indica [93-11]
+1.83	RLC	O. sativa vg. indica [93-11]
+2.5	RLC	O. sativa vg. indica [93-11]
+1.08	RLC	O. sativa vg. indica [93-11]
+1.68	RLC	O. sativa vg. indica [93-11]
+1.24	RLC	O. sativa vg. indica [93-11]
+1.54	RLC	O. sativa vg. indica [93-11]
+0.89	RLC	O. sativa vg. indica [93-11]
+2.13	RLC	O. sativa vg. indica [93-11]
+0.64	RLC	O. sativa vg. indica [93-11]
+1.81	RLC	O. sativa vg. indica [93-11]
+0.99	RLC	O. sativa vg. indica [93-11]
+1.54	RLC	O. sativa vg. indica [93-11]
+1.24	RLC	O. sativa vg. indica [93-11]
+0.36	RLC	O. sativa vg. indica [93-11]
+0.36	RLC	O. sativa vg. indica [93-11]
+0.14	RLC	O. sativa vg. indica [93-11]
+0	RLC	O. sativa vg. indica [93-11]
+0	RLC	O. sativa vg. indica [93-11]
+0.18	RLC	O. sativa vg. indica [93-11]
+0	RLC	O. sativa vg. indica [93-11]
+1.09	RLC	O. sativa vg. indica [93-11]
+2	RLC	O. sativa vg. indica [93-11]
+0.61	RLC	O. sativa vg. indica [93-11]
+1.85	RLC	O. sativa vg. indica [93-11]
+1.62	RLC	O. sativa vg. indica [93-11]
+1.26	RLC	O. sativa vg. indica [93-11]
+1.7	RLC	O. sativa vg. indica [93-11]
+0.55	RLC	O. sativa vg. indica [93-11]
+2.14	RLC	O. sativa vg. indica [93-11]
+0.51	RLC	O. sativa vg. indica [93-11]
+0.29	RLC	O. sativa vg. indica [93-11]
+2.1	RLC	O. sativa vg. indica [93-11]
+2.31	RLC	O. sativa vg. indica [93-11]
+1.06	RLC	O. sativa vg. indica [93-11]
+1.94	RLC	O. sativa vg. indica [93-11]
+2.23	RLC	O. sativa vg. indica [93-11]
+0.6	RLC	O. sativa vg. indica [93-11]
+0.64	RLC	O. sativa vg. indica [93-11]
+0.31	RLC	O. sativa vg. indica [93-11]
+0.18	RLC	O. sativa vg. indica [93-11]
+1.28	RLC	O. sativa vg. indica [93-11]
+1.48	RLC	O. sativa vg. indica [93-11]
+2.09	RLC	O. sativa vg. indica [93-11]
+1.33	RLC	O. sativa vg. indica [93-11]
+0.71	RLC	O. sativa vg. indica [93-11]
+1.91	RLC	O. sativa vg. indica [93-11]
+1.57	RLC	O. sativa vg. indica [93-11]
+2.13	RLC	O. sativa vg. indica [93-11]
+0.11	RLC	O. sativa vg. indica [93-11]
+1.18	RLC	O. sativa vg. indica [93-11]
+0.17	RLC	O. sativa vg. indica [93-11]
+0.55	RLC	O. sativa vg. indica [93-11]
+1.45	RLC	O. sativa vg. indica [93-11]
+1.99	RLC	O. sativa vg. indica [93-11]
+1.15	RLC	O. sativa vg. indica [93-11]
+0	RLC	O. sativa vg. indica [93-11]
+1.97	RLC	O. sativa vg. indica [93-11]
+1.07	RLC	O. sativa vg. indica [93-11]
+0	RLC	O. sativa vg. indica [93-11]
+0.05	RLC	O. sativa vg. indica [93-11]
+1.4	RLC	O. sativa vg. indica [93-11]
+1.02	RLC	O. sativa vg. indica [93-11]
+0.18	RLC	O. sativa vg. indica [93-11]
+1.77	RLC	O. sativa vg. indica [93-11]
+0.55	RLC	O. sativa vg. indica [93-11]
+1.77	RLC	O. sativa vg. indica [93-11]
+0.28	RLC	O. sativa vg. indica [93-11]
+0.56	RLC	O. sativa vg. indica [93-11]
+0.73	RLC	O. sativa vg. indica [93-11]
+0.88	RLC	O. sativa vg. indica [93-11]
+1.59	RLC	O. sativa vg. indica [93-11]
+1.67	RLC	O. sativa vg. indica [93-11]
+0	RLC	O. sativa vg. indica [93-11]
+1.32	RLC	O. sativa vg. indica [93-11]
+0.26	RLC	O. sativa vg. indica [93-11]
+0	RLC	O. sativa vg. indica [93-11]
+0.76	RLC	O. sativa vg. indica [93-11]
+1.7	RLC	O. sativa vg. indica [93-11]
+0.79	RLC	O. sativa vg. indica [93-11]
+0	RLC	O. sativa vg. indica [93-11]
+0.58	RLC	O. sativa vg. indica [93-11]
+1.56	RLC	O. sativa vg. indica [93-11]
+0.31	RLC	O. sativa vg. indica [93-11]
+0	RLC	O. sativa vg. indica [93-11]
+1.64	RLC	O. sativa vg. indica [93-11]
+1.05	RLC	O. sativa vg. indica [93-11]
+0.54	RLC	O. sativa vg. indica [93-11]
+0.54	RLC	O. sativa vg. indica [93-11]
+0.6	RLC	O. sativa vg. indica [93-11]
+1.08	RLC	O. sativa vg. indica [93-11]
+0.36	RLC	O. sativa vg. indica [93-11]
+1.2	RLC	O. sativa vg. indica [93-11]
+0.52	RLC	O. sativa vg. indica [93-11]
+1.49	RLC	O. sativa vg. indica [93-11]
+0.7	RLC	O. sativa vg. indica [93-11]
+0.31	RLC	O. sativa vg. indica [93-11]
+0.28	RLC	O. sativa vg. indica [93-11]
+1.66	RLC	O. sativa vg. indica [93-11]
+1.21	RLC	O. sativa vg. indica [93-11]
+0.78	RLC	O. sativa vg. indica [93-11]
+0.51	RLC	O. sativa vg. indica [93-11]
+0	RLC	O. sativa vg. indica [93-11]
+1.81	RLC	O. sativa vg. indica [93-11]
+0.36	RLC	O. sativa vg. indica [93-11]
+0.12	RLC	O. sativa vg. indica [93-11]
+0.61	RLC	O. sativa vg. indica [93-11]
+0.67	RLC	O. sativa vg. indica [93-11]
+0.91	RLC	O. sativa vg. indica [93-11]
+0.7	RLC	O. sativa vg. indica [93-11]
+0.39	RLC	O. sativa vg. indica [93-11]
+0	RLC	O. sativa vg. indica [93-11]
+0.39	RLC	O. sativa vg. indica [93-11]
+0	RLC	O. sativa vg. indica [93-11]
+0.52	RLC	O. sativa vg. indica [93-11]
+0	RLC	O. sativa vg. indica [93-11]
+0.43	RLC	O. sativa vg. indica [93-11]
+0.17	RLC	O. sativa vg. indica [93-11]
+0.12	RLC	O. sativa vg. indica [93-11]
+0	RLC	O. sativa vg. indica [93-11]
+0	RLC	O. sativa vg. indica [93-11]
+1	RLC	O. sativa vg. indica [93-11]
+0.87	RLC	O. sativa vg. indica [93-11]
+0.08	RLC	O. sativa vg. indica [93-11]
+0.21	RLC	O. sativa vg. indica [93-11]
+0	RLC	O. sativa vg. indica [93-11]
+0.3	RLC	O. sativa vg. indica [93-11]
+0	RLC	O. sativa vg. indica [93-11]
+0.12	RLC	O. sativa vg. indica [93-11]
+0	RLC	O. sativa vg. indica [93-11]
+2.68	RLC	O. sativa vg. indica [93-11]
+0.9	RLC	O. sativa vg. indica [93-11]
+0.34	RLC	O. sativa vg. indica [93-11]
+1.39	RLC	O. sativa vg. indica [93-11]
+1.39	RLC	O. sativa vg. indica [93-11]
+0.57	RLC	O. sativa vg. indica [93-11]
+0.2	RLC	O. sativa vg. indica [93-11]
+0.37	RLC	O. sativa vg. indica [93-11]
+0	RLC	O. sativa vg. indica [93-11]
+0.32	RLC	O. sativa vg. indica [93-11]
+0.19	RLC	O. sativa vg. indica [93-11]
+0.95	RLC	O. sativa vg. indica [93-11]
+0.38	RLC	O. sativa vg. indica [93-11]
+0	RLC	O. sativa vg. indica [93-11]
+0.89	RLC	O. sativa vg. indica [93-11]
+0.53	RLC	O. sativa vg. indica [93-11]
+0	RLC	O. sativa vg. indica [93-11]
+1.48	RLC	O. sativa vg. indica [93-11]
+0.17	RLC	O. sativa vg. indica [93-11]
+0.45	RLC	O. sativa vg. indica [93-11]
+0.52	RLC	O. sativa vg. indica [93-11]
+0	RLC	O. sativa vg. indica [93-11]
+0.26	RLC	O. sativa vg. indica [93-11]
+1.01	RLC	O. sativa vg. indica [93-11]
+1.67	RLC	O. sativa vg. indica [93-11]
+1.36	RLC	O. sativa vg. indica [93-11]
+0.88	RLC	O. sativa vg. indica [93-11]
+1.14	RLC	O. sativa vg. indica [93-11]
+1.12	RLC	O. sativa vg. indica [93-11]
+1.61	RLC	O. sativa vg. indica [93-11]
+1.55	RLC	O. sativa vg. indica [93-11]
+1.81	RLC	O. sativa vg. indica [93-11]
+0.52	RLC	O. sativa vg. indica [93-11]
+1.7	RLC	O. sativa vg. indica [93-11]
+1.62	RLC	O. sativa vg. indica [93-11]
+1.23	RLC	O. sativa vg. indica [93-11]
+1.51	RLC	O. sativa vg. indica [93-11]
+1.46	RLC	O. sativa vg. indica [93-11]
+1.14	RLC	O. sativa vg. indica [93-11]
+1.01	RLC	O. sativa vg. indica [93-11]
+2.27	RLC	O. sativa vg. indica [93-11]
+0.47	RLC	O. sativa vg. indica [93-11]
+1.84	RLC	O. sativa vg. indica [93-11]
+0.8	RLC	O. sativa vg. indica [93-11]
+0.69	RLC	O. sativa vg. indica [93-11]
+0.58	RLC	O. sativa vg. indica [93-11]
+0.05	RLC	O. sativa vg. indica [93-11]
+0.37	RLC	O. sativa vg. indica [93-11]
+0.14	RLC	O. sativa vg. indica [93-11]
+0.27	RLC	O. sativa vg. indica [93-11]
+0.51	RLC	O. sativa vg. indica [93-11]
+0.21	RLC	O. sativa vg. indica [93-11]
+1.66	RLC	O. sativa vg. indica [93-11]
+0.67	RLC	O. sativa vg. indica [93-11]
+3.17	RLC	O. sativa vg. indica [93-11]
+2.65	RLC	O. sativa vg. indica [93-11]
+0.14	RLC	O. sativa vg. indica [93-11]
+1.7	RLC	O. sativa vg. indica [93-11]
+1.18	RLC	O. sativa vg. indica [93-11]
+2.71	RLC	O. sativa vg. indica [93-11]
+0.79	RLC	O. sativa vg. indica [93-11]
+0.75	RLC	O. sativa vg. indica [93-11]
+1.08	RLC	O. sativa vg. indica [93-11]
+0.78	RLC	O. sativa vg. indica [93-11]
+0.2	RLC	O. sativa vg. indica [93-11]
+0.37	RLC	O. sativa vg. indica [93-11]
+0.12	RLC	O. sativa vg. indica [93-11]
+1.94	RLC	O. sativa vg. indica [93-11]
+1.87	RLC	O. sativa vg. indica [93-11]
+0.38	RLC	O. sativa vg. indica [93-11]
+0.44	RLC	O. sativa vg. indica [93-11]
+2.1	RLC	O. sativa vg. indica [93-11]
+0.54	RLC	O. sativa vg. indica [93-11]
+1.74	RLC	O. sativa vg. indica [93-11]
+0.49	RLC	O. sativa vg. indica [93-11]
+1.77	RLC	O. sativa vg. indica [93-11]
+0.97	RLC	O. sativa vg. indica [93-11]
+1.14	RLC	O. sativa vg. indica [93-11]
+0.75	RLC	O. sativa vg. indica [93-11]
+0.27	RLC	O. sativa vg. indica [93-11]
+0.76	RLC	O. sativa vg. indica [93-11]
+0.28	RLC	O. sativa vg. indica [93-11]
+0	RLC	O. sativa vg. indica [93-11]
+1.14	RLC	O. sativa vg. indica [93-11]
+0.71	RLC	O. sativa vg. indica [93-11]
+1.16	RLC	O. sativa vg. indica [93-11]
+0.49	RLC	O. sativa vg. indica [93-11]
+2.23	RLC	O. sativa vg. indica [93-11]
+1.15	RLC	O. sativa vg. indica [93-11]
+0.33	RLC	O. sativa vg. indica [93-11]
+1.14	RLC	O. sativa vg. indica [93-11]
+1.54	RLC	O. sativa vg. indica [93-11]
+0	RLC	O. sativa vg. indica [93-11]
+0.78	RLC	O. sativa vg. indica [93-11]
+0.05	RLC	O. sativa vg. indica [93-11]
+1.65	RLC	O. sativa vg. indica [93-11]
+0.39	RLC	O. sativa vg. indica [93-11]
+0.5	RLC	O. sativa vg. indica [93-11]
+0	RLC	O. sativa vg. indica [93-11]
+0.13	RLC	O. sativa vg. indica [93-11]
+0.13	RLC	O. sativa vg. indica [93-11]
+0	RLC	O. sativa vg. indica [93-11]
+1.22	RLC	O. sativa vg. indica [93-11]
+2.06	RLC	O. sativa vg. indica [93-11]
+0.68	RLC	O. sativa vg. indica [93-11]
+0.54	RLC	O. sativa vg. indica [93-11]
+0.3	RLC	O. sativa vg. indica [93-11]
+2.67	RLC	O. sativa vg. indica [93-11]
+0.58	RLC	O. sativa vg. indica [93-11]
+0.54	RLC	O. sativa vg. indica [93-11]
+0	RLC	O. sativa vg. indica [93-11]
+1.83	RLC	O. sativa vg. indica [93-11]
+0.22	RLC	O. sativa vg. indica [93-11]
+0.05	RLC	O. sativa vg. indica [93-11]
+0.87	RLC	O. sativa vg. indica [93-11]
+2.86	RLC	O. sativa vg. indica [93-11]
+3.81	RLC	O. sativa vg. indica [93-11]
+4.13	RLC	O. sativa vg. indica [93-11]
+1.95	RLC	O. sativa vg. indica [93-11]
+2.44	RLC	O. sativa vg. indica [93-11]
+0.4	RLC	O. sativa vg. indica [93-11]
+0.17	RLC	O. sativa vg. indica [93-11]
+2.13	RLC	O. sativa vg. indica [93-11]
+0.33	RLC	O. sativa vg. indica [93-11]
+0.16	RLC	O. sativa vg. indica [93-11]
+0.28	RLC	O. sativa vg. indica [93-11]
+0.1	RLC	O. sativa vg. indica [93-11]
+0.78	RLC	O. sativa vg. indica [93-11]
+0.31	RLC	O. sativa vg. indica [93-11]
+0	RLC	O. sativa vg. indica [93-11]
+0.66	RLC	O. sativa vg. indica [93-11]
+1.03	RLC	O. sativa vg. indica [93-11]
+0.85	RLC	O. sativa vg. indica [93-11]
+1.95	RLC	O. sativa vg. indica [93-11]
+0.71	RLC	O. sativa vg. indica [93-11]
+1.72	RLC	O. sativa vg. indica [93-11]
+1.88	RLC	O. sativa vg. indica [93-11]
+2.7	RLC	O. sativa vg. indica [93-11]
+1.76	RLC	O. sativa vg. indica [93-11]
+2.97	RLC	O. sativa vg. indica [93-11]
+0.76	RLC	O. sativa vg. indica [93-11]
+1.73	RLC	O. sativa vg. indica [93-11]
+1.97	RLC	O. sativa vg. indica [93-11]
+2.58	RLC	O. sativa vg. indica [93-11]
+1.82	RLC	O. sativa vg. indica [93-11]
+1.99	RLC	O. sativa vg. indica [93-11]
+1.77	RLC	O. sativa vg. indica [93-11]
+0.61	RLC	O. sativa vg. indica [93-11]
+0.37	RLC	O. sativa vg. indica [93-11]
+0.38	RLC	O. sativa vg. indica [93-11]
+0	RLC	O. sativa vg. indica [93-11]
+0.93	RLC	O. sativa vg. indica [93-11]
+1.11	RLC	O. sativa vg. indica [93-11]
+0	RLC	O. sativa vg. indica [93-11]
+1.14	RLC	O. sativa vg. indica [93-11]
+1.52	RLC	O. sativa vg. indica [93-11]
+0.57	RLC	O. sativa vg. indica [93-11]
+0.75	RLC	O. sativa vg. indica [93-11]
+1.26	RLC	O. sativa vg. indica [93-11]
+2.34	RLC	O. sativa vg. indica [93-11]
+2.61	RLC	O. sativa vg. indica [93-11]
+1.72	RLC	O. sativa vg. indica [93-11]
+3.03	RLC	O. sativa vg. indica [93-11]
+1.09	RLC	O. sativa vg. indica [93-11]
+1.58	RLC	O. sativa vg. indica [93-11]
+2.31	RLC	O. sativa vg. indica [93-11]
+1.47	RLC	O. sativa vg. indica [93-11]
+0	RLC	O. sativa vg. indica [93-11]
+0	RLC	O. sativa vg. indica [93-11]
+0.76	RLC	O. sativa vg. indica [93-11]
+1.09	RLC	O. sativa vg. indica [93-11]
+1.06	RLC	O. sativa vg. indica [93-11]
+0.81	RLC	O. sativa vg. indica [93-11]
+0	RLC	O. sativa vg. indica [93-11]
+0.86	RLC	O. sativa vg. indica [93-11]
+1.48	RLC	O. sativa vg. indica [93-11]
+1.81	RLC	O. sativa vg. indica [93-11]
+0	RLC	O. sativa vg. indica [93-11]
+1.32	RLC	O. sativa vg. indica [93-11]
+0.29	RLC	O. sativa vg. indica [93-11]
+0.21	RLC	O. sativa vg. indica [93-11]
+2.49	RLC	O. sativa vg. indica [93-11]
+0.35	RLC	O. sativa vg. indica [93-11]
+1.21	RLC	O. sativa vg. indica [93-11]
+0.91	RLC	O. sativa vg. indica [93-11]
+1.42	RLC	O. sativa vg. indica [93-11]
+2.58	RLC	O. sativa vg. indica [93-11]
+0.86	RLC	O. sativa vg. indica [93-11]
+0	RLC	O. sativa vg. indica [93-11]
+0	RLC	O. sativa vg. indica [93-11]
+1.21	RLC	O. sativa vg. indica [93-11]
+0.19	RLC	O. sativa vg. indica [93-11]
+0.64	RLC	O. sativa vg. indica [93-11]
+2.17	RLC	O. sativa vg. indica [93-11]
+0.9	RLC	O. sativa vg. indica [93-11]
+1.75	RLC	O. sativa vg. indica [93-11]
+1.62	RLC	O. sativa vg. indica [93-11]
+0.72	RLC	O. sativa vg. indica [93-11]
+1.98	RLC	O. sativa vg. indica [93-11]
+1.24	RLC	O. sativa vg. indica [93-11]
+0	RLC	O. sativa vg. indica [93-11]
+0.32	RLC	O. sativa vg. indica [93-11]
+0.34	RLC	O. sativa vg. indica [93-11]
+0.33	RLC	O. sativa vg. indica [93-11]
+0.32	RLC	O. sativa vg. indica [93-11]
+0.74	RLC	O. sativa vg. indica [93-11]
+0	RLC	O. sativa vg. indica [93-11]
+0.12	RLC	O. sativa vg. indica [93-11]
+0.45	RLC	O. sativa vg. indica [93-11]
+1.54	RLC	O. sativa vg. indica [93-11]
+1.91	RLC	O. sativa vg. indica [93-11]
+0.42	RLC	O. sativa vg. indica [93-11]
+0.53	RLC	O. sativa vg. indica [93-11]
+0.1	RLC	O. sativa vg. indica [93-11]
+1.88	RLC	O. sativa vg. indica [93-11]
+0.1	RLC	O. sativa vg. indica [93-11]
+0.51	RLC	O. sativa vg. indica [93-11]
+0.26	RLC	O. sativa vg. indica [93-11]
+1.05	RLC	O. sativa vg. indica [93-11]
+0.78	RLC	O. sativa vg. indica [93-11]
+0.77	RLC	O. sativa vg. indica [93-11]
+1.29	RLC	O. sativa vg. indica [93-11]
+1.66	RLC	O. sativa vg. indica [93-11]
+0.53	RLC	O. sativa vg. indica [93-11]
+1.08	RLC	O. sativa vg. indica [93-11]
+0.54	RLC	O. sativa vg. indica [93-11]
+0	RLC	O. sativa vg. indica [93-11]
+1.77	RLC	O. sativa vg. indica [93-11]
+0.2	RLC	O. sativa vg. indica [93-11]
+0.91	RLC	O. sativa vg. indica [93-11]
+1.58	RLC	O. sativa vg. indica [93-11]
+2.39	RLC	O. sativa vg. indica [93-11]
+1.57	RLC	O. sativa vg. indica [93-11]
+1.14	RLC	O. sativa vg. indica [93-11]
+1.67	RLC	O. sativa vg. indica [93-11]
+1.76	RLC	O. sativa vg. indica [93-11]
+0.43	RLC	O. sativa vg. indica [93-11]
+0.22	RLC	O. sativa vg. indica [93-11]
+0	RLC	O. sativa vg. indica [93-11]
+0.72	RLC	O. sativa vg. indica [93-11]
+0	RLC	O. sativa vg. indica [93-11]
+0	RLC	O. sativa vg. indica [93-11]
+0	RLC	O. sativa vg. indica [93-11]
+0.47	RLC	O. sativa vg. japonica
+0.33	RLC	O. sativa vg. japonica
+1.57	RLC	O. sativa vg. japonica
+0.04	RLC	O. sativa vg. japonica
+0	RLC	O. sativa vg. japonica
+0.4	RLC	O. sativa vg. japonica
+0	RLC	O. sativa vg. japonica
+0.51	RLC	O. sativa vg. japonica
+0.76	RLC	O. sativa vg. japonica
+0	RLC	O. sativa vg. japonica
+0	RLC	O. sativa vg. japonica
+0.04	RLC	O. sativa vg. japonica
+0.18	RLC	O. sativa vg. japonica
+0.12	RLC	O. sativa vg. japonica
+0.12	RLC	O. sativa vg. japonica
+0.34	RLC	O. sativa vg. japonica
+2.05	RLC	O. sativa vg. japonica
+1.34	RLC	O. sativa vg. japonica
+0.16	RLC	O. sativa vg. japonica
+0.2	RLC	O. sativa vg. japonica
+1.28	RLC	O. sativa vg. japonica
+2.11	RLC	O. sativa vg. japonica
+0.5	RLC	O. sativa vg. japonica
+0	RLC	O. sativa vg. japonica
+2.01	RLC	O. sativa vg. japonica
+0.23	RLC	O. sativa vg. japonica
+0.44	RLC	O. sativa vg. japonica
+1.92	RLC	O. sativa vg. japonica
+1.8	RLC	O. sativa vg. japonica
+1.5	RLC	O. sativa vg. japonica
+0.36	RLC	O. sativa vg. japonica
+0.53	RLC	O. sativa vg. japonica
+1.41	RLC	O. sativa vg. japonica
+0.39	RLC	O. sativa vg. japonica
+0.16	RLC	O. sativa vg. japonica
+0.32	RLC	O. sativa vg. japonica
+0.08	RLC	O. sativa vg. japonica
+2.06	RLC	O. sativa vg. japonica
+1.65	RLC	O. sativa vg. japonica
+0.51	RLC	O. sativa vg. japonica
+0.44	RLC	O. sativa vg. japonica
+0.38	RLC	O. sativa vg. japonica
+0.52	RLC	O. sativa vg. japonica
+0.24	RLC	O. sativa vg. japonica
+0.3	RLC	O. sativa vg. japonica
+0.17	RLC	O. sativa vg. japonica
+0	RLC	O. sativa vg. japonica
+1.83	RLC	O. sativa vg. japonica
+1.51	RLC	O. sativa vg. japonica
+0.45	RLC	O. sativa vg. japonica
+1.33	RLC	O. sativa vg. japonica
+0.8	RLC	O. sativa vg. japonica
+0	RLC	O. sativa vg. japonica
+1.68	RLC	O. sativa vg. japonica
+0.27	RLC	O. sativa vg. japonica
+0.68	RLC	O. sativa vg. japonica
+0.59	RLC	O. sativa vg. japonica
+0.19	RLC	O. sativa vg. japonica
+1.57	RLC	O. sativa vg. japonica
+2.46	RLC	O. sativa vg. japonica
+0.61	RLC	O. sativa vg. japonica
+0.16	RLC	O. sativa vg. japonica
+1.9	RLC	O. sativa vg. japonica
+0.7	RLC	O. sativa vg. japonica
+0.51	RLC	O. sativa vg. japonica
+0	RLC	O. sativa vg. japonica
+0.04	RLC	O. sativa vg. japonica
+0.22	RLC	O. sativa vg. japonica
+3.62	RLC	O. sativa vg. japonica
+0.35	RLC	O. sativa vg. japonica
+1.86	RLC	O. sativa vg. japonica
+0.32	RLC	O. sativa vg. japonica
+0.04	RLC	O. sativa vg. japonica
+0.13	RLC	O. sativa vg. japonica
+0.34	RLC	O. sativa vg. japonica
+1.38	RLC	O. sativa vg. japonica
+0.12	RLC	O. sativa vg. japonica
+0.32	RLC	O. sativa vg. japonica
+2.1	RLC	O. sativa vg. japonica
+0.43	RLC	O. sativa vg. japonica
+0.04	RLC	O. sativa vg. japonica
+0	RLC	O. sativa vg. japonica
+1.23	RLC	O. sativa vg. japonica
+2.26	RLC	O. sativa vg. japonica
+0.29	RLC	O. sativa vg. japonica
+2.03	RLC	O. sativa vg. japonica
+1.76	RLC	O. sativa vg. japonica
+0.21	RLC	O. sativa vg. japonica
+0.12	RLC	O. sativa vg. japonica
+1.67	RLC	O. sativa vg. japonica
+0.36	RLC	O. sativa vg. japonica
+1.66	RLC	O. sativa vg. japonica
+1.72	RLC	O. sativa vg. japonica
+0.23	RLC	O. sativa vg. japonica
+1.94	RLC	O. sativa vg. japonica
+1.26	RLC	O. sativa vg. japonica
+0	RLC	O. sativa vg. japonica
+0.56	RLC	O. sativa vg. japonica
+0.12	RLC	O. sativa vg. japonica
+0.36	RLC	O. sativa vg. japonica
+1.64	RLC	O. sativa vg. japonica
+1.43	RLC	O. sativa vg. japonica
+1.64	RLC	O. sativa vg. japonica
+2.11	RLC	O. sativa vg. japonica
+2	RLC	O. sativa vg. japonica
+0.39	RLC	O. sativa vg. japonica
+0.19	RLC	O. sativa vg. japonica
+0.5	RLC	O. sativa vg. japonica
+1.31	RLC	O. sativa vg. japonica
+0.12	RLC	O. sativa vg. japonica
+0.46	RLC	O. sativa vg. japonica
+0.12	RLC	O. sativa vg. japonica
+0.45	RLC	O. sativa vg. japonica
+0.13	RLC	O. sativa vg. japonica
+1.07	RLC	O. sativa vg. japonica
+0.61	RLC	O. sativa vg. japonica
+2	RLC	O. sativa vg. japonica
+2.05	RLC	O. sativa vg. japonica
+0.35	RLC	O. sativa vg. japonica
+0.22	RLC	O. sativa vg. japonica
+0.28	RLC	O. sativa vg. japonica
+1.27	RLC	O. sativa vg. japonica
+0.21	RLC	O. sativa vg. japonica
+0.65	RLC	O. sativa vg. japonica
+0.28	RLC	O. sativa vg. japonica
+0.12	RLC	O. sativa vg. japonica
+0.8	RLC	O. sativa vg. japonica
+0.29	RLC	O. sativa vg. japonica
+0.34	RLC	O. sativa vg. japonica
+0.44	RLC	O. sativa vg. japonica
+1.41	RLC	O. sativa vg. japonica
+1.74	RLC	O. sativa vg. japonica
+1.2	RLC	O. sativa vg. japonica
+0.32	RLC	O. sativa vg. japonica
+0.2	RLC	O. sativa vg. japonica
+0.22	RLC	O. sativa vg. japonica
+0	RLC	O. sativa vg. japonica
+0.52	RLC	O. sativa vg. japonica
+0.67	RLC	O. sativa vg. japonica
+0.78	RLC	O. sativa vg. japonica
+1.06	RLC	O. sativa vg. japonica
+2.21	RLC	O. sativa vg. japonica
+0.62	RLC	O. sativa vg. japonica
+1.04	RLC	O. sativa vg. japonica
+0	RLC	O. sativa vg. japonica
+1.24	RLC	O. sativa vg. japonica
+0.34	RLC	O. sativa vg. japonica
+0.98	RLC	O. sativa vg. japonica
+0.8	RLC	O. sativa vg. japonica
+1.31	RLC	O. sativa vg. japonica
+1.31	RLC	O. sativa vg. japonica
+0.18	RLC	O. sativa vg. japonica
+0.1	RLC	O. sativa vg. japonica
+0.85	RLC	O. sativa vg. japonica
+0.28	RLC	O. sativa vg. japonica
+0.09	RLC	O. sativa vg. japonica
+0.74	RLC	O. sativa vg. japonica
+1.47	RLC	O. sativa vg. japonica
+0.09	RLC	O. sativa vg. japonica
+0.28	RLC	O. sativa vg. japonica
+0.73	RLC	O. sativa vg. japonica
+2.17	RLC	O. sativa vg. japonica
+0.95	RLC	O. sativa vg. japonica
+1.19	RLC	O. sativa vg. japonica
+1.01	RLC	O. sativa vg. japonica
+1.82	RLC	O. sativa vg. japonica
+0.99	RLC	O. sativa vg. japonica
+1.74	RLC	O. sativa vg. japonica
+1.3	RLC	O. sativa vg. japonica
+1.8	RLC	O. sativa vg. japonica
+1.41	RLC	O. sativa vg. japonica
+1.43	RLC	O. sativa vg. japonica
+1.45	RLC	O. sativa vg. japonica
+0.64	RLC	O. sativa vg. japonica
+1.63	RLC	O. sativa vg. japonica
+1.73	RLC	O. sativa vg. japonica
+1.67	RLC	O. sativa vg. japonica
+0.68	RLC	O. sativa vg. japonica
+1.36	RLC	O. sativa vg. japonica
+1.19	RLC	O. sativa vg. japonica
+2.35	RLC	O. sativa vg. japonica
+0.74	RLC	O. sativa vg. japonica
+3.48	RLC	O. sativa vg. japonica
+1.1	RLC	O. sativa vg. japonica
+0.48	RLC	O. sativa vg. japonica
+1.28	RLC	O. sativa vg. japonica
+3.01	RLC	O. sativa vg. japonica
+2.07	RLC	O. sativa vg. japonica
+0.75	RLC	O. sativa vg. japonica
+1.4	RLC	O. sativa vg. japonica
+1.5	RLC	O. sativa vg. japonica
+1.78	RLC	O. sativa vg. japonica
+1.87	RLC	O. sativa vg. japonica
+2.39	RLC	O. sativa vg. japonica
+1.15	RLC	O. sativa vg. japonica
+1.73	RLC	O. sativa vg. japonica
+1.02	RLC	O. sativa vg. japonica
+1.27	RLC	O. sativa vg. japonica
+1.8	RLC	O. sativa vg. japonica
+1.26	RLC	O. sativa vg. japonica
+1.37	RLC	O. sativa vg. japonica
+1.27	RLC	O. sativa vg. japonica
+1.21	RLC	O. sativa vg. japonica
+1.36	RLC	O. sativa vg. japonica
+1.9	RLC	O. sativa vg. japonica
+1.52	RLC	O. sativa vg. japonica
+1.94	RLC	O. sativa vg. japonica
+1.15	RLC	O. sativa vg. japonica
+0.72	RLC	O. sativa vg. japonica
+1.3	RLC	O. sativa vg. japonica
+1.89	RLC	O. sativa vg. japonica
+1.55	RLC	O. sativa vg. japonica
+1.76	RLC	O. sativa vg. japonica
+1.48	RLC	O. sativa vg. japonica
+1.27	RLC	O. sativa vg. japonica
+1.89	RLC	O. sativa vg. japonica
+2.12	RLC	O. sativa vg. japonica
+1.04	RLC	O. sativa vg. japonica
+1.27	RLC	O. sativa vg. japonica
+1.8	RLC	O. sativa vg. japonica
+1.9	RLC	O. sativa vg. japonica
+1.36	RLC	O. sativa vg. japonica
+1.73	RLC	O. sativa vg. japonica
+1.21	RLC	O. sativa vg. japonica
+0.65	RLC	O. sativa vg. japonica
+1.05	RLC	O. sativa vg. japonica
+2.07	RLC	O. sativa vg. japonica
+0.93	RLC	O. sativa vg. japonica
+0.93	RLC	O. sativa vg. japonica
+2	RLC	O. sativa vg. japonica
+1.63	RLC	O. sativa vg. japonica
+1.27	RLC	O. sativa vg. japonica
+0.81	RLC	O. sativa vg. japonica
+2.02	RLC	O. sativa vg. japonica
+1.81	RLC	O. sativa vg. japonica
+1.58	RLC	O. sativa vg. japonica
+1.63	RLC	O. sativa vg. japonica
+1.16	RLC	O. sativa vg. japonica
+1.48	RLC	O. sativa vg. japonica
+0.28	RLC	O. sativa vg. japonica
+0.37	RLC	O. sativa vg. japonica
+0.54	RLC	O. sativa vg. japonica
+0.97	RLC	O. sativa vg. japonica
+0.14	RLC	O. sativa vg. japonica
+0	RLC	O. sativa vg. japonica
+0.89	RLC	O. sativa vg. japonica
+0.18	RLC	O. sativa vg. japonica
+0.66	RLC	O. sativa vg. japonica
+0.26	RLC	O. sativa vg. japonica
+0.21	RLC	O. sativa vg. japonica
+0.55	RLC	O. sativa vg. japonica
+0.43	RLC	O. sativa vg. japonica
+0.23	RLC	O. sativa vg. japonica
+0.39	RLC	O. sativa vg. japonica
+0.53	RLC	O. sativa vg. japonica
+0.38	RLC	O. sativa vg. japonica
+1.33	RLC	O. sativa vg. japonica
+2.09	RLC	O. sativa vg. japonica
+0.33	RLC	O. sativa vg. japonica
+0.63	RLC	O. sativa vg. japonica
+0.58	RLC	O. sativa vg. japonica
+0.55	RLC	O. sativa vg. japonica
+0.34	RLC	O. sativa vg. japonica
+1.6	RLC	O. sativa vg. japonica
+1.66	RLC	O. sativa vg. japonica
+1.82	RLC	O. sativa vg. japonica
+0.98	RLC	O. sativa vg. japonica
+1.5	RLC	O. sativa vg. japonica
+1.85	RLC	O. sativa vg. japonica
+1.64	RLC	O. sativa vg. japonica
+0.71	RLC	O. sativa vg. japonica
+1.65	RLC	O. sativa vg. japonica
+0.18	RLC	O. sativa vg. japonica
+1.88	RLC	O. sativa vg. japonica
+0.56	RLC	O. sativa vg. japonica
+1.24	RLC	O. sativa vg. japonica
+0.77	RLC	O. sativa vg. japonica
+0.71	RLC	O. sativa vg. japonica
+0.23	RLC	O. sativa vg. japonica
+0.89	RLC	O. sativa vg. japonica
+0.04	RLC	O. sativa vg. japonica
+0.32	RLC	O. sativa vg. japonica
+0.28	RLC	O. sativa vg. japonica
+2.37	RLC	O. sativa vg. japonica
+0.58	RLC	O. sativa vg. japonica
+1.75	RLC	O. sativa vg. japonica
+0.23	RLC	O. sativa vg. japonica
+0.67	RLC	O. sativa vg. japonica
+0.45	RLC	O. sativa vg. japonica
+1.26	RLC	O. sativa vg. japonica
+1.09	RLC	O. sativa vg. japonica
+1.83	RLC	O. sativa vg. japonica
+1.14	RLC	O. sativa vg. japonica
+0.45	RLC	O. sativa vg. japonica
+1.54	RLC	O. sativa vg. japonica
+1.05	RLC	O. sativa vg. japonica
+1.21	RLC	O. sativa vg. japonica
+0.22	RLC	O. sativa vg. japonica
+0.55	RLC	O. sativa vg. japonica
+0.81	RLC	O. sativa vg. japonica
+2.2	RLC	O. sativa vg. japonica
+0.61	RLC	O. sativa vg. japonica
+2.11	RLC	O. sativa vg. japonica
+1.53	RLC	O. sativa vg. japonica
+0.65	RLC	O. sativa vg. japonica
+0.41	RLC	O. sativa vg. japonica
+0.67	RLC	O. sativa vg. japonica
+0.22	RLC	O. sativa vg. japonica
+0.49	RLC	O. sativa vg. japonica
+1.94	RLC	O. sativa vg. japonica
+1.05	RLC	O. sativa vg. japonica
+1.75	RLC	O. sativa vg. japonica
+1.48	RLC	O. sativa vg. japonica
+1.25	RLC	O. sativa vg. japonica
+1.39	RLC	O. sativa vg. japonica
+1.7	RLC	O. sativa vg. japonica
+2.26	RLC	O. sativa vg. japonica
+0.48	RLC	O. sativa vg. japonica
+0.72	RLC	O. sativa vg. japonica
+0.45	RLC	O. sativa vg. japonica
+0.71	RLC	O. sativa vg. japonica
+0.45	RLC	O. sativa vg. japonica
+0.48	RLC	O. sativa vg. japonica
+0.55	RLC	O. sativa vg. japonica
+1.38	RLC	O. sativa vg. japonica
+0.18	RLC	O. sativa vg. japonica
+1.17	RLC	O. sativa vg. japonica
+1.99	RLC	O. sativa vg. japonica
+0.59	RLC	O. sativa vg. japonica
+0.58	RLC	O. sativa vg. japonica
+1.11	RLC	O. sativa vg. japonica
+0	RLC	O. sativa vg. japonica
+0.99	RLC	O. sativa vg. japonica
+1.74	RLC	O. sativa vg. japonica
+2.73	RLC	O. sativa vg. japonica
+2.19	RLC	O. sativa vg. japonica
+1.15	RLC	O. sativa vg. japonica
+0	RLC	O. sativa vg. japonica
+0.27	RLC	O. sativa vg. japonica
+0	RLC	O. sativa vg. japonica
+0	RLC	O. sativa vg. japonica
+0.43	RLC	O. sativa vg. japonica
+1.77	RLC	O. sativa vg. japonica
+0.17	RLC	O. sativa vg. japonica
+0	RLC	O. sativa vg. japonica
+1.4	RLC	O. sativa vg. japonica
+0	RLC	O. sativa vg. japonica
+1.02	RLC	O. sativa vg. japonica
+0.37	RLC	O. sativa vg. japonica
+1.25	RLC	O. sativa vg. japonica
+0.34	RLC	O. sativa vg. japonica
+0	RLC	O. sativa vg. japonica
+0.24	RLC	O. sativa vg. japonica
+0	RLC	O. sativa vg. japonica
+0	RLC	O. sativa vg. japonica
+0.16	RLC	O. sativa vg. japonica
+0.67	RLC	O. sativa vg. japonica
+0.45	RLC	O. sativa vg. japonica
+1.22	RLC	O. sativa vg. japonica
+0.53	RLC	O. sativa vg. japonica
+0.24	RLC	O. sativa vg. japonica
+0	RLC	O. sativa vg. japonica
+0	RLC	O. sativa vg. japonica
+0	RLC	O. sativa vg. japonica
+0.87	RLC	O. sativa vg. japonica
+0	RLC	O. sativa vg. japonica
+0	RLC	O. sativa vg. japonica
+0	RLC	O. sativa vg. japonica
+0	RLC	O. sativa vg. japonica
+0.37	RLC	O. sativa vg. japonica
+0.82	RLC	O. sativa vg. japonica
+0	RLC	O. sativa vg. japonica
+2.66	RLC	O. sativa vg. japonica
+0.26	RLC	O. sativa vg. japonica
+0.54	RLC	O. sativa vg. japonica
+1.34	RLC	O. sativa vg. japonica
+1.31	RLC	O. sativa vg. japonica
+0	RLC	O. sativa vg. japonica
+0	RLC	O. sativa vg. japonica
+0	RLC	O. sativa vg. japonica
+0.26	RLC	O. sativa vg. japonica
+0	RLC	O. sativa vg. japonica
+1.11	RLC	O. sativa vg. japonica
+0	RLC	O. sativa vg. japonica
+0.28	RLC	O. sativa vg. japonica
+0	RLC	O. sativa vg. japonica
+0	RLC	O. sativa vg. japonica
+0	RLC	O. sativa vg. japonica
+0.26	RLC	O. sativa vg. japonica
+0.28	RLC	O. sativa vg. japonica
+0.51	RLC	O. sativa vg. japonica
+0	RLC	O. sativa vg. japonica
+0	RLC	O. sativa vg. japonica
+1.49	RLC	O. sativa vg. japonica
+0	RLC	O. sativa vg. japonica
+0	RLC	O. sativa vg. japonica
+0	RLC	O. sativa vg. japonica
+0.26	RLC	O. sativa vg. japonica
+0.78	RLC	O. sativa vg. japonica
+2.22	RLC	O. sativa vg. japonica
+0	RLC	O. sativa vg. japonica
+0.79	RLC	O. sativa vg. japonica
+0	RLC	O. sativa vg. japonica
+1.08	RLC	O. sativa vg. japonica
+0.26	RLC	O. sativa vg. japonica
+1.68	RLC	O. sativa vg. japonica
+0	RLC	O. sativa vg. japonica
+0.85	RLC	O. sativa vg. japonica
+0.37	RLC	O. sativa vg. japonica
+0.62	RLC	O. sativa vg. japonica
+0.09	RLC	O. sativa vg. japonica
+0.3	RLC	O. sativa vg. japonica
+0.09	RLC	O. sativa vg. japonica
+0.49	RLC	O. sativa vg. japonica
+0.47	RLC	O. sativa vg. japonica
+0.37	RLC	O. sativa vg. japonica
+0.12	RLC	O. sativa vg. japonica
+0.38	RLC	O. sativa vg. japonica
+0	RLC	O. sativa vg. japonica
+0.39	RLC	O. sativa vg. japonica
+0.76	RLC	O. sativa vg. japonica
+0	RLC	O. sativa vg. japonica
+0.49	RLC	O. sativa vg. japonica
+0.24	RLC	O. sativa vg. japonica
+0.73	RLC	O. sativa vg. japonica
+1.49	RLC	O. sativa vg. japonica
+0	RLC	O. sativa vg. japonica
+0.59	RLC	O. sativa vg. japonica
+0	RLC	O. sativa vg. japonica
+0.24	RLC	O. sativa vg. japonica
+0.65	RLC	O. sativa vg. japonica
+0.2	RLC	O. sativa vg. japonica
+0	RLC	O. sativa vg. japonica
+0.39	RLC	O. sativa vg. japonica
+0.33	RLC	O. sativa vg. japonica
+0.98	RLC	O. sativa vg. japonica
+0.94	RLC	O. sativa vg. japonica
+0.09	RLC	O. sativa vg. japonica
+0	RLC	O. sativa vg. japonica
+0.49	RLC	O. sativa vg. japonica
+0.12	RLC	O. sativa vg. japonica
+1.02	RLC	O. sativa vg. japonica
+0	RLC	O. sativa vg. japonica
+0.3	RLC	O. sativa vg. japonica
+0.25	RLC	O. sativa vg. japonica
+2.68	RLC	O. sativa vg. japonica
+1.23	RLC	O. sativa vg. japonica
+0.84	RLC	O. sativa vg. japonica
+0.72	RLC	O. sativa vg. japonica
+0	RLC	O. sativa vg. japonica
+1.42	RLC	O. sativa vg. japonica
+0	RLC	O. sativa vg. japonica
+1.06	RLC	O. sativa vg. japonica
+2.71	RLC	O. sativa vg. japonica
+0.93	RLC	O. sativa vg. japonica
+0.77	RLC	O. sativa vg. japonica
+1.65	RLC	O. sativa vg. japonica
+0.09	RLC	O. sativa vg. japonica
+0.57	RLC	O. sativa vg. japonica
+0.55	RLC	O. sativa vg. japonica
+1.43	RLC	O. sativa vg. japonica
+0.13	RLC	O. sativa vg. japonica
+0.71	RLC	O. sativa vg. japonica
+2.16	RLC	O. sativa vg. japonica
+1.47	RLC	O. sativa vg. japonica
+0.97	RLC	O. sativa vg. japonica
+1.24	RLC	O. sativa vg. japonica
+0.92	RLC	O. sativa vg. japonica
+1.18	RLC	O. sativa vg. japonica
+0.81	RLC	O. sativa vg. japonica
+1.15	RLC	O. sativa vg. japonica
+1.13	RLC	O. sativa vg. japonica
+1.25	RLC	O. sativa vg. japonica
+0.86	RLC	O. sativa vg. japonica
+1.81	RLC	O. sativa vg. japonica
+1.55	RLC	O. sativa vg. japonica
+1.26	RLC	O. sativa vg. japonica
+0.63	RLC	O. sativa vg. japonica
+1.22	RLC	O. sativa vg. japonica
+0.9	RLC	O. sativa vg. japonica
+1.16	RLC	O. sativa vg. japonica
+1.24	RLC	O. sativa vg. japonica
+3.07	RLC	O. sativa vg. japonica
+0.7	RLC	O. sativa vg. japonica
+0.34	RLC	O. sativa vg. japonica
+1.65	RLC	O. sativa vg. japonica
+1.01	RLC	O. sativa vg. japonica
+1.57	RLC	O. sativa vg. japonica
+0.54	RLC	O. sativa vg. japonica
+1.2	RLC	O. sativa vg. japonica
+1.65	RLC	O. sativa vg. japonica
+2.2	RLC	O. sativa vg. japonica
+1.41	RLC	O. sativa vg. japonica
+2.64	RLC	O. sativa vg. japonica
+0.66	RLC	O. sativa vg. japonica
+1.52	RLC	O. sativa vg. japonica
+1.23	RLC	O. sativa vg. japonica
+0.66	RLC	O. sativa vg. japonica
+1.04	RLC	O. sativa vg. japonica
+0.59	RLC	O. sativa vg. japonica
+0.55	RLC	O. sativa vg. japonica
+0.99	RLC	O. sativa vg. japonica
+0.78	RLC	O. sativa vg. japonica
+0.92	RLC	O. sativa vg. japonica
+1.61	RLC	O. sativa vg. japonica
+0.57	RLC	O. sativa vg. japonica
+1.64	RLC	O. sativa vg. japonica
+0.89	RLC	O. sativa vg. japonica
+1.28	RLC	O. sativa vg. japonica
+0.79	RLC	O. sativa vg. japonica
+1.34	RLC	O. sativa vg. japonica
+0.41	RLC	O. sativa vg. japonica
+0.86	RLC	O. sativa vg. japonica
+1.53	RLC	O. sativa vg. japonica
+0.76	RLC	O. sativa vg. japonica
+1.48	RLC	O. sativa vg. japonica
+1.88	RLC	O. sativa vg. japonica
+2.3	RLC	O. sativa vg. japonica
+1.85	RLC	O. sativa vg. japonica
+2.98	RLC	O. sativa vg. japonica
+2.57	RLC	O. sativa vg. japonica
+1.76	RLC	O. sativa vg. japonica
+0.59	RLC	O. sativa vg. japonica
+3.93	RLC	O. sativa vg. japonica
+0.39	RLC	O. sativa vg. japonica
+0.4	RLC	O. sativa vg. japonica
+1.69	RLC	O. sativa vg. japonica
+0.18	RLC	O. sativa vg. japonica
+2.07	RLC	O. sativa vg. japonica
+1.71	RLC	O. sativa vg. japonica
+2.08	RLC	O. sativa vg. japonica
+0.62	RLC	O. sativa vg. japonica
+2.13	RLC	O. sativa vg. japonica
+1.43	RLC	O. sativa vg. japonica
+1.27	RLC	O. sativa vg. japonica
+1.87	RLC	O. sativa vg. japonica
+2.02	RLC	O. sativa vg. japonica
+1.09	RLC	O. sativa vg. japonica
+1.75	RLC	O. sativa vg. japonica
+1.43	RLC	O. sativa vg. japonica
+1.28	RLC	O. sativa vg. japonica
+0.58	RLC	O. sativa vg. japonica
+0.19	RLC	O. sativa vg. japonica
+0.19	RLC	O. sativa vg. japonica
+0.74	RLC	O. sativa vg. japonica
+1.33	RLC	O. sativa vg. japonica
+0.17	RLC	O. sativa vg. japonica
+1.37	RLC	O. sativa vg. japonica
+1.43	RLC	O. sativa vg. japonica
+1.3	RLC	O. sativa vg. japonica
+1.18	RLC	O. sativa vg. japonica
+0.97	RLC	O. sativa vg. japonica
+0.94	RLC	O. sativa vg. japonica
+0.78	RLC	O. sativa vg. japonica
+1.21	RLC	O. sativa vg. japonica
+0.43	RLC	O. sativa vg. japonica
+0.99	RLC	O. sativa vg. japonica
+0.83	RLC	O. sativa vg. japonica
+0.99	RLC	O. sativa vg. japonica
+0.93	RLC	O. sativa vg. japonica
+1.04	RLC	O. sativa vg. japonica
+0.93	RLC	O. sativa vg. japonica
+0.67	RLC	O. sativa vg. japonica
+1.14	RLC	O. sativa vg. japonica
+0.61	RLC	O. sativa vg. japonica
+1.14	RLC	O. sativa vg. japonica
+2.61	RLC	O. sativa vg. japonica
+0.97	RLC	O. sativa vg. japonica
+1.47	RLC	O. sativa vg. japonica
+1.65	RLC	O. sativa vg. japonica
+0.7	RLC	O. sativa vg. japonica
+0	RLC	O. sativa vg. japonica
+1.63	RLC	O. sativa vg. japonica
+0.31	RLC	O. sativa vg. japonica
+0.86	RLC	O. sativa vg. japonica
+1.58	RLC	O. sativa vg. japonica
+0.87	RLC	O. sativa vg. japonica
+1.2	RLC	O. sativa vg. japonica
+0.27	RLC	O. sativa vg. japonica
+1.45	RLC	O. sativa vg. japonica
+0.78	RLC	O. sativa vg. japonica
+0.18	RLC	O. sativa vg. japonica
+0.88	RLC	O. sativa vg. japonica
+0.53	RLC	O. sativa vg. japonica
+0.09	RLC	O. sativa vg. japonica
+0.73	RLC	O. sativa vg. japonica
+1.73	RLC	O. sativa vg. japonica
+0.46	RLC	O. sativa vg. japonica
+2.19	RLC	O. sativa vg. japonica
+0.71	RLC	O. sativa vg. japonica
+1.69	RLC	O. sativa vg. japonica
+0	RLC	O. sativa vg. japonica
+0	RLC	O. sativa vg. japonica
+1.21	RLC	O. sativa vg. japonica
+1.24	RLC	O. sativa vg. japonica
+1.68	RLC	O. sativa vg. japonica
+0.7	RLC	O. sativa vg. japonica
+1.5	RLC	O. sativa vg. japonica
+2.48	RLC	O. sativa vg. japonica
+1.45	RLC	O. sativa vg. japonica
+1.62	RLC	O. sativa vg. japonica
+1.21	RLC	O. sativa vg. japonica
+0.86	RLC	O. sativa vg. japonica
+0.65	RLC	O. sativa vg. japonica
+1.62	RLC	O. sativa vg. japonica
+1.58	RLC	O. sativa vg. japonica
+0	RLC	O. sativa vg. japonica
+0	RLC	O. sativa vg. japonica
+0	RLC	O. sativa vg. japonica
+1.13	RLC	O. sativa vg. japonica
+0.27	RLC	O. sativa vg. japonica
+0	RLC	O. sativa vg. japonica
+0.4	RLC	O. sativa vg. japonica
+0.87	RLC	O. sativa vg. japonica
+1.4	RLC	O. sativa vg. japonica
+0.38	RLC	O. sativa vg. japonica
+0.21	RLC	O. sativa vg. japonica
+0.38	RLC	O. sativa vg. japonica
+1.49	RLC	O. sativa vg. japonica
+2.28	RLC	O. sativa vg. japonica
+0.38	RLC	O. sativa vg. japonica
+1.46	RLC	O. sativa vg. japonica
+2.48	RLC	O. sativa vg. japonica
+1.05	RLC	O. sativa vg. japonica
+1.2	RLC	O. sativa vg. japonica
+1.27	RLC	O. sativa vg. japonica
+1.33	RLC	O. sativa vg. japonica
+1.07	RLC	O. sativa vg. japonica
+0	RLC	O. sativa vg. japonica
+0.32	RLC	O. sativa vg. japonica
+0.64	RLC	O. sativa vg. japonica
+0	RLC	O. sativa vg. japonica
+0.32	RLC	O. sativa vg. japonica
+0.34	RLC	O. sativa vg. japonica
+1	RLC	O. sativa vg. japonica
+0.84	RLC	O. sativa vg. japonica
+0.74	RLC	O. sativa vg. japonica
+0.93	RLC	O. sativa vg. japonica
+1.94	RLC	O. sativa vg. japonica
+1.45	RLC	O. sativa vg. japonica
+0.24	RLC	O. sativa vg. japonica
+0.24	RLC	O. sativa vg. japonica
+0.12	RLC	O. sativa vg. japonica
+0	RLC	O. sativa vg. japonica
+0.12	RLC	O. sativa vg. japonica
+0.14	RLC	O. sativa vg. japonica
+0.14	RLC	O. sativa vg. japonica
+1.09	RLC	O. sativa vg. japonica
+2.42	RLC	O. sativa vg. japonica
+3.08	RLC	O. sativa vg. japonica
+1.27	RLC	O. sativa vg. japonica
+0.42	RLC	O. sativa vg. japonica
+0.39	RLC	O. sativa vg. japonica
+0	RLC	O. sativa vg. japonica
+0.58	RLC	O. sativa vg. japonica
+1.88	RLC	O. sativa vg. japonica
+0.57	RLC	O. sativa vg. japonica
+0.32	RLC	O. sativa vg. japonica
+0.26	RLC	O. sativa vg. japonica
+0.08	RLC	O. sativa vg. japonica
+0.18	RLC	O. sativa vg. japonica
+0.05	RLC	O. sativa vg. japonica
+0.02	RLC	O. sativa vg. japonica
+0.03	RLC	O. sativa vg. japonica
+0.1	RLC	O. sativa vg. japonica
+1.71	RLC	O. sativa vg. japonica
+0.16	RLC	O. sativa vg. japonica
+0.58	RLC	O. sativa vg. japonica
+0.24	RLC	O. sativa vg. japonica
+0.2	RLC	O. sativa vg. japonica
+1.29	RLC	O. sativa vg. japonica
+0.72	RLC	O. sativa vg. japonica
+0.53	RLC	O. sativa vg. japonica
+0.68	RLC	O. sativa vg. japonica
+0.17	RLC	O. sativa vg. japonica
+1.13	RLC	O. sativa vg. japonica
+0.19	RLC	O. sativa vg. japonica
+0.2	RLC	O. sativa vg. japonica
+1.95	RLC	O. sativa vg. japonica
+0.21	RLC	O. sativa vg. japonica
+0.34	RLC	O. sativa vg. japonica
+0.1	RLC	O. sativa vg. japonica
+2.46	RLC	O. sativa vg. japonica
+1.18	RLC	O. sativa vg. japonica
+0.38	RLC	O. sativa vg. japonica
+0	RLC	O. sativa vg. japonica
+1.21	RLC	O. sativa vg. japonica
+0.19	RLC	O. sativa vg. japonica
+0.37	RLC	O. sativa vg. japonica
+0.86	RLC	O. sativa vg. japonica
+0.81	RLC	O. sativa vg. japonica
+0	RLC	O. sativa vg. japonica
+0.52	RLC	O. sativa vg. japonica
+0.54	RLC	O. sativa vg. japonica
+0.66	RLC	O. sativa vg. japonica
+0.32	RLC	O. sativa vg. japonica
+0	RLC	O. sativa vg. japonica
+0.66	RLC	O. sativa vg. japonica
+0.33	RLC	O. sativa vg. japonica
+0	RLC	O. sativa vg. japonica
+1.62	RLC	O. meridionalis
+1.3	RLC	O. meridionalis
+0.77	RLC	O. meridionalis
+2.57	RLC	O. meridionalis
+2.43	RLC	O. meridionalis
+1.25	RLC	O. meridionalis
+2.4	RLC	O. meridionalis
+0.09	RLC	O. meridionalis
+1.16	RLC	O. meridionalis
+0.97	RLC	O. meridionalis
+0	RLC	O. meridionalis
+0.71	RLC	O. meridionalis
+1.12	RLC	O. meridionalis
+1.87	RLC	O. meridionalis
+0	RLC	O. meridionalis
+1.57	RLC	O. meridionalis
+1.13	RLC	O. meridionalis
+0.4	RLC	O. meridionalis
+0	RLC	O. meridionalis
+1.17	RLC	O. meridionalis
+1.67	RLC	O. meridionalis
+0.33	RLC	O. meridionalis
+0.75	RLC	O. meridionalis
+2.1	RLC	O. meridionalis
+2.29	RLC	O. meridionalis
+2.02	RLC	O. meridionalis
+0	RLC	O. meridionalis
+0.2	RLC	O. meridionalis
+2.22	RLC	O. meridionalis
+2.46	RLC	O. meridionalis
+1.97	RLC	O. meridionalis
+2.05	RLC	O. meridionalis
+1.23	RLC	O. meridionalis
+0	RLC	O. meridionalis
+2.49	RLC	O. meridionalis
+0.93	RLC	O. meridionalis
+2.74	RLC	O. meridionalis
+0.8	RLC	O. meridionalis
+0.76	RLC	O. meridionalis
+3.63	RLC	O. meridionalis
+0.58	RLC	O. meridionalis
+0.4	RLC	O. meridionalis
+0.78	RLC	O. meridionalis
+0.64	RLC	O. meridionalis
+1.33	RLC	O. meridionalis
+1.05	RLC	O. meridionalis
+2.11	RLC	O. meridionalis
+0.25	RLC	O. meridionalis
+0.82	RLC	O. meridionalis
+2.43	RLC	O. meridionalis
+1.47	RLC	O. meridionalis
+2.17	RLC	O. meridionalis
+2.71	RLC	O. meridionalis
+1.17	RLC	O. meridionalis
+1.42	RLC	O. meridionalis
+1.07	RLC	O. meridionalis
+0.47	RLC	O. meridionalis
+2.3	RLC	O. meridionalis
+0.18	RLC	O. meridionalis
+0.31	RLC	O. meridionalis
+2.82	RLC	O. meridionalis
+0.05	RLC	O. meridionalis
+0.33	RLC	O. meridionalis
+1.45	RLC	O. meridionalis
+2.35	RLC	O. meridionalis
+0	RLC	O. meridionalis
+0	RLC	O. meridionalis
+0	RLC	O. meridionalis
+1.79	RLC	O. meridionalis
+1.77	RLC	O. meridionalis
+0.31	RLC	O. meridionalis
+1.41	RLC	O. meridionalis
+2.55	RLC	O. meridionalis
+1.08	RLC	O. meridionalis
+0.24	RLC	O. meridionalis
+0.58	RLC	O. meridionalis
+0.77	RLC	O. meridionalis
+0.38	RLC	O. meridionalis
+1.19	RLC	O. meridionalis
+1.39	RLC	O. meridionalis
+0	RLC	O. meridionalis
+1.11	RLC	O. meridionalis
+1.76	RLC	O. nivara
+1.43	RLC	O. nivara
+1.01	RLC	O. nivara
+2.97	RLC	O. nivara
+2.02	RLC	O. nivara
+2.31	RLC	O. nivara
+1.48	RLC	O. nivara
+1.45	RLC	O. nivara
+1.8	RLC	O. nivara
+2.81	RLC	O. nivara
+2.38	RLC	O. nivara
+2.26	RLC	O. nivara
+2.17	RLC	O. nivara
+1.84	RLC	O. nivara
+1.19	RLC	O. nivara
+1.17	RLC	O. nivara
+2.27	RLC	O. nivara
+1.66	RLC	O. nivara
+3.01	RLC	O. nivara
+1.88	RLC	O. nivara
+2.53	RLC	O. nivara
+2.28	RLC	O. nivara
+1.24	RLC	O. nivara
+1.92	RLC	O. nivara
+1.09	RLC	O. nivara
+2.01	RLC	O. nivara
+2.27	RLC	O. nivara
+1.97	RLC	O. nivara
+2.15	RLC	O. nivara
+1.03	RLC	O. nivara
+1.79	RLC	O. nivara
+2.07	RLC	O. nivara
+0.49	RLC	O. nivara
+0.36	RLC	O. nivara
+3.69	RLC	O. nivara
+2.24	RLC	O. nivara
+1.51	RLC	O. nivara
+3.08	RLC	O. nivara
+1.99	RLC	O. nivara
+1.69	RLC	O. nivara
+1.74	RLC	O. nivara
+1.49	RLC	O. nivara
+2.3	RLC	O. nivara
+1.69	RLC	O. nivara
+1.73	RLC	O. nivara
+1.89	RLC	O. nivara
+1.51	RLC	O. nivara
+1.68	RLC	O. nivara
+1.81	RLC	O. nivara
+1.72	RLC	O. nivara
+0.82	RLC	O. nivara
+1.92	RLC	O. nivara
+3.07	RLC	O. nivara
+1.52	RLC	O. nivara
+2.24	RLC	O. nivara
+1.28	RLC	O. nivara
+2.15	RLC	O. nivara
+0.71	RLC	O. nivara
+1.74	RLC	O. nivara
+1.24	RLC	O. nivara
+0.95	RLC	O. nivara
+1.86	RLC	O. nivara
+1.14	RLC	O. nivara
+2.58	RLC	O. nivara
+1.66	RLC	O. nivara
+2	RLC	O. nivara
+2.17	RLC	O. nivara
+1.28	RLC	O. nivara
+2.33	RLC	O. nivara
+1.35	RLC	O. nivara
+1.47	RLC	O. nivara
+2.39	RLC	O. nivara
+2.75	RLC	O. nivara
+1.25	RLC	O. nivara
+1.96	RLC	O. nivara
+0.74	RLC	O. nivara
+1.57	RLC	O. nivara
+1.17	RLC	O. nivara
+0.54	RLC	O. nivara
+0.78	RLC	O. nivara
+1.09	RLC	O. nivara
+1.96	RLC	O. nivara
+2.56	RLC	O. nivara
+1.4	RLC	O. nivara
+1.35	RLC	O. nivara
+0.6	RLC	O. nivara
+2.49	RLC	O. nivara
+2.15	RLC	O. nivara
+2.38	RLC	O. nivara
+1.83	RLC	O. nivara
+2.21	RLC	O. nivara
+2.02	RLC	O. nivara
+2.08	RLC	O. nivara
+1.38	RLC	O. nivara
+1.87	RLC	O. nivara
+0.9	RLC	O. nivara
+1.25	RLC	O. nivara
+0.81	RLC	O. nivara
+1.45	RLC	O. nivara
+0	RLC	O. nivara
+0.51	RLC	O. nivara
+2.48	RLC	O. nivara
+1.48	RLC	O. nivara
+1.53	RLC	O. nivara
+0.34	RLC	O. nivara
+1.2	RLC	O. nivara
+0	RLC	O. nivara
+0.97	RLC	O. nivara
+1.04	RLC	O. nivara
+1.95	RLC	O. nivara
+0.68	RLC	O. nivara
+0.34	RLC	O. nivara
+2.1	RLC	O. nivara
+2.1	RLC	O. nivara
+0	RLC	O. nivara
+0	RLC	O. nivara
+0.73	RLC	O. nivara
+0.62	RLC	O. nivara
+0.19	RLC	O. nivara
+0.66	RLC	O. nivara
+0.67	RLC	O. nivara
+1.51	RLC	O. nivara
+0	RLC	O. nivara
+0.56	RLC	O. nivara
+1.03	RLC	O. nivara
+1.08	RLC	O. nivara
+1.61	RLC	O. nivara
+1.5	RLC	O. nivara
+0.26	RLC	O. nivara
+1.88	RLC	O. nivara
+2.4	RLC	O. nivara
+1.88	RLC	O. nivara
+2	RLC	O. nivara
+0.36	RLC	O. nivara
+0.56	RLC	O. nivara
+1.4	RLC	O. nivara
+1.68	RLC	O. nivara
+0.52	RLC	O. nivara
+0.99	RLC	O. nivara
+0.55	RLC	O. nivara
+1.99	RLC	O. nivara
+1.22	RLC	O. nivara
+0.59	RLC	O. nivara
+0.25	RLC	O. nivara
+2.91	RLC	O. nivara
+0.9	RLC	O. nivara
+1.32	RLC	O. nivara
+1.39	RLC	O. nivara
+1.85	RLC	O. nivara
+1.05	RLC	O. nivara
+0.95	RLC	O. nivara
+0.71	RLC	O. nivara
+0.78	RLC	O. nivara
+1.66	RLC	O. nivara
+0.66	RLC	O. nivara
+1.68	RLC	O. nivara
+1.4	RLC	O. nivara
+1.36	RLC	O. nivara
+0.71	RLC	O. nivara
+0.57	RLC	O. nivara
+0.76	RLC	O. nivara
+1.27	RLC	O. nivara
+0.92	RLC	O. nivara
+1.83	RLC	O. nivara
+0.84	RLC	O. nivara
+1.64	RLC	O. nivara
+1.17	RLC	O. nivara
+0.94	RLC	O. nivara
+0.95	RLC	O. nivara
+1.06	RLC	O. nivara
+3.51	RLC	O. nivara
+1.78	RLC	O. nivara
+1.17	RLC	O. nivara
+2.95	RLC	O. nivara
+2.7	RLC	O. nivara
+1.9	RLC	O. nivara
+2.15	RLC	O. nivara
+3.58	RLC	O. nivara
+1.88	RLC	O. nivara
+0.39	RLC	O. nivara
+0.15	RLC	O. nivara
+1.4	RLC	O. nivara
+2.4	RLC	O. nivara
+2.17	RLC	O. nivara
+1.75	RLC	O. nivara
+0.76	RLC	O. nivara
+1.39	RLC	O. nivara
+2.58	RLC	O. nivara
+2.65	RLC	O. nivara
+1.78	RLC	O. nivara
+1.49	RLC	O. nivara
+1.01	RLC	O. nivara
+2.02	RLC	O. nivara
+2.43	RLC	O. nivara
+1.67	RLC	O. nivara
+2.14	RLC	O. nivara
+0.2	RLC	O. nivara
+0	RLC	O. nivara
+0	RLC	O. nivara
+0.92	RLC	O. nivara
+0	RLC	O. nivara
+1.64	RLC	O. nivara
+1.73	RLC	O. nivara
+1.07	RLC	O. nivara
+0.66	RLC	O. nivara
+0.92	RLC	O. nivara
+2.11	RLC	O. nivara
+1.31	RLC	O. nivara
+1.2	RLC	O. nivara
+1.49	RLC	O. nivara
+1.26	RLC	O. nivara
+1.55	RLC	O. nivara
+2.21	RLC	O. nivara
+1.6	RLC	O. nivara
+0.85	RLC	O. nivara
+2.55	RLC	O. nivara
+0.99	RLC	O. nivara
+1.87	RLC	O. nivara
+1.72	RLC	O. nivara
+1.28	RLC	O. nivara
+1.37	RLC	O. nivara
+0.14	RLC	O. nivara
+0.81	RLC	O. nivara
+0	RLC	O. nivara
+0	RLC	O. nivara
+0.1	RLC	O. nivara
+0.08	RLC	O. nivara
+2.73	RLC	O. nivara
+0.4	RLC	O. nivara
+1.48	RLC	O. nivara
+2.54	RLC	O. nivara
+0.94	RLC	O. nivara
+0	RLC	O. nivara
+0.65	RLC	O. nivara
+1.94	RLC	O. nivara
+0	RLC	O. nivara
+1.22	RLC	O. nivara
+1.08	RLC	O. nivara
+0.89	RLC	O. nivara
+1.62	RLC	O. nivara
+2.14	RLC	O. nivara
+2.2	RLC	O. nivara
+2.11	RLC	O. nivara
+1.29	RLC	O. nivara
+1.61	RLC	O. nivara
+1.83	RLC	O. nivara
+2.95	RLC	O. nivara
+1.94	RLC	O. nivara
+0.68	RLC	O. nivara
+1.83	RLC	O. nivara
+0.27	RLC	O. nivara
+0.65	RLC	O. nivara
+0	RLC	O. nivara
+1.13	RLC	O. nivara
+0	RLC	O. nivara
+1.09	RLC	O. nivara
+0.13	RLC	O. nivara
+0.9	RLC	O. nivara
+0.72	RLC	O. nivara
+2.18	RLC	O. nivara
+0.19	RLC	O. nivara
+0.27	RLC	O. nivara
+1.96	RLC	O. nivara
+1.99	RLC	O. nivara
+0.07	RLC	O. nivara
+1.32	RLC	O. nivara
+0.54	RLC	O. nivara
+2.34	RLC	O. nivara
+0.06	RLC	O. nivara
+0.67	RLC	O. nivara
+0.74	RLC	O. nivara
+0.37	RLC	O. nivara
+0.79	RLC	O. nivara
+4.55	RLC	O. nivara
+1.19	RLC	O. nivara
+0.4	RLC	O. nivara
+1.93	RLC	O. nivara
+1.59	RLC	O. nivara
+0.32	RLC	O. nivara
+1.84	RLC	O. nivara
+1.83	RLC	O. nivara
+0.37	RLC	O. nivara
+1.21	RLC	O. nivara
+0.74	RLC	O. nivara
+1.45	RLC	O. nivara
+0.33	RLC	O. nivara
+0.06	RLC	O. nivara
+1.61	RLC	O. nivara
+0.15	RLC	O. nivara
+0.52	RLC	O. nivara
+0.78	RLC	O. nivara
+1.48	RLC	O. nivara
+2.21	RLC	O. nivara
+0	RLC	O. nivara
+0	RLC	O. nivara
+0.14	RLC	O. nivara
+0.28	RLC	O. nivara
+0.12	RLC	O. nivara
+0.22	RLC	O. nivara
+0	RLC	O. nivara
+0.13	RLC	O. nivara
+0.37	RLC	O. nivara
+0.49	RLC	O. nivara
+0	RLC	O. nivara
+0.32	RLC	O. nivara
+0	RLC	O. nivara
+0.63	RLC	O. nivara
+0.1	RLC	O. nivara
+0.43	RLC	O. nivara
+1.17	RLC	O. nivara
+3.27	RLC	O. nivara
+1.67	RLC	O. nivara
+2.94	RLC	O. nivara
+1.51	RLC	O. nivara
+1.99	RLC	O. nivara
+1.45	RLC	O. nivara
+3.46	RLC	O. nivara
+2.08	RLC	O. nivara
+0	RLC	O. nivara
+0	RLC	O. nivara
+0.5	RLC	O. nivara
+1.42	RLC	O. nivara
+1.1	RLC	O. nivara
+1.44	RLC	O. nivara
+0.54	RLC	O. nivara
+0.53	RLC	O. nivara
+0.68	RLC	O. nivara
+1.52	RLC	O. nivara
+0	RLC	O. nivara
+0.86	RLC	O. nivara
+1.19	RLC	O. nivara
+0.79	RLC	O. nivara
+0.19	RLC	O. nivara
+0.43	RLC	O. nivara
+0.55	RLC	O. nivara
+0.69	RLC	O. nivara
+0	RLC	O. nivara
+2.87	RLC	O. punctata
+3.95	RLC	O. punctata
+3.37	RLC	O. punctata
+2.21	RLC	O. punctata
+1.55	RLC	O. punctata
+2.45	RLC	O. punctata
+1.73	RLC	O. punctata
+3.55	RLC	O. punctata
+2.8	RLC	O. punctata
+0.54	RLC	O. punctata
+0.87	RLC	O. punctata
+1.05	RLC	O. punctata
+2.68	RLC	O. punctata
+2.64	RLC	O. punctata
+1.73	RLC	O. punctata
+3.58	RLC	O. punctata
+1.17	RLC	O. punctata
+0.47	RLC	O. punctata
+1.62	RLC	O. punctata
+1.42	RLC	O. punctata
+3.4	RLC	O. punctata
+0.91	RLC	O. punctata
+1.86	RLC	O. punctata
+1.3	RLC	O. punctata
+1.91	RLC	O. punctata
+0.94	RLC	O. punctata
+0.79	RLC	O. punctata
+0.79	RLC	O. punctata
+0.9	RLC	O. punctata
+1.28	RLC	O. punctata
+0.97	RLC	O. punctata
+1.08	RLC	O. punctata
+0.62	RLC	O. punctata
+0.29	RLC	O. punctata
+0.49	RLC	O. punctata
+1.48	RLC	O. punctata
+1.79	RLC	O. punctata
+1.38	RLC	O. punctata
+0.19	RLC	O. punctata
+1.02	RLC	O. punctata
+0.24	RLC	O. punctata
+1.13	RLC	O. punctata
+0.98	RLC	O. punctata
+0.61	RLC	O. punctata
+1.21	RLC	O. punctata
+1.15	RLC	O. punctata
+1.03	RLC	O. punctata
+0.87	RLC	O. punctata
+0.46	RLC	O. punctata
+0.28	RLC	O. punctata
+0.26	RLC	O. punctata
+3.34	RLC	O. punctata
+0.37	RLC	O. punctata
+1.91	RLC	O. punctata
+1.26	RLC	O. punctata
+0.47	RLC	O. punctata
+0.48	RLC	O. punctata
+0.47	RLC	O. punctata
+1.72	RLC	O. punctata
+0.76	RLC	O. punctata
+1.7	RLC	O. punctata
+0	RLC	O. punctata
+2.07	RLC	O. punctata
+1.31	RLC	O. punctata
+1.38	RLC	O. punctata
+0.96	RLC	O. punctata
+2.42	RLC	O. punctata
+1.29	RLC	O. punctata
+0.81	RLC	O. punctata
+0.4	RLC	O. punctata
+2.6	RLC	O. punctata
+2.42	RLC	O. punctata
+1.57	RLC	O. punctata
+4.89	RLC	O. punctata
+1.98	RLC	O. punctata
+2.14	RLC	O. punctata
+2.09	RLC	O. punctata
+1.18	RLC	O. punctata
+0.05	RLC	O. punctata
+3.54	RLC	O. punctata
+1.92	RLC	O. punctata
+1.62	RLC	O. punctata
+1.49	RLC	O. punctata
+1.21	RLC	O. punctata
+1.86	RLC	O. punctata
+1.73	RLC	O. punctata
+0.25	RLC	O. punctata
+2.32	RLC	O. punctata
+1.91	RLC	O. punctata
+0	RLC	O. punctata
+1.51	RLC	O. punctata
+1.15	RLC	O. punctata
+0.91	RLC	O. punctata
+1.17	RLC	O. punctata
+0.5	RLC	O. punctata
+3.35	RLC	O. punctata
+1.37	RLC	O. punctata
+2.7	RLC	O. punctata
+0.81	RLC	O. punctata
+2.11	RLC	O. punctata
+2.43	RLC	O. punctata
+0.47	RLC	O. punctata
+2.63	RLC	O. punctata
+0.91	RLC	O. punctata
+2.51	RLC	O. punctata
+1.98	RLC	O. punctata
+1.54	RLC	O. punctata
+1.66	RLC	O. punctata
+2.8	RLC	O. punctata
+0.77	RLC	O. punctata
+1.05	RLC	O. punctata
+1.08	RLC	O. punctata
+0.92	RLC	O. punctata
+2.53	RLC	O. punctata
+0.37	RLC	O. punctata
+2.44	RLC	O. punctata
+1.46	RLC	O. punctata
+3.29	RLC	O. punctata
+1.37	RLC	O. punctata
+0.93	RLC	O. punctata
+0.5	RLC	O. punctata
+2.54	RLC	O. punctata
+3.24	RLC	O. punctata
+3.39	RLC	O. punctata
+0.27	RLC	O. punctata
+0.33	RLC	O. punctata
+0.99	RLC	O. punctata
+1.24	RLC	O. punctata
+1.13	RLC	O. punctata
+0	RLC	O. punctata
+2.77	RLC	O. punctata
+2.49	RLC	O. punctata
+1.58	RLC	O. punctata
+2.93	RLC	O. punctata
+2.68	RLC	O. punctata
+2.42	RLC	O. punctata
+3.05	RLC	O. punctata
+0.9	RLC	O. punctata
+1.03	RLC	O. punctata
+0.9	RLC	O. punctata
+2.45	RLC	O. punctata
+2.68	RLC	O. punctata
+1.54	RLC	O. punctata
+1.21	RLC	O. punctata
+0.65	RLC	O. punctata
+1.3	RLC	O. punctata
+3.85	RLC	O. punctata
+0	RLC	O. punctata
+1.39	RLC	O. punctata
+3.25	RLC	O. punctata
+0	RLC	O. punctata
+0	RLC	O. punctata
+0.33	RLC	O. punctata
+1.47	RLC	O. punctata
+0.82	RLC	O. punctata
+1.39	RLC	O. punctata
+2.19	RLC	O. punctata
+1.61	RLC	O. punctata
+0.52	RLC	O. punctata
+2.34	RLC	O. punctata
+0.46	RLC	O. punctata
+2.16	RLC	O. punctata
+0.06	RLC	O. punctata
+1.68	RLC	O. punctata
+0.46	RLC	O. punctata
+1.2	RLC	O. punctata
+0.66	RLC	O. punctata
+0.7	RLC	O. punctata
+1.45	RLC	O. punctata
+2.19	RLC	O. punctata
+3.35	RLC	O. punctata
+0.73	RLC	O. punctata
+0.48	RLC	O. punctata
+1.06	RLC	O. punctata
+0.07	RLC	O. punctata
+0.44	RLC	O. punctata
+0.96	RLC	O. punctata
+0.57	RLC	O. punctata
+1.41	RLC	O. punctata
+0.29	RLC	O. punctata
+2.09	RLC	O. punctata
+0.89	RLC	O. punctata
+0.28	RLC	O. punctata
+1.17	RLC	O. punctata
+0.85	RLC	O. punctata
+0	RLC	O. punctata
+1.99	RLC	O. punctata
+0.64	RLC	O. punctata
+0	RLC	O. punctata
+1.71	RLC	O. punctata
+1.42	RLC	O. punctata
+1.17	RLC	O. punctata
+1.57	RLC	O. punctata
+0.97	RLC	O. punctata
+0.55	RLC	O. punctata
+0.58	RLC	O. punctata
+0.62	RLC	O. punctata
+1.05	RLC	O. punctata
+0.84	RLC	O. punctata
+1.96	RLC	O. punctata
+1.75	RLC	O. punctata
+0.86	RLC	O. punctata
+0.92	RLC	O. punctata
+1.2	RLC	O. punctata
+0	RLC	O. punctata
+0.53	RLC	O. punctata
+0.18	RLC	O. punctata
+1.1	RLC	O. punctata
+0	RLC	O. punctata
+0.32	RLC	O. punctata
+2.07	RLC	O. punctata
+2.29	RLC	O. punctata
+1.35	RLC	O. punctata
+0.45	RLC	O. punctata
+0.86	RLC	O. punctata
+1.96	RLC	O. punctata
+2.69	RLC	O. punctata
+1.19	RLC	O. punctata
+2.08	RLC	O. punctata
+2.56	RLC	O. punctata
+0.56	RLC	O. punctata
+0.87	RLC	O. punctata
+0.61	RLC	O. punctata
+1.15	RLC	O. punctata
+0.47	RLC	O. punctata
+0.09	RLC	O. punctata
+0.17	RLC	O. punctata
+1.45	RLC	O. punctata
+1.3	RLC	O. punctata
+1.58	RLC	O. punctata
+0.2	RLC	O. punctata
+0.28	RLC	O. punctata
+1.53	RLC	O. punctata
+1.38	RLC	O. punctata
+1.71	RLC	O. punctata
+1.48	RLC	O. punctata
+2.35	RLC	O. punctata
+1.48	RLC	O. punctata
+0.82	RLC	O. punctata
+0.66	RLC	O. punctata
+0.51	RLC	O. punctata
+1.06	RLC	O. punctata
+2.1	RLC	O. punctata
+1.48	RLC	O. punctata
+0.23	RLC	O. punctata
+0.92	RLC	O. punctata
+1.04	RLC	O. punctata
+1.63	RLC	O. punctata
+1.79	RLC	O. punctata
+0.95	RLC	O. punctata
+0.65	RLC	O. punctata
+0.9	RLC	O. punctata
+1.06	RLC	O. punctata
+0.65	RLC	O. punctata
+1.84	RLC	O. punctata
+2.45	RLC	O. punctata
+0.65	RLC	O. punctata
+1.32	RLC	O. punctata
+1.43	RLC	O. punctata
+0.28	RLC	O. punctata
+1.28	RLC	O. punctata
+1.05	RLC	O. punctata
+1.75	RLC	O. punctata
+1.75	RLC	O. punctata
+1.8	RLC	O. punctata
+1.07	RLC	O. punctata
+0.48	RLC	O. punctata
+0	RLC	O. punctata
+0.47	RLC	O. punctata
+2.57	RLC	O. punctata
+0	RLC	O. punctata
+1.67	RLC	O. punctata
+0.74	RLC	O. punctata
+1.03	RLC	O. punctata
+0.9	RLC	O. punctata
+1.72	RLC	O. punctata
+0.4	RLC	O. punctata
+2.89	RLC	O. punctata
+0.1	RLC	O. punctata
+1.18	RLC	O. punctata
+1.3	RLC	O. punctata
+1.22	RLC	O. punctata
+1.67	RLC	O. punctata
+1.18	RLC	O. punctata
+1.64	RLC	O. punctata
+0.61	RLC	O. punctata
+0.48	RLC	O. punctata
+0	RLC	O. punctata
+1.06	RLC	O. punctata
+2.26	RLC	O. punctata
+0.84	RLC	O. punctata
+1.44	RLC	O. punctata
+0.33	RLC	O. punctata
+1.55	RLC	O. punctata
+2.93	RLC	O. punctata
+1.5	RLC	O. punctata
+1.63	RLC	O. punctata
+2.67	RLC	O. punctata
+1.27	RLC	O. punctata
+2.76	RLC	O. punctata
+2.59	RLC	O. punctata
+2.29	RLC	O. punctata
+0.82	RLC	O. punctata
+1.94	RLC	O. punctata
+1.09	RLC	O. punctata
+2.3	RLC	O. punctata
+1.06	RLC	O. punctata
+2.5	RLC	O. punctata
+2.58	RLC	O. punctata
+2.98	RLC	O. punctata
+0.33	RLC	O. punctata
+1.65	RLC	O. punctata
+1.75	RLC	O. punctata
+0.74	RLC	O. punctata
+0.54	RLC	O. punctata
+1.49	RLC	O. punctata
+1.48	RLC	O. punctata
+2.32	RLC	O. punctata
+0.25	RLC	O. punctata
+0	RLC	O. punctata
+0.34	RLC	O. punctata
+1.64	RLC	O. punctata
+1.86	RLC	O. punctata
+1.16	RLC	O. punctata
+1.46	RLC	O. punctata
+1.25	RLC	O. punctata
+1.52	RLC	O. punctata
+1.05	RLC	O. punctata
+0.94	RLC	O. punctata
+0.48	RLC	O. punctata
+2.02	RLC	O. punctata
+2.08	RLC	O. punctata
+2.61	RLC	O. punctata
+1.41	RLC	O. punctata
+1.21	RLC	O. punctata
+1.41	RLC	O. punctata
+1.55	RLC	O. punctata
+1.58	RLC	O. punctata
+1.59	RLC	O. punctata
+4.71	RLC	O. punctata
+1.15	RLC	O. punctata
+0.9	RLC	O. punctata
+0.54	RLC	O. punctata
+1.99	RLC	O. punctata
+0.99	RLC	O. punctata
+0.69	RLC	O. punctata
+2.01	RLC	O. punctata
+3.4	RLC	O. punctata
+2.06	RLC	O. punctata
+1.01	RLC	O. punctata
+1.85	RLC	O. punctata
+0.36	RLC	O. punctata
+0.66	RLC	O. punctata
+0.22	RLC	O. punctata
+0.44	RLC	O. punctata
+1.55	RLC	O. punctata
+1.81	RLC	O. punctata
+1.93	RLC	O. punctata
+0.66	RLC	O. punctata
+1.08	RLC	O. punctata
+0.59	RLC	O. punctata
+0.93	RLC	O. punctata
+0.99	RLC	O. punctata
+2.45	RLC	O. punctata
+1.41	RLC	O. punctata
+1.71	RLC	O. punctata
+0.66	RLC	O. punctata
+0.31	RLC	O. punctata
+3.71	RLC	O. punctata
+0.64	RLC	O. punctata
+1.11	RLC	O. punctata
+0.4	RLC	O. punctata
+1.47	RLC	O. punctata
+0.11	RLC	O. punctata
+1.04	RLC	O. punctata
+1.12	RLC	O. punctata
+1.21	RLC	O. punctata
+1.68	RLC	O. punctata
+0.87	RLC	O. punctata
+0.04	RLC	O. punctata
+1.28	RLC	O. punctata
+0.71	RLC	O. punctata
+1.02	RLC	O. punctata
+1.04	RLC	O. punctata
+1.85	RLC	O. punctata
+0.68	RLC	O. punctata
+2.33	RLC	O. punctata
+1.15	RLC	O. punctata
+1.5	RLC	O. punctata
+0.77	RLC	O. punctata
+0.52	RLC	O. punctata
+0.89	RLC	O. punctata
+0.74	RLC	O. punctata
+1.33	RLC	O. punctata
+0.11	RLC	O. punctata
+1.25	RLC	O. punctata
+1.35	RLC	O. punctata
+1.1	RLC	O. punctata
+0.87	RLC	O. punctata
+0.67	RLC	O. punctata
+2.4	RLC	O. punctata
+1.58	RLC	O. punctata
+1.79	RLC	O. punctata
+2.8	RLC	O. punctata
+1.58	RLC	O. punctata
+2.46	RLC	O. punctata
+1.4	RLC	O. punctata
+2.3	RLC	O. punctata
+1.99	RLC	O. punctata
+1.62	RLC	O. punctata
+1.51	RLC	O. punctata
+1.78	RLC	O. punctata
+0.79	RLC	O. punctata
+1.27	RLC	O. punctata
+1.84	RLC	O. punctata
+1.2	RLC	O. punctata
+0.92	RLC	O. punctata
+0.38	RLC	O. punctata
+0.55	RLC	O. punctata
+1.15	RLC	O. punctata
+0.95	RLC	O. punctata
+1.31	RLC	O. punctata
+0.9	RLC	O. punctata
+1.71	RLC	O. punctata
+2.57	RLC	O. punctata
+1.87	RLC	O. punctata
+1.46	RLC	O. punctata
+1.1	RLC	O. punctata
+0.57	RLC	O. punctata
+0.33	RLC	O. punctata
+1.47	RLC	O. punctata
+1.22	RLC	O. punctata
+1.18	RLC	O. punctata
+3.73	RLC	O. punctata
+0.75	RLC	O. punctata
+1.27	RLC	O. punctata
+2.6	RLC	O. punctata
+1.84	RLC	O. punctata
+1.54	RLC	O. punctata
+1.05	RLC	O. punctata
+0.67	RLC	O. punctata
+0.57	RLC	O. punctata
+0.98	RLC	O. punctata
+1.18	RLC	O. punctata
+1	RLC	O. punctata
+0.74	RLC	O. punctata
+0	RLC	O. punctata
+1.51	RLC	O. punctata
+1.67	RLC	O. punctata
+1.68	RLC	O. punctata
+0.54	RLC	O. punctata
+0.44	RLC	O. punctata
+3.55	RLC	O. punctata
+1.8	RLC	O. punctata
+2.18	RLC	O. punctata
+1.53	RLC	O. punctata
+1.06	RLC	O. punctata
+3.77	RLC	O. punctata
+2.83	RLC	O. punctata
+2.05	RLC	O. punctata
+3.38	RLC	O. punctata
+0.58	RLC	O. punctata
+0.72	RLC	O. punctata
+2	RLC	O. punctata
+1.76	RLC	O. punctata
+1.77	RLC	O. punctata
+1.95	RLC	O. punctata
+1.64	RLC	O. punctata
+2.22	RLC	O. punctata
+1.4	RLC	O. punctata
+0.7	RLC	O. punctata
+0.79	RLC	O. punctata
+0.19	RLC	O. punctata
+0.46	RLC	O. punctata
+0.34	RLC	O. punctata
+0.34	RLC	O. punctata
+1.64	RLC	O. rufipogon
+1.26	RLC	O. rufipogon
+1.56	RLC	O. rufipogon
+1.65	RLC	O. rufipogon
+1.49	RLC	O. rufipogon
+1.27	RLC	O. rufipogon
+1.62	RLC	O. rufipogon
+1.9	RLC	O. rufipogon
+0.49	RLC	O. rufipogon
+2.05	RLC	O. rufipogon
+1.57	RLC	O. rufipogon
+2.36	RLC	O. rufipogon
+3.31	RLC	O. rufipogon
+1.89	RLC	O. rufipogon
+2.11	RLC	O. rufipogon
+2.17	RLC	O. rufipogon
+1.27	RLC	O. rufipogon
+0.97	RLC	O. rufipogon
+2.11	RLC	O. rufipogon
+2	RLC	O. rufipogon
+1.6	RLC	O. rufipogon
+2.05	RLC	O. rufipogon
+2.04	RLC	O. rufipogon
+1.88	RLC	O. rufipogon
+1.09	RLC	O. rufipogon
+1.32	RLC	O. rufipogon
+1	RLC	O. rufipogon
+1.78	RLC	O. rufipogon
+1.42	RLC	O. rufipogon
+1.38	RLC	O. rufipogon
+1.36	RLC	O. rufipogon
+2.3	RLC	O. rufipogon
+1.8	RLC	O. rufipogon
+2.07	RLC	O. rufipogon
+2	RLC	O. rufipogon
+1.7	RLC	O. rufipogon
+1.38	RLC	O. rufipogon
+0.18	RLC	O. rufipogon
+1.11	RLC	O. rufipogon
+1.35	RLC	O. rufipogon
+0.98	RLC	O. rufipogon
+1.23	RLC	O. rufipogon
+0.8	RLC	O. rufipogon
+0.73	RLC	O. rufipogon
+1.77	RLC	O. rufipogon
+0.91	RLC	O. rufipogon
+0.99	RLC	O. rufipogon
+2.01	RLC	O. rufipogon
+1.79	RLC	O. rufipogon
+1.49	RLC	O. rufipogon
+1.07	RLC	O. rufipogon
+0.81	RLC	O. rufipogon
+1.07	RLC	O. rufipogon
+1.42	RLC	O. rufipogon
+1.39	RLC	O. rufipogon
+1.48	RLC	O. rufipogon
+1.31	RLC	O. rufipogon
+0.37	RLC	O. rufipogon
+1.28	RLC	O. rufipogon
+2.16	RLC	O. rufipogon
+1.71	RLC	O. rufipogon
+2.46	RLC	O. rufipogon
+2.35	RLC	O. rufipogon
+1.47	RLC	O. rufipogon
+2.35	RLC	O. rufipogon
+1.46	RLC	O. rufipogon
+1.78	RLC	O. rufipogon
+1.57	RLC	O. rufipogon
+1.71	RLC	O. rufipogon
+1.82	RLC	O. rufipogon
+1.52	RLC	O. rufipogon
+0.59	RLC	O. rufipogon
+1.09	RLC	O. rufipogon
+2.02	RLC	O. rufipogon
+2.4	RLC	O. rufipogon
+1.91	RLC	O. rufipogon
+1.56	RLC	O. rufipogon
+1.5	RLC	O. rufipogon
+1.55	RLC	O. rufipogon
+0.95	RLC	O. rufipogon
+0.93	RLC	O. rufipogon
+2.62	RLC	O. rufipogon
+2.81	RLC	O. rufipogon
+2.62	RLC	O. rufipogon
+1.83	RLC	O. rufipogon
+1.27	RLC	O. rufipogon
+1.44	RLC	O. rufipogon
+1.77	RLC	O. rufipogon
+0.18	RLC	O. rufipogon
+0.89	RLC	O. rufipogon
+0.47	RLC	O. rufipogon
+0.87	RLC	O. rufipogon
+1.85	RLC	O. rufipogon
+2.43	RLC	O. rufipogon
+1.53	RLC	O. rufipogon
+1.64	RLC	O. rufipogon
+2.02	RLC	O. rufipogon
+2.09	RLC	O. rufipogon
+1.77	RLC	O. rufipogon
+1.59	RLC	O. rufipogon
+1.89	RLC	O. rufipogon
+2.1	RLC	O. rufipogon
+1.49	RLC	O. rufipogon
+1.37	RLC	O. rufipogon
+1.69	RLC	O. rufipogon
+1.97	RLC	O. rufipogon
+1.28	RLC	O. rufipogon
+1.74	RLC	O. rufipogon
+0.33	RLC	O. rufipogon
+1.6	RLC	O. rufipogon
+1.66	RLC	O. rufipogon
+1.5	RLC	O. rufipogon
+0.83	RLC	O. rufipogon
+1.65	RLC	O. rufipogon
+1.76	RLC	O. rufipogon
+1.73	RLC	O. rufipogon
+1.11	RLC	O. rufipogon
+1.62	RLC	O. rufipogon
+1.16	RLC	O. rufipogon
+1.68	RLC	O. rufipogon
+0.58	RLC	O. rufipogon
+1.31	RLC	O. rufipogon
+0.86	RLC	O. rufipogon
+0.49	RLC	O. rufipogon
+0.27	RLC	O. rufipogon
+2.73	RLC	O. rufipogon
+1.06	RLC	O. rufipogon
+0	RLC	O. rufipogon
+0.27	RLC	O. rufipogon
+1.53	RLC	O. rufipogon
+0.64	RLC	O. rufipogon
+0.37	RLC	O. rufipogon
+1.49	RLC	O. rufipogon
+0.76	RLC	O. rufipogon
+1.21	RLC	O. rufipogon
+1.34	RLC	O. rufipogon
+1.84	RLC	O. rufipogon
+0.24	RLC	O. rufipogon
+0.67	RLC	O. rufipogon
+1.53	RLC	O. rufipogon
+1.3	RLC	O. rufipogon
+0.52	RLC	O. rufipogon
+1.71	RLC	O. rufipogon
+1.97	RLC	O. rufipogon
+1.08	RLC	O. rufipogon
+0.98	RLC	O. rufipogon
+0.87	RLC	O. rufipogon
+0.82	RLC	O. rufipogon
+0	RLC	O. rufipogon
+2.7	RLC	O. rufipogon
+1.05	RLC	O. rufipogon
+0.81	RLC	O. rufipogon
+2.02	RLC	O. rufipogon
+1.42	RLC	O. rufipogon
+1.68	RLC	O. rufipogon
+2.92	RLC	O. rufipogon
+1.5	RLC	O. rufipogon
+0.52	RLC	O. rufipogon
+1.54	RLC	O. rufipogon
+1.75	RLC	O. rufipogon
+0.65	RLC	O. rufipogon
+0.49	RLC	O. rufipogon
+1.25	RLC	O. rufipogon
+1.08	RLC	O. rufipogon
+1.62	RLC	O. rufipogon
+0.93	RLC	O. rufipogon
+0	RLC	O. rufipogon
+2.46	RLC	O. rufipogon
+1.26	RLC	O. rufipogon
+0.84	RLC	O. rufipogon
+0.93	RLC	O. rufipogon
+0.75	RLC	O. rufipogon
+2.14	RLC	O. rufipogon
+1.32	RLC	O. rufipogon
+2.28	RLC	O. rufipogon
+1.35	RLC	O. rufipogon
+1.15	RLC	O. rufipogon
+1.46	RLC	O. rufipogon
+1.64	RLC	O. rufipogon
+1.15	RLC	O. rufipogon
+1.1	RLC	O. rufipogon
+1.4	RLC	O. rufipogon
+0	RLC	O. rufipogon
+2.1	RLC	O. rufipogon
+2.72	RLC	O. rufipogon
+0.88	RLC	O. rufipogon
+0.96	RLC	O. rufipogon
+1.67	RLC	O. rufipogon
+0.54	RLC	O. rufipogon
+0.8	RLC	O. rufipogon
+0.96	RLC	O. rufipogon
+0.9	RLC	O. rufipogon
+0.77	RLC	O. rufipogon
+1.5	RLC	O. rufipogon
+1.34	RLC	O. rufipogon
+1.02	RLC	O. rufipogon
+1.52	RLC	O. rufipogon
+1.42	RLC	O. rufipogon
+1.48	RLC	O. rufipogon
+0.63	RLC	O. rufipogon
+1.45	RLC	O. rufipogon
+0.94	RLC	O. rufipogon
+0.93	RLC	O. rufipogon
+2.84	RLC	O. rufipogon
+1.36	RLC	O. rufipogon
+2.3	RLC	O. rufipogon
+1.85	RLC	O. rufipogon
+4.19	RLC	O. rufipogon
+1	RLC	O. rufipogon
+0.76	RLC	O. rufipogon
+0.36	RLC	O. rufipogon
+1.36	RLC	O. rufipogon
+1.78	RLC	O. rufipogon
+2.31	RLC	O. rufipogon
+0.62	RLC	O. rufipogon
+2.13	RLC	O. rufipogon
+1.52	RLC	O. rufipogon
+1.63	RLC	O. rufipogon
+2.02	RLC	O. rufipogon
+1.44	RLC	O. rufipogon
+1.69	RLC	O. rufipogon
+2.37	RLC	O. rufipogon
+1.54	RLC	O. rufipogon
+2.1	RLC	O. rufipogon
+2.1	RLC	O. rufipogon
+1.71	RLC	O. rufipogon
+1.28	RLC	O. rufipogon
+1.11	RLC	O. rufipogon
+0.9	RLC	O. rufipogon
+1.51	RLC	O. rufipogon
+1.46	RLC	O. rufipogon
+0.91	RLC	O. rufipogon
+1.67	RLC	O. rufipogon
+1.44	RLC	O. rufipogon
+1.27	RLC	O. rufipogon
+0.84	RLC	O. rufipogon
+0.96	RLC	O. rufipogon
+1.53	RLC	O. rufipogon
+1.58	RLC	O. rufipogon
+0.88	RLC	O. rufipogon
+0.85	RLC	O. rufipogon
+1.72	RLC	O. rufipogon
+1.1	RLC	O. rufipogon
+2.2	RLC	O. rufipogon
+0.69	RLC	O. rufipogon
+0.8	RLC	O. rufipogon
+1.15	RLC	O. rufipogon
+0.68	RLC	O. rufipogon
+0.97	RLC	O. rufipogon
+1.3	RLC	O. rufipogon
+0.58	RLC	O. rufipogon
+1.43	RLC	O. rufipogon
+0.57	RLC	O. rufipogon
+0.88	RLC	O. rufipogon
+1.54	RLC	O. rufipogon
+1.76	RLC	O. rufipogon
+0.46	RLC	O. rufipogon
+1.08	RLC	O. rufipogon
+2.23	RLC	O. rufipogon
+2.17	RLC	O. rufipogon
+1.14	RLC	O. rufipogon
+0.32	RLC	O. rufipogon
+1.17	RLC	O. rufipogon
+1.5	RLC	O. rufipogon
+0.86	RLC	O. rufipogon
+1.58	RLC	O. rufipogon
+0.72	RLC	O. rufipogon
+1.13	RLC	O. rufipogon
+0	RLC	O. rufipogon
+1.23	RLC	O. rufipogon
+0.21	RLC	O. rufipogon
+2.25	RLC	O. rufipogon
+0.93	RLC	O. rufipogon
+1.34	RLC	O. rufipogon
+1.25	RLC	O. rufipogon
+1	RLC	O. rufipogon
+1.94	RLC	O. rufipogon
+0.14	RLC	O. rufipogon
+1.22	RLC	O. rufipogon
+3.09	RLC	O. rufipogon
+0.82	RLC	O. rufipogon
+0.57	RLC	O. rufipogon
+0	RLC	O. rufipogon
+0.26	RLC	O. rufipogon
+1.21	RLC	O. rufipogon
+0.47	RLC	O. rufipogon
+0.12	RLC	O. rufipogon
+0.71	RLC	O. rufipogon
+1.71	RLC	O. rufipogon
+0.64	RLC	O. rufipogon
+0.47	RLC	O. rufipogon
+0	RLC	O. rufipogon
+1.63	RLC	O. rufipogon
+0.79	RLC	O. rufipogon
+1.13	RLC	O. rufipogon
+0	RLC	O. rufipogon
+1.99	RLC	O. rufipogon
+1.13	RLC	O. rufipogon
+1.52	RLC	O. rufipogon
+0.57	RLC	O. rufipogon
+0.45	RLC	O. rufipogon
+0.37	RLC	O. rufipogon
+0.77	RLC	O. rufipogon
+1.29	RLC	O. rufipogon
+1.29	RLC	O. rufipogon
+2.89	RLC	O. rufipogon
+0.94	RLC	O. rufipogon
+1.25	RLC	O. rufipogon
+0.98	RLC	O. rufipogon
+0.67	RLC	O. rufipogon
+0.1	RLC	O. rufipogon
+1.26	RLC	O. rufipogon
+0.53	RLC	O. rufipogon
+0.9	RLC	O. rufipogon
+3.22	RLC	O. rufipogon
+1.42	RLC	O. rufipogon
+1.48	RLC	O. rufipogon
+0.88	RLC	O. rufipogon
+0.81	RLC	O. rufipogon
+0.38	RLC	O. rufipogon
+1.39	RLC	O. rufipogon
+2.4	RLC	O. rufipogon
+3.54	RLC	O. rufipogon
+0.21	RLC	O. rufipogon
+1.53	RLC	O. rufipogon
+0.39	RLC	O. rufipogon
+1.19	RLC	O. rufipogon
+0.57	RLC	O. rufipogon
+0.36	RLC	O. rufipogon
+0	RLC	O. rufipogon
+1.79	RLC	O. rufipogon
+1.78	RLC	O. rufipogon
+2.55	RLC	O. rufipogon
+2.33	RLC	O. rufipogon
+1.18	RLC	O. rufipogon
+1.16	RLC	O. rufipogon
+0.18	RLC	O. rufipogon
+0.57	RLC	O. rufipogon
+0.38	RLC	O. rufipogon
+0.99	RLC	O. rufipogon
+0.27	RLC	O. rufipogon
+2.1	RLC	O. rufipogon
+1.22	RLC	O. rufipogon
+1.3	RLC	O. rufipogon
+0.81	RLC	O. rufipogon
+2.31	RLC	O. rufipogon
+0.72	RLC	O. rufipogon
+0.69	RLC	O. rufipogon
+1.06	RLC	O. rufipogon
+1.94	RLC	O. rufipogon
+1.07	RLC	O. rufipogon
+1.79	RLC	O. rufipogon
+0.62	RLC	O. rufipogon
+0.32	RLC	O. rufipogon
